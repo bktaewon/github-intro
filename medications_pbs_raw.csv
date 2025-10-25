@@ -1,0 +1,481 @@
+state,sex,age_band,year,metric,value
+New South Wales,Male,5-11 (Primary),2019,medication_rate_per_1k,126.55
+New South Wales,Male,5-11 (Primary),2020,medication_rate_per_1k,96.0
+New South Wales,Male,5-11 (Primary),2021,medication_rate_per_1k,117.6
+New South Wales,Male,5-11 (Primary),2022,medication_rate_per_1k,117.77
+New South Wales,Male,5-11 (Primary),2023,medication_rate_per_1k,132.95
+New South Wales,Male,5-11 (Primary),2024,medication_rate_per_1k,101.8
+New South Wales,Male,12-14,2019,medication_rate_per_1k,130.79
+New South Wales,Male,12-14,2020,medication_rate_per_1k,158.26
+New South Wales,Male,12-14,2021,medication_rate_per_1k,96.25
+New South Wales,Male,12-14,2022,medication_rate_per_1k,140.76
+New South Wales,Male,12-14,2023,medication_rate_per_1k,117.45
+New South Wales,Male,12-14,2024,medication_rate_per_1k,126.06
+New South Wales,Male,15-17,2019,medication_rate_per_1k,119.4
+New South Wales,Male,15-17,2020,medication_rate_per_1k,131.33
+New South Wales,Male,15-17,2021,medication_rate_per_1k,133.71
+New South Wales,Male,15-17,2022,medication_rate_per_1k,162.14
+New South Wales,Male,15-17,2023,medication_rate_per_1k,159.01
+New South Wales,Male,15-17,2024,medication_rate_per_1k,162.84
+New South Wales,Male,18-21,2019,medication_rate_per_1k,173.98
+New South Wales,Male,18-21,2020,medication_rate_per_1k,133.57
+New South Wales,Male,18-21,2021,medication_rate_per_1k,160.8
+New South Wales,Male,18-21,2022,medication_rate_per_1k,168.5
+New South Wales,Male,18-21,2023,medication_rate_per_1k,114.0
+New South Wales,Male,18-21,2024,medication_rate_per_1k,156.95
+New South Wales,Male,22-24,2019,medication_rate_per_1k,153.7
+New South Wales,Male,22-24,2020,medication_rate_per_1k,125.71
+New South Wales,Male,22-24,2021,medication_rate_per_1k,157.73
+New South Wales,Male,22-24,2022,medication_rate_per_1k,161.92
+New South Wales,Male,22-24,2023,medication_rate_per_1k,159.38
+New South Wales,Male,22-24,2024,medication_rate_per_1k,111.45
+New South Wales,Female,5-11 (Primary),2019,medication_rate_per_1k,157.61
+New South Wales,Female,5-11 (Primary),2020,medication_rate_per_1k,120.34
+New South Wales,Female,5-11 (Primary),2021,medication_rate_per_1k,149.63
+New South Wales,Female,5-11 (Primary),2022,medication_rate_per_1k,107.53
+New South Wales,Female,5-11 (Primary),2023,medication_rate_per_1k,136.64
+New South Wales,Female,5-11 (Primary),2024,medication_rate_per_1k,101.27
+New South Wales,Female,12-14,2019,medication_rate_per_1k,140.9
+New South Wales,Female,12-14,2020,medication_rate_per_1k,147.1
+New South Wales,Female,12-14,2021,medication_rate_per_1k,129.28
+New South Wales,Female,12-14,2022,medication_rate_per_1k,151.95
+New South Wales,Female,12-14,2023,medication_rate_per_1k,135.25
+New South Wales,Female,12-14,2024,medication_rate_per_1k,106.61
+New South Wales,Female,15-17,2019,medication_rate_per_1k,110.81
+New South Wales,Female,15-17,2020,medication_rate_per_1k,111.65
+New South Wales,Female,15-17,2021,medication_rate_per_1k,132.44
+New South Wales,Female,15-17,2022,medication_rate_per_1k,174.86
+New South Wales,Female,15-17,2023,medication_rate_per_1k,131.68
+New South Wales,Female,15-17,2024,medication_rate_per_1k,166.69
+New South Wales,Female,18-21,2019,medication_rate_per_1k,161.91
+New South Wales,Female,18-21,2020,medication_rate_per_1k,166.32
+New South Wales,Female,18-21,2021,medication_rate_per_1k,162.76
+New South Wales,Female,18-21,2022,medication_rate_per_1k,128.49
+New South Wales,Female,18-21,2023,medication_rate_per_1k,179.09
+New South Wales,Female,18-21,2024,medication_rate_per_1k,144.82
+New South Wales,Female,22-24,2019,medication_rate_per_1k,192.35
+New South Wales,Female,22-24,2020,medication_rate_per_1k,119.74
+New South Wales,Female,22-24,2021,medication_rate_per_1k,127.59
+New South Wales,Female,22-24,2022,medication_rate_per_1k,129.1
+New South Wales,Female,22-24,2023,medication_rate_per_1k,175.97
+New South Wales,Female,22-24,2024,medication_rate_per_1k,126.96
+Victoria,Male,5-11 (Primary),2019,medication_rate_per_1k,115.9
+Victoria,Male,5-11 (Primary),2020,medication_rate_per_1k,120.81
+Victoria,Male,5-11 (Primary),2021,medication_rate_per_1k,120.84
+Victoria,Male,5-11 (Primary),2022,medication_rate_per_1k,107.68
+Victoria,Male,5-11 (Primary),2023,medication_rate_per_1k,142.91
+Victoria,Male,5-11 (Primary),2024,medication_rate_per_1k,117.15
+Victoria,Male,12-14,2019,medication_rate_per_1k,106.39
+Victoria,Male,12-14,2020,medication_rate_per_1k,130.66
+Victoria,Male,12-14,2021,medication_rate_per_1k,102.4
+Victoria,Male,12-14,2022,medication_rate_per_1k,137.76
+Victoria,Male,12-14,2023,medication_rate_per_1k,106.26
+Victoria,Male,12-14,2024,medication_rate_per_1k,151.79
+Victoria,Male,15-17,2019,medication_rate_per_1k,105.75
+Victoria,Male,15-17,2020,medication_rate_per_1k,121.26
+Victoria,Male,15-17,2021,medication_rate_per_1k,114.96
+Victoria,Male,15-17,2022,medication_rate_per_1k,138.67
+Victoria,Male,15-17,2023,medication_rate_per_1k,127.65
+Victoria,Male,15-17,2024,medication_rate_per_1k,130.8
+Victoria,Male,18-21,2019,medication_rate_per_1k,137.32
+Victoria,Male,18-21,2020,medication_rate_per_1k,148.89
+Victoria,Male,18-21,2021,medication_rate_per_1k,124.22
+Victoria,Male,18-21,2022,medication_rate_per_1k,128.45
+Victoria,Male,18-21,2023,medication_rate_per_1k,123.96
+Victoria,Male,18-21,2024,medication_rate_per_1k,115.97
+Victoria,Male,22-24,2019,medication_rate_per_1k,157.19
+Victoria,Male,22-24,2020,medication_rate_per_1k,180.12
+Victoria,Male,22-24,2021,medication_rate_per_1k,178.22
+Victoria,Male,22-24,2022,medication_rate_per_1k,182.41
+Victoria,Male,22-24,2023,medication_rate_per_1k,119.15
+Victoria,Male,22-24,2024,medication_rate_per_1k,164.02
+Victoria,Female,5-11 (Primary),2019,medication_rate_per_1k,102.35
+Victoria,Female,5-11 (Primary),2020,medication_rate_per_1k,150.49
+Victoria,Female,5-11 (Primary),2021,medication_rate_per_1k,152.37
+Victoria,Female,5-11 (Primary),2022,medication_rate_per_1k,128.65
+Victoria,Female,5-11 (Primary),2023,medication_rate_per_1k,161.66
+Victoria,Female,5-11 (Primary),2024,medication_rate_per_1k,127.63
+Victoria,Female,12-14,2019,medication_rate_per_1k,139.82
+Victoria,Female,12-14,2020,medication_rate_per_1k,125.92
+Victoria,Female,12-14,2021,medication_rate_per_1k,158.82
+Victoria,Female,12-14,2022,medication_rate_per_1k,141.37
+Victoria,Female,12-14,2023,medication_rate_per_1k,137.04
+Victoria,Female,12-14,2024,medication_rate_per_1k,131.85
+Victoria,Female,15-17,2019,medication_rate_per_1k,162.24
+Victoria,Female,15-17,2020,medication_rate_per_1k,113.2
+Victoria,Female,15-17,2021,medication_rate_per_1k,153.53
+Victoria,Female,15-17,2022,medication_rate_per_1k,113.26
+Victoria,Female,15-17,2023,medication_rate_per_1k,123.63
+Victoria,Female,15-17,2024,medication_rate_per_1k,110.38
+Victoria,Female,18-21,2019,medication_rate_per_1k,152.47
+Victoria,Female,18-21,2020,medication_rate_per_1k,184.49
+Victoria,Female,18-21,2021,medication_rate_per_1k,129.33
+Victoria,Female,18-21,2022,medication_rate_per_1k,121.77
+Victoria,Female,18-21,2023,medication_rate_per_1k,153.0
+Victoria,Female,18-21,2024,medication_rate_per_1k,114.83
+Victoria,Female,22-24,2019,medication_rate_per_1k,146.2
+Victoria,Female,22-24,2020,medication_rate_per_1k,153.68
+Victoria,Female,22-24,2021,medication_rate_per_1k,124.62
+Victoria,Female,22-24,2022,medication_rate_per_1k,188.57
+Victoria,Female,22-24,2023,medication_rate_per_1k,148.83
+Victoria,Female,22-24,2024,medication_rate_per_1k,164.89
+Queensland,Male,5-11 (Primary),2019,medication_rate_per_1k,96.76
+Queensland,Male,5-11 (Primary),2020,medication_rate_per_1k,148.1
+Queensland,Male,5-11 (Primary),2021,medication_rate_per_1k,100.91
+Queensland,Male,5-11 (Primary),2022,medication_rate_per_1k,117.97
+Queensland,Male,5-11 (Primary),2023,medication_rate_per_1k,95.3
+Queensland,Male,5-11 (Primary),2024,medication_rate_per_1k,99.43
+Queensland,Male,12-14,2019,medication_rate_per_1k,103.87
+Queensland,Male,12-14,2020,medication_rate_per_1k,119.74
+Queensland,Male,12-14,2021,medication_rate_per_1k,100.83
+Queensland,Male,12-14,2022,medication_rate_per_1k,124.89
+Queensland,Male,12-14,2023,medication_rate_per_1k,131.14
+Queensland,Male,12-14,2024,medication_rate_per_1k,107.36
+Queensland,Male,15-17,2019,medication_rate_per_1k,151.93
+Queensland,Male,15-17,2020,medication_rate_per_1k,105.6
+Queensland,Male,15-17,2021,medication_rate_per_1k,139.02
+Queensland,Male,15-17,2022,medication_rate_per_1k,154.77
+Queensland,Male,15-17,2023,medication_rate_per_1k,141.64
+Queensland,Male,15-17,2024,medication_rate_per_1k,100.8
+Queensland,Male,18-21,2019,medication_rate_per_1k,111.03
+Queensland,Male,18-21,2020,medication_rate_per_1k,108.99
+Queensland,Male,18-21,2021,medication_rate_per_1k,114.85
+Queensland,Male,18-21,2022,medication_rate_per_1k,142.85
+Queensland,Male,18-21,2023,medication_rate_per_1k,173.38
+Queensland,Male,18-21,2024,medication_rate_per_1k,131.75
+Queensland,Male,22-24,2019,medication_rate_per_1k,169.35
+Queensland,Male,22-24,2020,medication_rate_per_1k,131.0
+Queensland,Male,22-24,2021,medication_rate_per_1k,182.98
+Queensland,Male,22-24,2022,medication_rate_per_1k,139.32
+Queensland,Male,22-24,2023,medication_rate_per_1k,125.44
+Queensland,Male,22-24,2024,medication_rate_per_1k,125.16
+Queensland,Female,5-11 (Primary),2019,medication_rate_per_1k,104.93
+Queensland,Female,5-11 (Primary),2020,medication_rate_per_1k,102.79
+Queensland,Female,5-11 (Primary),2021,medication_rate_per_1k,157.73
+Queensland,Female,5-11 (Primary),2022,medication_rate_per_1k,144.51
+Queensland,Female,5-11 (Primary),2023,medication_rate_per_1k,106.96
+Queensland,Female,5-11 (Primary),2024,medication_rate_per_1k,136.64
+Queensland,Female,12-14,2019,medication_rate_per_1k,134.53
+Queensland,Female,12-14,2020,medication_rate_per_1k,107.69
+Queensland,Female,12-14,2021,medication_rate_per_1k,170.41
+Queensland,Female,12-14,2022,medication_rate_per_1k,118.96
+Queensland,Female,12-14,2023,medication_rate_per_1k,142.02
+Queensland,Female,12-14,2024,medication_rate_per_1k,127.44
+Queensland,Female,15-17,2019,medication_rate_per_1k,143.11
+Queensland,Female,15-17,2020,medication_rate_per_1k,179.34
+Queensland,Female,15-17,2021,medication_rate_per_1k,163.1
+Queensland,Female,15-17,2022,medication_rate_per_1k,125.16
+Queensland,Female,15-17,2023,medication_rate_per_1k,158.68
+Queensland,Female,15-17,2024,medication_rate_per_1k,141.45
+Queensland,Female,18-21,2019,medication_rate_per_1k,131.24
+Queensland,Female,18-21,2020,medication_rate_per_1k,155.4
+Queensland,Female,18-21,2021,medication_rate_per_1k,130.9
+Queensland,Female,18-21,2022,medication_rate_per_1k,174.55
+Queensland,Female,18-21,2023,medication_rate_per_1k,135.48
+Queensland,Female,18-21,2024,medication_rate_per_1k,120.69
+Queensland,Female,22-24,2019,medication_rate_per_1k,186.67
+Queensland,Female,22-24,2020,medication_rate_per_1k,131.88
+Queensland,Female,22-24,2021,medication_rate_per_1k,174.46
+Queensland,Female,22-24,2022,medication_rate_per_1k,187.13
+Queensland,Female,22-24,2023,medication_rate_per_1k,175.94
+Queensland,Female,22-24,2024,medication_rate_per_1k,193.53
+South Australia,Male,5-11 (Primary),2019,medication_rate_per_1k,106.23
+South Australia,Male,5-11 (Primary),2020,medication_rate_per_1k,112.38
+South Australia,Male,5-11 (Primary),2021,medication_rate_per_1k,128.12
+South Australia,Male,5-11 (Primary),2022,medication_rate_per_1k,97.05
+South Australia,Male,5-11 (Primary),2023,medication_rate_per_1k,149.3
+South Australia,Male,5-11 (Primary),2024,medication_rate_per_1k,129.6
+South Australia,Male,12-14,2019,medication_rate_per_1k,138.41
+South Australia,Male,12-14,2020,medication_rate_per_1k,132.32
+South Australia,Male,12-14,2021,medication_rate_per_1k,127.31
+South Australia,Male,12-14,2022,medication_rate_per_1k,107.6
+South Australia,Male,12-14,2023,medication_rate_per_1k,101.95
+South Australia,Male,12-14,2024,medication_rate_per_1k,111.41
+South Australia,Male,15-17,2019,medication_rate_per_1k,102.39
+South Australia,Male,15-17,2020,medication_rate_per_1k,142.28
+South Australia,Male,15-17,2021,medication_rate_per_1k,112.61
+South Australia,Male,15-17,2022,medication_rate_per_1k,162.21
+South Australia,Male,15-17,2023,medication_rate_per_1k,107.83
+South Australia,Male,15-17,2024,medication_rate_per_1k,121.94
+South Australia,Male,18-21,2019,medication_rate_per_1k,166.32
+South Australia,Male,18-21,2020,medication_rate_per_1k,149.56
+South Australia,Male,18-21,2021,medication_rate_per_1k,134.94
+South Australia,Male,18-21,2022,medication_rate_per_1k,157.32
+South Australia,Male,18-21,2023,medication_rate_per_1k,134.01
+South Australia,Male,18-21,2024,medication_rate_per_1k,116.79
+South Australia,Male,22-24,2019,medication_rate_per_1k,183.5
+South Australia,Male,22-24,2020,medication_rate_per_1k,175.55
+South Australia,Male,22-24,2021,medication_rate_per_1k,165.61
+South Australia,Male,22-24,2022,medication_rate_per_1k,131.77
+South Australia,Male,22-24,2023,medication_rate_per_1k,148.52
+South Australia,Male,22-24,2024,medication_rate_per_1k,117.5
+South Australia,Female,5-11 (Primary),2019,medication_rate_per_1k,99.98
+South Australia,Female,5-11 (Primary),2020,medication_rate_per_1k,158.99
+South Australia,Female,5-11 (Primary),2021,medication_rate_per_1k,124.67
+South Australia,Female,5-11 (Primary),2022,medication_rate_per_1k,111.7
+South Australia,Female,5-11 (Primary),2023,medication_rate_per_1k,148.78
+South Australia,Female,5-11 (Primary),2024,medication_rate_per_1k,131.69
+South Australia,Female,12-14,2019,medication_rate_per_1k,148.07
+South Australia,Female,12-14,2020,medication_rate_per_1k,110.17
+South Australia,Female,12-14,2021,medication_rate_per_1k,133.27
+South Australia,Female,12-14,2022,medication_rate_per_1k,130.71
+South Australia,Female,12-14,2023,medication_rate_per_1k,122.91
+South Australia,Female,12-14,2024,medication_rate_per_1k,114.96
+South Australia,Female,15-17,2019,medication_rate_per_1k,170.9
+South Australia,Female,15-17,2020,medication_rate_per_1k,161.45
+South Australia,Female,15-17,2021,medication_rate_per_1k,148.58
+South Australia,Female,15-17,2022,medication_rate_per_1k,127.66
+South Australia,Female,15-17,2023,medication_rate_per_1k,153.67
+South Australia,Female,15-17,2024,medication_rate_per_1k,137.58
+South Australia,Female,18-21,2019,medication_rate_per_1k,113.41
+South Australia,Female,18-21,2020,medication_rate_per_1k,160.25
+South Australia,Female,18-21,2021,medication_rate_per_1k,163.52
+South Australia,Female,18-21,2022,medication_rate_per_1k,185.91
+South Australia,Female,18-21,2023,medication_rate_per_1k,175.62
+South Australia,Female,18-21,2024,medication_rate_per_1k,119.2
+South Australia,Female,22-24,2019,medication_rate_per_1k,143.51
+South Australia,Female,22-24,2020,medication_rate_per_1k,121.96
+South Australia,Female,22-24,2021,medication_rate_per_1k,123.88
+South Australia,Female,22-24,2022,medication_rate_per_1k,155.24
+South Australia,Female,22-24,2023,medication_rate_per_1k,135.0
+South Australia,Female,22-24,2024,medication_rate_per_1k,123.3
+Western Australia,Male,5-11 (Primary),2019,medication_rate_per_1k,127.63
+Western Australia,Male,5-11 (Primary),2020,medication_rate_per_1k,145.29
+Western Australia,Male,5-11 (Primary),2021,medication_rate_per_1k,139.51
+Western Australia,Male,5-11 (Primary),2022,medication_rate_per_1k,93.21
+Western Australia,Male,5-11 (Primary),2023,medication_rate_per_1k,107.86
+Western Australia,Male,5-11 (Primary),2024,medication_rate_per_1k,92.27
+Western Australia,Male,12-14,2019,medication_rate_per_1k,121.96
+Western Australia,Male,12-14,2020,medication_rate_per_1k,154.67
+Western Australia,Male,12-14,2021,medication_rate_per_1k,107.49
+Western Australia,Male,12-14,2022,medication_rate_per_1k,141.64
+Western Australia,Male,12-14,2023,medication_rate_per_1k,126.72
+Western Australia,Male,12-14,2024,medication_rate_per_1k,128.25
+Western Australia,Male,15-17,2019,medication_rate_per_1k,156.32
+Western Australia,Male,15-17,2020,medication_rate_per_1k,121.34
+Western Australia,Male,15-17,2021,medication_rate_per_1k,122.28
+Western Australia,Male,15-17,2022,medication_rate_per_1k,149.94
+Western Australia,Male,15-17,2023,medication_rate_per_1k,109.91
+Western Australia,Male,15-17,2024,medication_rate_per_1k,107.67
+Western Australia,Male,18-21,2019,medication_rate_per_1k,134.67
+Western Australia,Male,18-21,2020,medication_rate_per_1k,133.52
+Western Australia,Male,18-21,2021,medication_rate_per_1k,127.07
+Western Australia,Male,18-21,2022,medication_rate_per_1k,123.64
+Western Australia,Male,18-21,2023,medication_rate_per_1k,167.82
+Western Australia,Male,18-21,2024,medication_rate_per_1k,134.64
+Western Australia,Male,22-24,2019,medication_rate_per_1k,133.86
+Western Australia,Male,22-24,2020,medication_rate_per_1k,169.23
+Western Australia,Male,22-24,2021,medication_rate_per_1k,173.6
+Western Australia,Male,22-24,2022,medication_rate_per_1k,162.87
+Western Australia,Male,22-24,2023,medication_rate_per_1k,182.35
+Western Australia,Male,22-24,2024,medication_rate_per_1k,120.09
+Western Australia,Female,5-11 (Primary),2019,medication_rate_per_1k,126.6
+Western Australia,Female,5-11 (Primary),2020,medication_rate_per_1k,150.22
+Western Australia,Female,5-11 (Primary),2021,medication_rate_per_1k,160.82
+Western Australia,Female,5-11 (Primary),2022,medication_rate_per_1k,110.38
+Western Australia,Female,5-11 (Primary),2023,medication_rate_per_1k,145.84
+Western Australia,Female,5-11 (Primary),2024,medication_rate_per_1k,111.24
+Western Australia,Female,12-14,2019,medication_rate_per_1k,129.99
+Western Australia,Female,12-14,2020,medication_rate_per_1k,154.2
+Western Australia,Female,12-14,2021,medication_rate_per_1k,155.51
+Western Australia,Female,12-14,2022,medication_rate_per_1k,106.68
+Western Australia,Female,12-14,2023,medication_rate_per_1k,120.25
+Western Australia,Female,12-14,2024,medication_rate_per_1k,168.72
+Western Australia,Female,15-17,2019,medication_rate_per_1k,148.95
+Western Australia,Female,15-17,2020,medication_rate_per_1k,149.64
+Western Australia,Female,15-17,2021,medication_rate_per_1k,126.4
+Western Australia,Female,15-17,2022,medication_rate_per_1k,140.45
+Western Australia,Female,15-17,2023,medication_rate_per_1k,127.52
+Western Australia,Female,15-17,2024,medication_rate_per_1k,117.9
+Western Australia,Female,18-21,2019,medication_rate_per_1k,134.76
+Western Australia,Female,18-21,2020,medication_rate_per_1k,155.34
+Western Australia,Female,18-21,2021,medication_rate_per_1k,152.78
+Western Australia,Female,18-21,2022,medication_rate_per_1k,152.85
+Western Australia,Female,18-21,2023,medication_rate_per_1k,139.22
+Western Australia,Female,18-21,2024,medication_rate_per_1k,146.17
+Western Australia,Female,22-24,2019,medication_rate_per_1k,187.52
+Western Australia,Female,22-24,2020,medication_rate_per_1k,191.18
+Western Australia,Female,22-24,2021,medication_rate_per_1k,189.4
+Western Australia,Female,22-24,2022,medication_rate_per_1k,137.07
+Western Australia,Female,22-24,2023,medication_rate_per_1k,168.65
+Western Australia,Female,22-24,2024,medication_rate_per_1k,179.15
+Tasmania,Male,5-11 (Primary),2019,medication_rate_per_1k,109.66
+Tasmania,Male,5-11 (Primary),2020,medication_rate_per_1k,118.63
+Tasmania,Male,5-11 (Primary),2021,medication_rate_per_1k,141.38
+Tasmania,Male,5-11 (Primary),2022,medication_rate_per_1k,132.19
+Tasmania,Male,5-11 (Primary),2023,medication_rate_per_1k,133.57
+Tasmania,Male,5-11 (Primary),2024,medication_rate_per_1k,94.79
+Tasmania,Male,12-14,2019,medication_rate_per_1k,98.6
+Tasmania,Male,12-14,2020,medication_rate_per_1k,139.03
+Tasmania,Male,12-14,2021,medication_rate_per_1k,131.62
+Tasmania,Male,12-14,2022,medication_rate_per_1k,106.11
+Tasmania,Male,12-14,2023,medication_rate_per_1k,95.53
+Tasmania,Male,12-14,2024,medication_rate_per_1k,110.2
+Tasmania,Male,15-17,2019,medication_rate_per_1k,142.23
+Tasmania,Male,15-17,2020,medication_rate_per_1k,124.78
+Tasmania,Male,15-17,2021,medication_rate_per_1k,144.08
+Tasmania,Male,15-17,2022,medication_rate_per_1k,110.76
+Tasmania,Male,15-17,2023,medication_rate_per_1k,143.95
+Tasmania,Male,15-17,2024,medication_rate_per_1k,107.98
+Tasmania,Male,18-21,2019,medication_rate_per_1k,168.9
+Tasmania,Male,18-21,2020,medication_rate_per_1k,123.81
+Tasmania,Male,18-21,2021,medication_rate_per_1k,106.07
+Tasmania,Male,18-21,2022,medication_rate_per_1k,162.22
+Tasmania,Male,18-21,2023,medication_rate_per_1k,128.37
+Tasmania,Male,18-21,2024,medication_rate_per_1k,134.6
+Tasmania,Male,22-24,2019,medication_rate_per_1k,121.68
+Tasmania,Male,22-24,2020,medication_rate_per_1k,126.05
+Tasmania,Male,22-24,2021,medication_rate_per_1k,140.52
+Tasmania,Male,22-24,2022,medication_rate_per_1k,132.56
+Tasmania,Male,22-24,2023,medication_rate_per_1k,148.4
+Tasmania,Male,22-24,2024,medication_rate_per_1k,130.77
+Tasmania,Female,5-11 (Primary),2019,medication_rate_per_1k,125.91
+Tasmania,Female,5-11 (Primary),2020,medication_rate_per_1k,99.39
+Tasmania,Female,5-11 (Primary),2021,medication_rate_per_1k,130.22
+Tasmania,Female,5-11 (Primary),2022,medication_rate_per_1k,136.56
+Tasmania,Female,5-11 (Primary),2023,medication_rate_per_1k,155.9
+Tasmania,Female,5-11 (Primary),2024,medication_rate_per_1k,144.01
+Tasmania,Female,12-14,2019,medication_rate_per_1k,108.14
+Tasmania,Female,12-14,2020,medication_rate_per_1k,127.73
+Tasmania,Female,12-14,2021,medication_rate_per_1k,154.76
+Tasmania,Female,12-14,2022,medication_rate_per_1k,151.95
+Tasmania,Female,12-14,2023,medication_rate_per_1k,106.41
+Tasmania,Female,12-14,2024,medication_rate_per_1k,104.68
+Tasmania,Female,15-17,2019,medication_rate_per_1k,143.7
+Tasmania,Female,15-17,2020,medication_rate_per_1k,140.22
+Tasmania,Female,15-17,2021,medication_rate_per_1k,117.88
+Tasmania,Female,15-17,2022,medication_rate_per_1k,127.07
+Tasmania,Female,15-17,2023,medication_rate_per_1k,133.17
+Tasmania,Female,15-17,2024,medication_rate_per_1k,164.68
+Tasmania,Female,18-21,2019,medication_rate_per_1k,132.83
+Tasmania,Female,18-21,2020,medication_rate_per_1k,174.08
+Tasmania,Female,18-21,2021,medication_rate_per_1k,176.68
+Tasmania,Female,18-21,2022,medication_rate_per_1k,131.89
+Tasmania,Female,18-21,2023,medication_rate_per_1k,177.64
+Tasmania,Female,18-21,2024,medication_rate_per_1k,119.35
+Tasmania,Female,22-24,2019,medication_rate_per_1k,148.72
+Tasmania,Female,22-24,2020,medication_rate_per_1k,126.36
+Tasmania,Female,22-24,2021,medication_rate_per_1k,144.03
+Tasmania,Female,22-24,2022,medication_rate_per_1k,140.87
+Tasmania,Female,22-24,2023,medication_rate_per_1k,178.64
+Tasmania,Female,22-24,2024,medication_rate_per_1k,184.25
+Northern Territory,Male,5-11 (Primary),2019,medication_rate_per_1k,110.04
+Northern Territory,Male,5-11 (Primary),2020,medication_rate_per_1k,110.35
+Northern Territory,Male,5-11 (Primary),2021,medication_rate_per_1k,147.88
+Northern Territory,Male,5-11 (Primary),2022,medication_rate_per_1k,99.74
+Northern Territory,Male,5-11 (Primary),2023,medication_rate_per_1k,118.39
+Northern Territory,Male,5-11 (Primary),2024,medication_rate_per_1k,125.52
+Northern Territory,Male,12-14,2019,medication_rate_per_1k,137.03
+Northern Territory,Male,12-14,2020,medication_rate_per_1k,105.0
+Northern Territory,Male,12-14,2021,medication_rate_per_1k,115.39
+Northern Territory,Male,12-14,2022,medication_rate_per_1k,104.67
+Northern Territory,Male,12-14,2023,medication_rate_per_1k,143.32
+Northern Territory,Male,12-14,2024,medication_rate_per_1k,141.45
+Northern Territory,Male,15-17,2019,medication_rate_per_1k,155.56
+Northern Territory,Male,15-17,2020,medication_rate_per_1k,129.27
+Northern Territory,Male,15-17,2021,medication_rate_per_1k,101.77
+Northern Territory,Male,15-17,2022,medication_rate_per_1k,160.77
+Northern Territory,Male,15-17,2023,medication_rate_per_1k,107.57
+Northern Territory,Male,15-17,2024,medication_rate_per_1k,115.52
+Northern Territory,Male,18-21,2019,medication_rate_per_1k,107.92
+Northern Territory,Male,18-21,2020,medication_rate_per_1k,133.63
+Northern Territory,Male,18-21,2021,medication_rate_per_1k,154.7
+Northern Territory,Male,18-21,2022,medication_rate_per_1k,171.24
+Northern Territory,Male,18-21,2023,medication_rate_per_1k,144.4
+Northern Territory,Male,18-21,2024,medication_rate_per_1k,111.91
+Northern Territory,Male,22-24,2019,medication_rate_per_1k,176.43
+Northern Territory,Male,22-24,2020,medication_rate_per_1k,118.29
+Northern Territory,Male,22-24,2021,medication_rate_per_1k,126.09
+Northern Territory,Male,22-24,2022,medication_rate_per_1k,127.29
+Northern Territory,Male,22-24,2023,medication_rate_per_1k,176.57
+Northern Territory,Male,22-24,2024,medication_rate_per_1k,141.32
+Northern Territory,Female,5-11 (Primary),2019,medication_rate_per_1k,152.32
+Northern Territory,Female,5-11 (Primary),2020,medication_rate_per_1k,133.69
+Northern Territory,Female,5-11 (Primary),2021,medication_rate_per_1k,128.56
+Northern Territory,Female,5-11 (Primary),2022,medication_rate_per_1k,148.66
+Northern Territory,Female,5-11 (Primary),2023,medication_rate_per_1k,111.21
+Northern Territory,Female,5-11 (Primary),2024,medication_rate_per_1k,115.16
+Northern Territory,Female,12-14,2019,medication_rate_per_1k,165.18
+Northern Territory,Female,12-14,2020,medication_rate_per_1k,144.11
+Northern Territory,Female,12-14,2021,medication_rate_per_1k,128.83
+Northern Territory,Female,12-14,2022,medication_rate_per_1k,145.85
+Northern Territory,Female,12-14,2023,medication_rate_per_1k,154.08
+Northern Territory,Female,12-14,2024,medication_rate_per_1k,151.53
+Northern Territory,Female,15-17,2019,medication_rate_per_1k,144.42
+Northern Territory,Female,15-17,2020,medication_rate_per_1k,152.93
+Northern Territory,Female,15-17,2021,medication_rate_per_1k,125.04
+Northern Territory,Female,15-17,2022,medication_rate_per_1k,142.71
+Northern Territory,Female,15-17,2023,medication_rate_per_1k,171.56
+Northern Territory,Female,15-17,2024,medication_rate_per_1k,173.83
+Northern Territory,Female,18-21,2019,medication_rate_per_1k,114.9
+Northern Territory,Female,18-21,2020,medication_rate_per_1k,132.46
+Northern Territory,Female,18-21,2021,medication_rate_per_1k,133.0
+Northern Territory,Female,18-21,2022,medication_rate_per_1k,137.97
+Northern Territory,Female,18-21,2023,medication_rate_per_1k,136.18
+Northern Territory,Female,18-21,2024,medication_rate_per_1k,134.48
+Northern Territory,Female,22-24,2019,medication_rate_per_1k,155.89
+Northern Territory,Female,22-24,2020,medication_rate_per_1k,137.54
+Northern Territory,Female,22-24,2021,medication_rate_per_1k,176.19
+Northern Territory,Female,22-24,2022,medication_rate_per_1k,120.78
+Northern Territory,Female,22-24,2023,medication_rate_per_1k,194.57
+Northern Territory,Female,22-24,2024,medication_rate_per_1k,133.39
+Australian Capital Territory,Male,5-11 (Primary),2019,medication_rate_per_1k,143.66
+Australian Capital Territory,Male,5-11 (Primary),2020,medication_rate_per_1k,130.76
+Australian Capital Territory,Male,5-11 (Primary),2021,medication_rate_per_1k,143.04
+Australian Capital Territory,Male,5-11 (Primary),2022,medication_rate_per_1k,116.1
+Australian Capital Territory,Male,5-11 (Primary),2023,medication_rate_per_1k,109.43
+Australian Capital Territory,Male,5-11 (Primary),2024,medication_rate_per_1k,126.63
+Australian Capital Territory,Male,12-14,2019,medication_rate_per_1k,107.66
+Australian Capital Territory,Male,12-14,2020,medication_rate_per_1k,121.98
+Australian Capital Territory,Male,12-14,2021,medication_rate_per_1k,129.65
+Australian Capital Territory,Male,12-14,2022,medication_rate_per_1k,103.09
+Australian Capital Territory,Male,12-14,2023,medication_rate_per_1k,146.14
+Australian Capital Territory,Male,12-14,2024,medication_rate_per_1k,124.36
+Australian Capital Territory,Male,15-17,2019,medication_rate_per_1k,136.14
+Australian Capital Territory,Male,15-17,2020,medication_rate_per_1k,145.99
+Australian Capital Territory,Male,15-17,2021,medication_rate_per_1k,160.69
+Australian Capital Territory,Male,15-17,2022,medication_rate_per_1k,109.71
+Australian Capital Territory,Male,15-17,2023,medication_rate_per_1k,113.35
+Australian Capital Territory,Male,15-17,2024,medication_rate_per_1k,108.79
+Australian Capital Territory,Male,18-21,2019,medication_rate_per_1k,173.63
+Australian Capital Territory,Male,18-21,2020,medication_rate_per_1k,136.15
+Australian Capital Territory,Male,18-21,2021,medication_rate_per_1k,156.38
+Australian Capital Territory,Male,18-21,2022,medication_rate_per_1k,117.48
+Australian Capital Territory,Male,18-21,2023,medication_rate_per_1k,171.17
+Australian Capital Territory,Male,18-21,2024,medication_rate_per_1k,114.6
+Australian Capital Territory,Male,22-24,2019,medication_rate_per_1k,160.97
+Australian Capital Territory,Male,22-24,2020,medication_rate_per_1k,112.97
+Australian Capital Territory,Male,22-24,2021,medication_rate_per_1k,174.96
+Australian Capital Territory,Male,22-24,2022,medication_rate_per_1k,139.73
+Australian Capital Territory,Male,22-24,2023,medication_rate_per_1k,157.47
+Australian Capital Territory,Male,22-24,2024,medication_rate_per_1k,155.35
+Australian Capital Territory,Female,5-11 (Primary),2019,medication_rate_per_1k,110.67
+Australian Capital Territory,Female,5-11 (Primary),2020,medication_rate_per_1k,127.04
+Australian Capital Territory,Female,5-11 (Primary),2021,medication_rate_per_1k,97.66
+Australian Capital Territory,Female,5-11 (Primary),2022,medication_rate_per_1k,148.41
+Australian Capital Territory,Female,5-11 (Primary),2023,medication_rate_per_1k,127.1
+Australian Capital Territory,Female,5-11 (Primary),2024,medication_rate_per_1k,115.54
+Australian Capital Territory,Female,12-14,2019,medication_rate_per_1k,129.72
+Australian Capital Territory,Female,12-14,2020,medication_rate_per_1k,130.7
+Australian Capital Territory,Female,12-14,2021,medication_rate_per_1k,113.67
+Australian Capital Territory,Female,12-14,2022,medication_rate_per_1k,127.84
+Australian Capital Territory,Female,12-14,2023,medication_rate_per_1k,149.09
+Australian Capital Territory,Female,12-14,2024,medication_rate_per_1k,141.07
+Australian Capital Territory,Female,15-17,2019,medication_rate_per_1k,179.43
+Australian Capital Territory,Female,15-17,2020,medication_rate_per_1k,161.91
+Australian Capital Territory,Female,15-17,2021,medication_rate_per_1k,167.64
+Australian Capital Territory,Female,15-17,2022,medication_rate_per_1k,118.59
+Australian Capital Territory,Female,15-17,2023,medication_rate_per_1k,145.47
+Australian Capital Territory,Female,15-17,2024,medication_rate_per_1k,125.6
+Australian Capital Territory,Female,18-21,2019,medication_rate_per_1k,131.29
+Australian Capital Territory,Female,18-21,2020,medication_rate_per_1k,138.11
+Australian Capital Territory,Female,18-21,2021,medication_rate_per_1k,156.23
+Australian Capital Territory,Female,18-21,2022,medication_rate_per_1k,144.55
+Australian Capital Territory,Female,18-21,2023,medication_rate_per_1k,143.31
+Australian Capital Territory,Female,18-21,2024,medication_rate_per_1k,140.84
+Australian Capital Territory,Female,22-24,2019,medication_rate_per_1k,196.43
+Australian Capital Territory,Female,22-24,2020,medication_rate_per_1k,151.87
+Australian Capital Territory,Female,22-24,2021,medication_rate_per_1k,191.06
+Australian Capital Territory,Female,22-24,2022,medication_rate_per_1k,196.94
+Australian Capital Territory,Female,22-24,2023,medication_rate_per_1k,167.57
+Australian Capital Territory,Female,22-24,2024,medication_rate_per_1k,195.67

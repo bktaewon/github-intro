@@ -1,0 +1,481 @@
+state,sex,age_band,year,metric,value
+New South Wales,Male,5-11 (Primary),2019,digital_contacts_per_1k,107.48
+New South Wales,Male,5-11 (Primary),2020,digital_contacts_per_1k,118.63
+New South Wales,Male,5-11 (Primary),2021,digital_contacts_per_1k,92.79
+New South Wales,Male,5-11 (Primary),2022,digital_contacts_per_1k,138.27
+New South Wales,Male,5-11 (Primary),2023,digital_contacts_per_1k,131.84
+New South Wales,Male,5-11 (Primary),2024,digital_contacts_per_1k,153.69
+New South Wales,Male,12-14,2019,digital_contacts_per_1k,106.95
+New South Wales,Male,12-14,2020,digital_contacts_per_1k,115.72
+New South Wales,Male,12-14,2021,digital_contacts_per_1k,133.39
+New South Wales,Male,12-14,2022,digital_contacts_per_1k,137.04
+New South Wales,Male,12-14,2023,digital_contacts_per_1k,127.18
+New South Wales,Male,12-14,2024,digital_contacts_per_1k,133.42
+New South Wales,Male,15-17,2019,digital_contacts_per_1k,124.69
+New South Wales,Male,15-17,2020,digital_contacts_per_1k,102.33
+New South Wales,Male,15-17,2021,digital_contacts_per_1k,115.03
+New South Wales,Male,15-17,2022,digital_contacts_per_1k,110.63
+New South Wales,Male,15-17,2023,digital_contacts_per_1k,128.18
+New South Wales,Male,15-17,2024,digital_contacts_per_1k,149.88
+New South Wales,Male,18-21,2019,digital_contacts_per_1k,96.53
+New South Wales,Male,18-21,2020,digital_contacts_per_1k,114.5
+New South Wales,Male,18-21,2021,digital_contacts_per_1k,131.48
+New South Wales,Male,18-21,2022,digital_contacts_per_1k,127.85
+New South Wales,Male,18-21,2023,digital_contacts_per_1k,156.49
+New South Wales,Male,18-21,2024,digital_contacts_per_1k,150.92
+New South Wales,Male,22-24,2019,digital_contacts_per_1k,106.95
+New South Wales,Male,22-24,2020,digital_contacts_per_1k,134.06
+New South Wales,Male,22-24,2021,digital_contacts_per_1k,133.83
+New South Wales,Male,22-24,2022,digital_contacts_per_1k,136.31
+New South Wales,Male,22-24,2023,digital_contacts_per_1k,127.07
+New South Wales,Male,22-24,2024,digital_contacts_per_1k,185.19
+New South Wales,Female,5-11 (Primary),2019,digital_contacts_per_1k,82.61
+New South Wales,Female,5-11 (Primary),2020,digital_contacts_per_1k,98.25
+New South Wales,Female,5-11 (Primary),2021,digital_contacts_per_1k,114.8
+New South Wales,Female,5-11 (Primary),2022,digital_contacts_per_1k,139.62
+New South Wales,Female,5-11 (Primary),2023,digital_contacts_per_1k,116.91
+New South Wales,Female,5-11 (Primary),2024,digital_contacts_per_1k,114.19
+New South Wales,Female,12-14,2019,digital_contacts_per_1k,108.27
+New South Wales,Female,12-14,2020,digital_contacts_per_1k,127.48
+New South Wales,Female,12-14,2021,digital_contacts_per_1k,113.77
+New South Wales,Female,12-14,2022,digital_contacts_per_1k,148.7
+New South Wales,Female,12-14,2023,digital_contacts_per_1k,122.6
+New South Wales,Female,12-14,2024,digital_contacts_per_1k,161.31
+New South Wales,Female,15-17,2019,digital_contacts_per_1k,84.06
+New South Wales,Female,15-17,2020,digital_contacts_per_1k,121.12
+New South Wales,Female,15-17,2021,digital_contacts_per_1k,139.64
+New South Wales,Female,15-17,2022,digital_contacts_per_1k,117.64
+New South Wales,Female,15-17,2023,digital_contacts_per_1k,156.06
+New South Wales,Female,15-17,2024,digital_contacts_per_1k,150.77
+New South Wales,Female,18-21,2019,digital_contacts_per_1k,102.09
+New South Wales,Female,18-21,2020,digital_contacts_per_1k,96.43
+New South Wales,Female,18-21,2021,digital_contacts_per_1k,134.15
+New South Wales,Female,18-21,2022,digital_contacts_per_1k,127.32
+New South Wales,Female,18-21,2023,digital_contacts_per_1k,144.48
+New South Wales,Female,18-21,2024,digital_contacts_per_1k,131.92
+New South Wales,Female,22-24,2019,digital_contacts_per_1k,92.89
+New South Wales,Female,22-24,2020,digital_contacts_per_1k,103.17
+New South Wales,Female,22-24,2021,digital_contacts_per_1k,138.38
+New South Wales,Female,22-24,2022,digital_contacts_per_1k,118.29
+New South Wales,Female,22-24,2023,digital_contacts_per_1k,135.1
+New South Wales,Female,22-24,2024,digital_contacts_per_1k,160.7
+Victoria,Male,5-11 (Primary),2019,digital_contacts_per_1k,86.38
+Victoria,Male,5-11 (Primary),2020,digital_contacts_per_1k,101.88
+Victoria,Male,5-11 (Primary),2021,digital_contacts_per_1k,107.11
+Victoria,Male,5-11 (Primary),2022,digital_contacts_per_1k,132.2
+Victoria,Male,5-11 (Primary),2023,digital_contacts_per_1k,122.09
+Victoria,Male,5-11 (Primary),2024,digital_contacts_per_1k,123.28
+Victoria,Male,12-14,2019,digital_contacts_per_1k,119.44
+Victoria,Male,12-14,2020,digital_contacts_per_1k,93.87
+Victoria,Male,12-14,2021,digital_contacts_per_1k,122.51
+Victoria,Male,12-14,2022,digital_contacts_per_1k,130.14
+Victoria,Male,12-14,2023,digital_contacts_per_1k,124.06
+Victoria,Male,12-14,2024,digital_contacts_per_1k,153.64
+Victoria,Male,15-17,2019,digital_contacts_per_1k,115.66
+Victoria,Male,15-17,2020,digital_contacts_per_1k,111.93
+Victoria,Male,15-17,2021,digital_contacts_per_1k,112.44
+Victoria,Male,15-17,2022,digital_contacts_per_1k,109.04
+Victoria,Male,15-17,2023,digital_contacts_per_1k,157.27
+Victoria,Male,15-17,2024,digital_contacts_per_1k,173.06
+Victoria,Male,18-21,2019,digital_contacts_per_1k,100.34
+Victoria,Male,18-21,2020,digital_contacts_per_1k,109.51
+Victoria,Male,18-21,2021,digital_contacts_per_1k,133.35
+Victoria,Male,18-21,2022,digital_contacts_per_1k,148.95
+Victoria,Male,18-21,2023,digital_contacts_per_1k,161.62
+Victoria,Male,18-21,2024,digital_contacts_per_1k,166.07
+Victoria,Male,22-24,2019,digital_contacts_per_1k,123.3
+Victoria,Male,22-24,2020,digital_contacts_per_1k,129.0
+Victoria,Male,22-24,2021,digital_contacts_per_1k,105.56
+Victoria,Male,22-24,2022,digital_contacts_per_1k,138.43
+Victoria,Male,22-24,2023,digital_contacts_per_1k,159.26
+Victoria,Male,22-24,2024,digital_contacts_per_1k,142.77
+Victoria,Female,5-11 (Primary),2019,digital_contacts_per_1k,85.38
+Victoria,Female,5-11 (Primary),2020,digital_contacts_per_1k,99.41
+Victoria,Female,5-11 (Primary),2021,digital_contacts_per_1k,112.97
+Victoria,Female,5-11 (Primary),2022,digital_contacts_per_1k,95.72
+Victoria,Female,5-11 (Primary),2023,digital_contacts_per_1k,139.78
+Victoria,Female,5-11 (Primary),2024,digital_contacts_per_1k,146.27
+Victoria,Female,12-14,2019,digital_contacts_per_1k,88.99
+Victoria,Female,12-14,2020,digital_contacts_per_1k,97.14
+Victoria,Female,12-14,2021,digital_contacts_per_1k,100.9
+Victoria,Female,12-14,2022,digital_contacts_per_1k,119.63
+Victoria,Female,12-14,2023,digital_contacts_per_1k,156.28
+Victoria,Female,12-14,2024,digital_contacts_per_1k,133.88
+Victoria,Female,15-17,2019,digital_contacts_per_1k,122.89
+Victoria,Female,15-17,2020,digital_contacts_per_1k,98.59
+Victoria,Female,15-17,2021,digital_contacts_per_1k,108.39
+Victoria,Female,15-17,2022,digital_contacts_per_1k,129.36
+Victoria,Female,15-17,2023,digital_contacts_per_1k,117.88
+Victoria,Female,15-17,2024,digital_contacts_per_1k,122.57
+Victoria,Female,18-21,2019,digital_contacts_per_1k,117.48
+Victoria,Female,18-21,2020,digital_contacts_per_1k,110.56
+Victoria,Female,18-21,2021,digital_contacts_per_1k,136.02
+Victoria,Female,18-21,2022,digital_contacts_per_1k,119.38
+Victoria,Female,18-21,2023,digital_contacts_per_1k,130.63
+Victoria,Female,18-21,2024,digital_contacts_per_1k,173.57
+Victoria,Female,22-24,2019,digital_contacts_per_1k,118.66
+Victoria,Female,22-24,2020,digital_contacts_per_1k,104.43
+Victoria,Female,22-24,2021,digital_contacts_per_1k,126.84
+Victoria,Female,22-24,2022,digital_contacts_per_1k,116.76
+Victoria,Female,22-24,2023,digital_contacts_per_1k,121.49
+Victoria,Female,22-24,2024,digital_contacts_per_1k,158.98
+Queensland,Male,5-11 (Primary),2019,digital_contacts_per_1k,80.25
+Queensland,Male,5-11 (Primary),2020,digital_contacts_per_1k,91.23
+Queensland,Male,5-11 (Primary),2021,digital_contacts_per_1k,92.02
+Queensland,Male,5-11 (Primary),2022,digital_contacts_per_1k,100.5
+Queensland,Male,5-11 (Primary),2023,digital_contacts_per_1k,124.38
+Queensland,Male,5-11 (Primary),2024,digital_contacts_per_1k,116.95
+Queensland,Male,12-14,2019,digital_contacts_per_1k,92.58
+Queensland,Male,12-14,2020,digital_contacts_per_1k,105.2
+Queensland,Male,12-14,2021,digital_contacts_per_1k,101.81
+Queensland,Male,12-14,2022,digital_contacts_per_1k,105.89
+Queensland,Male,12-14,2023,digital_contacts_per_1k,113.4
+Queensland,Male,12-14,2024,digital_contacts_per_1k,164.71
+Queensland,Male,15-17,2019,digital_contacts_per_1k,98.65
+Queensland,Male,15-17,2020,digital_contacts_per_1k,110.99
+Queensland,Male,15-17,2021,digital_contacts_per_1k,133.24
+Queensland,Male,15-17,2022,digital_contacts_per_1k,143.82
+Queensland,Male,15-17,2023,digital_contacts_per_1k,147.73
+Queensland,Male,15-17,2024,digital_contacts_per_1k,167.73
+Queensland,Male,18-21,2019,digital_contacts_per_1k,111.44
+Queensland,Male,18-21,2020,digital_contacts_per_1k,102.23
+Queensland,Male,18-21,2021,digital_contacts_per_1k,131.66
+Queensland,Male,18-21,2022,digital_contacts_per_1k,131.45
+Queensland,Male,18-21,2023,digital_contacts_per_1k,160.72
+Queensland,Male,18-21,2024,digital_contacts_per_1k,134.58
+Queensland,Male,22-24,2019,digital_contacts_per_1k,123.15
+Queensland,Male,22-24,2020,digital_contacts_per_1k,98.9
+Queensland,Male,22-24,2021,digital_contacts_per_1k,124.87
+Queensland,Male,22-24,2022,digital_contacts_per_1k,130.44
+Queensland,Male,22-24,2023,digital_contacts_per_1k,123.15
+Queensland,Male,22-24,2024,digital_contacts_per_1k,174.89
+Queensland,Female,5-11 (Primary),2019,digital_contacts_per_1k,107.42
+Queensland,Female,5-11 (Primary),2020,digital_contacts_per_1k,92.72
+Queensland,Female,5-11 (Primary),2021,digital_contacts_per_1k,120.39
+Queensland,Female,5-11 (Primary),2022,digital_contacts_per_1k,138.14
+Queensland,Female,5-11 (Primary),2023,digital_contacts_per_1k,131.07
+Queensland,Female,5-11 (Primary),2024,digital_contacts_per_1k,127.91
+Queensland,Female,12-14,2019,digital_contacts_per_1k,107.29
+Queensland,Female,12-14,2020,digital_contacts_per_1k,103.48
+Queensland,Female,12-14,2021,digital_contacts_per_1k,119.32
+Queensland,Female,12-14,2022,digital_contacts_per_1k,132.0
+Queensland,Female,12-14,2023,digital_contacts_per_1k,121.06
+Queensland,Female,12-14,2024,digital_contacts_per_1k,149.09
+Queensland,Female,15-17,2019,digital_contacts_per_1k,105.33
+Queensland,Female,15-17,2020,digital_contacts_per_1k,117.21
+Queensland,Female,15-17,2021,digital_contacts_per_1k,110.79
+Queensland,Female,15-17,2022,digital_contacts_per_1k,141.68
+Queensland,Female,15-17,2023,digital_contacts_per_1k,117.78
+Queensland,Female,15-17,2024,digital_contacts_per_1k,143.89
+Queensland,Female,18-21,2019,digital_contacts_per_1k,111.4
+Queensland,Female,18-21,2020,digital_contacts_per_1k,94.79
+Queensland,Female,18-21,2021,digital_contacts_per_1k,140.98
+Queensland,Female,18-21,2022,digital_contacts_per_1k,136.92
+Queensland,Female,18-21,2023,digital_contacts_per_1k,118.08
+Queensland,Female,18-21,2024,digital_contacts_per_1k,170.93
+Queensland,Female,22-24,2019,digital_contacts_per_1k,124.67
+Queensland,Female,22-24,2020,digital_contacts_per_1k,143.4
+Queensland,Female,22-24,2021,digital_contacts_per_1k,140.53
+Queensland,Female,22-24,2022,digital_contacts_per_1k,139.19
+Queensland,Female,22-24,2023,digital_contacts_per_1k,164.08
+Queensland,Female,22-24,2024,digital_contacts_per_1k,146.23
+South Australia,Male,5-11 (Primary),2019,digital_contacts_per_1k,92.55
+South Australia,Male,5-11 (Primary),2020,digital_contacts_per_1k,97.07
+South Australia,Male,5-11 (Primary),2021,digital_contacts_per_1k,103.28
+South Australia,Male,5-11 (Primary),2022,digital_contacts_per_1k,140.1
+South Australia,Male,5-11 (Primary),2023,digital_contacts_per_1k,127.33
+South Australia,Male,5-11 (Primary),2024,digital_contacts_per_1k,135.4
+South Australia,Male,12-14,2019,digital_contacts_per_1k,95.14
+South Australia,Male,12-14,2020,digital_contacts_per_1k,100.56
+South Australia,Male,12-14,2021,digital_contacts_per_1k,103.52
+South Australia,Male,12-14,2022,digital_contacts_per_1k,146.28
+South Australia,Male,12-14,2023,digital_contacts_per_1k,144.28
+South Australia,Male,12-14,2024,digital_contacts_per_1k,138.94
+South Australia,Male,15-17,2019,digital_contacts_per_1k,109.1
+South Australia,Male,15-17,2020,digital_contacts_per_1k,128.31
+South Australia,Male,15-17,2021,digital_contacts_per_1k,114.71
+South Australia,Male,15-17,2022,digital_contacts_per_1k,117.76
+South Australia,Male,15-17,2023,digital_contacts_per_1k,135.75
+South Australia,Male,15-17,2024,digital_contacts_per_1k,142.69
+South Australia,Male,18-21,2019,digital_contacts_per_1k,124.56
+South Australia,Male,18-21,2020,digital_contacts_per_1k,136.62
+South Australia,Male,18-21,2021,digital_contacts_per_1k,144.09
+South Australia,Male,18-21,2022,digital_contacts_per_1k,144.41
+South Australia,Male,18-21,2023,digital_contacts_per_1k,143.59
+South Australia,Male,18-21,2024,digital_contacts_per_1k,130.48
+South Australia,Male,22-24,2019,digital_contacts_per_1k,134.84
+South Australia,Male,22-24,2020,digital_contacts_per_1k,140.43
+South Australia,Male,22-24,2021,digital_contacts_per_1k,132.37
+South Australia,Male,22-24,2022,digital_contacts_per_1k,153.13
+South Australia,Male,22-24,2023,digital_contacts_per_1k,170.47
+South Australia,Male,22-24,2024,digital_contacts_per_1k,142.88
+South Australia,Female,5-11 (Primary),2019,digital_contacts_per_1k,97.8
+South Australia,Female,5-11 (Primary),2020,digital_contacts_per_1k,121.91
+South Australia,Female,5-11 (Primary),2021,digital_contacts_per_1k,98.72
+South Australia,Female,5-11 (Primary),2022,digital_contacts_per_1k,102.35
+South Australia,Female,5-11 (Primary),2023,digital_contacts_per_1k,149.82
+South Australia,Female,5-11 (Primary),2024,digital_contacts_per_1k,155.3
+South Australia,Female,12-14,2019,digital_contacts_per_1k,81.75
+South Australia,Female,12-14,2020,digital_contacts_per_1k,111.46
+South Australia,Female,12-14,2021,digital_contacts_per_1k,122.75
+South Australia,Female,12-14,2022,digital_contacts_per_1k,134.76
+South Australia,Female,12-14,2023,digital_contacts_per_1k,138.14
+South Australia,Female,12-14,2024,digital_contacts_per_1k,143.5
+South Australia,Female,15-17,2019,digital_contacts_per_1k,109.52
+South Australia,Female,15-17,2020,digital_contacts_per_1k,118.41
+South Australia,Female,15-17,2021,digital_contacts_per_1k,101.27
+South Australia,Female,15-17,2022,digital_contacts_per_1k,112.18
+South Australia,Female,15-17,2023,digital_contacts_per_1k,125.28
+South Australia,Female,15-17,2024,digital_contacts_per_1k,169.82
+South Australia,Female,18-21,2019,digital_contacts_per_1k,108.55
+South Australia,Female,18-21,2020,digital_contacts_per_1k,123.36
+South Australia,Female,18-21,2021,digital_contacts_per_1k,149.61
+South Australia,Female,18-21,2022,digital_contacts_per_1k,112.58
+South Australia,Female,18-21,2023,digital_contacts_per_1k,124.53
+South Australia,Female,18-21,2024,digital_contacts_per_1k,136.88
+South Australia,Female,22-24,2019,digital_contacts_per_1k,134.28
+South Australia,Female,22-24,2020,digital_contacts_per_1k,133.73
+South Australia,Female,22-24,2021,digital_contacts_per_1k,111.64
+South Australia,Female,22-24,2022,digital_contacts_per_1k,115.15
+South Australia,Female,22-24,2023,digital_contacts_per_1k,127.59
+South Australia,Female,22-24,2024,digital_contacts_per_1k,180.77
+Western Australia,Male,5-11 (Primary),2019,digital_contacts_per_1k,92.0
+Western Australia,Male,5-11 (Primary),2020,digital_contacts_per_1k,118.23
+Western Australia,Male,5-11 (Primary),2021,digital_contacts_per_1k,126.39
+Western Australia,Male,5-11 (Primary),2022,digital_contacts_per_1k,141.2
+Western Australia,Male,5-11 (Primary),2023,digital_contacts_per_1k,129.15
+Western Australia,Male,5-11 (Primary),2024,digital_contacts_per_1k,122.76
+Western Australia,Male,12-14,2019,digital_contacts_per_1k,100.58
+Western Australia,Male,12-14,2020,digital_contacts_per_1k,124.99
+Western Australia,Male,12-14,2021,digital_contacts_per_1k,136.79
+Western Australia,Male,12-14,2022,digital_contacts_per_1k,118.93
+Western Australia,Male,12-14,2023,digital_contacts_per_1k,131.32
+Western Australia,Male,12-14,2024,digital_contacts_per_1k,156.68
+Western Australia,Male,15-17,2019,digital_contacts_per_1k,100.67
+Western Australia,Male,15-17,2020,digital_contacts_per_1k,101.23
+Western Australia,Male,15-17,2021,digital_contacts_per_1k,110.32
+Western Australia,Male,15-17,2022,digital_contacts_per_1k,127.97
+Western Australia,Male,15-17,2023,digital_contacts_per_1k,122.66
+Western Australia,Male,15-17,2024,digital_contacts_per_1k,160.35
+Western Australia,Male,18-21,2019,digital_contacts_per_1k,117.36
+Western Australia,Male,18-21,2020,digital_contacts_per_1k,138.42
+Western Australia,Male,18-21,2021,digital_contacts_per_1k,138.44
+Western Australia,Male,18-21,2022,digital_contacts_per_1k,131.5
+Western Australia,Male,18-21,2023,digital_contacts_per_1k,123.97
+Western Australia,Male,18-21,2024,digital_contacts_per_1k,134.12
+Western Australia,Male,22-24,2019,digital_contacts_per_1k,132.8
+Western Australia,Male,22-24,2020,digital_contacts_per_1k,129.67
+Western Australia,Male,22-24,2021,digital_contacts_per_1k,110.4
+Western Australia,Male,22-24,2022,digital_contacts_per_1k,138.99
+Western Australia,Male,22-24,2023,digital_contacts_per_1k,162.65
+Western Australia,Male,22-24,2024,digital_contacts_per_1k,173.9
+Western Australia,Female,5-11 (Primary),2019,digital_contacts_per_1k,107.9
+Western Australia,Female,5-11 (Primary),2020,digital_contacts_per_1k,119.93
+Western Australia,Female,5-11 (Primary),2021,digital_contacts_per_1k,110.21
+Western Australia,Female,5-11 (Primary),2022,digital_contacts_per_1k,126.96
+Western Australia,Female,5-11 (Primary),2023,digital_contacts_per_1k,105.33
+Western Australia,Female,5-11 (Primary),2024,digital_contacts_per_1k,143.73
+Western Australia,Female,12-14,2019,digital_contacts_per_1k,100.59
+Western Australia,Female,12-14,2020,digital_contacts_per_1k,95.61
+Western Australia,Female,12-14,2021,digital_contacts_per_1k,104.53
+Western Australia,Female,12-14,2022,digital_contacts_per_1k,134.3
+Western Australia,Female,12-14,2023,digital_contacts_per_1k,117.53
+Western Australia,Female,12-14,2024,digital_contacts_per_1k,131.19
+Western Australia,Female,15-17,2019,digital_contacts_per_1k,99.83
+Western Australia,Female,15-17,2020,digital_contacts_per_1k,124.79
+Western Australia,Female,15-17,2021,digital_contacts_per_1k,106.12
+Western Australia,Female,15-17,2022,digital_contacts_per_1k,107.29
+Western Australia,Female,15-17,2023,digital_contacts_per_1k,119.65
+Western Australia,Female,15-17,2024,digital_contacts_per_1k,157.33
+Western Australia,Female,18-21,2019,digital_contacts_per_1k,90.22
+Western Australia,Female,18-21,2020,digital_contacts_per_1k,120.56
+Western Australia,Female,18-21,2021,digital_contacts_per_1k,126.21
+Western Australia,Female,18-21,2022,digital_contacts_per_1k,127.26
+Western Australia,Female,18-21,2023,digital_contacts_per_1k,133.33
+Western Australia,Female,18-21,2024,digital_contacts_per_1k,152.32
+Western Australia,Female,22-24,2019,digital_contacts_per_1k,94.8
+Western Australia,Female,22-24,2020,digital_contacts_per_1k,114.28
+Western Australia,Female,22-24,2021,digital_contacts_per_1k,126.62
+Western Australia,Female,22-24,2022,digital_contacts_per_1k,119.07
+Western Australia,Female,22-24,2023,digital_contacts_per_1k,148.45
+Western Australia,Female,22-24,2024,digital_contacts_per_1k,143.18
+Tasmania,Male,5-11 (Primary),2019,digital_contacts_per_1k,78.49
+Tasmania,Male,5-11 (Primary),2020,digital_contacts_per_1k,87.68
+Tasmania,Male,5-11 (Primary),2021,digital_contacts_per_1k,103.36
+Tasmania,Male,5-11 (Primary),2022,digital_contacts_per_1k,126.7
+Tasmania,Male,5-11 (Primary),2023,digital_contacts_per_1k,142.25
+Tasmania,Male,5-11 (Primary),2024,digital_contacts_per_1k,134.26
+Tasmania,Male,12-14,2019,digital_contacts_per_1k,81.87
+Tasmania,Male,12-14,2020,digital_contacts_per_1k,112.62
+Tasmania,Male,12-14,2021,digital_contacts_per_1k,134.81
+Tasmania,Male,12-14,2022,digital_contacts_per_1k,101.76
+Tasmania,Male,12-14,2023,digital_contacts_per_1k,123.96
+Tasmania,Male,12-14,2024,digital_contacts_per_1k,112.94
+Tasmania,Male,15-17,2019,digital_contacts_per_1k,108.25
+Tasmania,Male,15-17,2020,digital_contacts_per_1k,95.11
+Tasmania,Male,15-17,2021,digital_contacts_per_1k,142.34
+Tasmania,Male,15-17,2022,digital_contacts_per_1k,124.22
+Tasmania,Male,15-17,2023,digital_contacts_per_1k,143.65
+Tasmania,Male,15-17,2024,digital_contacts_per_1k,135.06
+Tasmania,Male,18-21,2019,digital_contacts_per_1k,102.78
+Tasmania,Male,18-21,2020,digital_contacts_per_1k,94.94
+Tasmania,Male,18-21,2021,digital_contacts_per_1k,144.48
+Tasmania,Male,18-21,2022,digital_contacts_per_1k,121.66
+Tasmania,Male,18-21,2023,digital_contacts_per_1k,127.71
+Tasmania,Male,18-21,2024,digital_contacts_per_1k,141.6
+Tasmania,Male,22-24,2019,digital_contacts_per_1k,100.47
+Tasmania,Male,22-24,2020,digital_contacts_per_1k,113.77
+Tasmania,Male,22-24,2021,digital_contacts_per_1k,119.53
+Tasmania,Male,22-24,2022,digital_contacts_per_1k,165.41
+Tasmania,Male,22-24,2023,digital_contacts_per_1k,169.13
+Tasmania,Male,22-24,2024,digital_contacts_per_1k,141.51
+Tasmania,Female,5-11 (Primary),2019,digital_contacts_per_1k,107.89
+Tasmania,Female,5-11 (Primary),2020,digital_contacts_per_1k,83.97
+Tasmania,Female,5-11 (Primary),2021,digital_contacts_per_1k,114.05
+Tasmania,Female,5-11 (Primary),2022,digital_contacts_per_1k,136.3
+Tasmania,Female,5-11 (Primary),2023,digital_contacts_per_1k,112.62
+Tasmania,Female,5-11 (Primary),2024,digital_contacts_per_1k,116.69
+Tasmania,Female,12-14,2019,digital_contacts_per_1k,111.76
+Tasmania,Female,12-14,2020,digital_contacts_per_1k,114.62
+Tasmania,Female,12-14,2021,digital_contacts_per_1k,138.0
+Tasmania,Female,12-14,2022,digital_contacts_per_1k,107.08
+Tasmania,Female,12-14,2023,digital_contacts_per_1k,113.44
+Tasmania,Female,12-14,2024,digital_contacts_per_1k,115.1
+Tasmania,Female,15-17,2019,digital_contacts_per_1k,97.62
+Tasmania,Female,15-17,2020,digital_contacts_per_1k,92.56
+Tasmania,Female,15-17,2021,digital_contacts_per_1k,126.52
+Tasmania,Female,15-17,2022,digital_contacts_per_1k,107.63
+Tasmania,Female,15-17,2023,digital_contacts_per_1k,134.49
+Tasmania,Female,15-17,2024,digital_contacts_per_1k,145.87
+Tasmania,Female,18-21,2019,digital_contacts_per_1k,91.8
+Tasmania,Female,18-21,2020,digital_contacts_per_1k,127.06
+Tasmania,Female,18-21,2021,digital_contacts_per_1k,150.72
+Tasmania,Female,18-21,2022,digital_contacts_per_1k,128.07
+Tasmania,Female,18-21,2023,digital_contacts_per_1k,142.95
+Tasmania,Female,18-21,2024,digital_contacts_per_1k,142.52
+Tasmania,Female,22-24,2019,digital_contacts_per_1k,137.07
+Tasmania,Female,22-24,2020,digital_contacts_per_1k,140.24
+Tasmania,Female,22-24,2021,digital_contacts_per_1k,155.56
+Tasmania,Female,22-24,2022,digital_contacts_per_1k,132.68
+Tasmania,Female,22-24,2023,digital_contacts_per_1k,136.2
+Tasmania,Female,22-24,2024,digital_contacts_per_1k,125.0
+Northern Territory,Male,5-11 (Primary),2019,digital_contacts_per_1k,78.92
+Northern Territory,Male,5-11 (Primary),2020,digital_contacts_per_1k,121.8
+Northern Territory,Male,5-11 (Primary),2021,digital_contacts_per_1k,114.75
+Northern Territory,Male,5-11 (Primary),2022,digital_contacts_per_1k,116.43
+Northern Territory,Male,5-11 (Primary),2023,digital_contacts_per_1k,109.62
+Northern Territory,Male,5-11 (Primary),2024,digital_contacts_per_1k,158.65
+Northern Territory,Male,12-14,2019,digital_contacts_per_1k,81.57
+Northern Territory,Male,12-14,2020,digital_contacts_per_1k,114.42
+Northern Territory,Male,12-14,2021,digital_contacts_per_1k,120.59
+Northern Territory,Male,12-14,2022,digital_contacts_per_1k,135.47
+Northern Territory,Male,12-14,2023,digital_contacts_per_1k,144.87
+Northern Territory,Male,12-14,2024,digital_contacts_per_1k,149.77
+Northern Territory,Male,15-17,2019,digital_contacts_per_1k,107.25
+Northern Territory,Male,15-17,2020,digital_contacts_per_1k,110.0
+Northern Territory,Male,15-17,2021,digital_contacts_per_1k,135.61
+Northern Territory,Male,15-17,2022,digital_contacts_per_1k,110.05
+Northern Territory,Male,15-17,2023,digital_contacts_per_1k,125.08
+Northern Territory,Male,15-17,2024,digital_contacts_per_1k,161.34
+Northern Territory,Male,18-21,2019,digital_contacts_per_1k,127.12
+Northern Territory,Male,18-21,2020,digital_contacts_per_1k,125.65
+Northern Territory,Male,18-21,2021,digital_contacts_per_1k,103.31
+Northern Territory,Male,18-21,2022,digital_contacts_per_1k,151.71
+Northern Territory,Male,18-21,2023,digital_contacts_per_1k,168.61
+Northern Territory,Male,18-21,2024,digital_contacts_per_1k,147.62
+Northern Territory,Male,22-24,2019,digital_contacts_per_1k,109.96
+Northern Territory,Male,22-24,2020,digital_contacts_per_1k,115.73
+Northern Territory,Male,22-24,2021,digital_contacts_per_1k,136.58
+Northern Territory,Male,22-24,2022,digital_contacts_per_1k,120.64
+Northern Territory,Male,22-24,2023,digital_contacts_per_1k,125.52
+Northern Territory,Male,22-24,2024,digital_contacts_per_1k,185.43
+Northern Territory,Female,5-11 (Primary),2019,digital_contacts_per_1k,95.04
+Northern Territory,Female,5-11 (Primary),2020,digital_contacts_per_1k,103.61
+Northern Territory,Female,5-11 (Primary),2021,digital_contacts_per_1k,102.18
+Northern Territory,Female,5-11 (Primary),2022,digital_contacts_per_1k,97.33
+Northern Territory,Female,5-11 (Primary),2023,digital_contacts_per_1k,104.88
+Northern Territory,Female,5-11 (Primary),2024,digital_contacts_per_1k,111.18
+Northern Territory,Female,12-14,2019,digital_contacts_per_1k,108.12
+Northern Territory,Female,12-14,2020,digital_contacts_per_1k,120.08
+Northern Territory,Female,12-14,2021,digital_contacts_per_1k,136.94
+Northern Territory,Female,12-14,2022,digital_contacts_per_1k,147.84
+Northern Territory,Female,12-14,2023,digital_contacts_per_1k,113.58
+Northern Territory,Female,12-14,2024,digital_contacts_per_1k,112.85
+Northern Territory,Female,15-17,2019,digital_contacts_per_1k,112.74
+Northern Territory,Female,15-17,2020,digital_contacts_per_1k,103.6
+Northern Territory,Female,15-17,2021,digital_contacts_per_1k,141.45
+Northern Territory,Female,15-17,2022,digital_contacts_per_1k,128.36
+Northern Territory,Female,15-17,2023,digital_contacts_per_1k,133.61
+Northern Territory,Female,15-17,2024,digital_contacts_per_1k,140.39
+Northern Territory,Female,18-21,2019,digital_contacts_per_1k,101.51
+Northern Territory,Female,18-21,2020,digital_contacts_per_1k,121.02
+Northern Territory,Female,18-21,2021,digital_contacts_per_1k,110.11
+Northern Territory,Female,18-21,2022,digital_contacts_per_1k,159.58
+Northern Territory,Female,18-21,2023,digital_contacts_per_1k,159.41
+Northern Territory,Female,18-21,2024,digital_contacts_per_1k,171.2
+Northern Territory,Female,22-24,2019,digital_contacts_per_1k,135.51
+Northern Territory,Female,22-24,2020,digital_contacts_per_1k,131.99
+Northern Territory,Female,22-24,2021,digital_contacts_per_1k,152.06
+Northern Territory,Female,22-24,2022,digital_contacts_per_1k,152.26
+Northern Territory,Female,22-24,2023,digital_contacts_per_1k,145.48
+Northern Territory,Female,22-24,2024,digital_contacts_per_1k,125.3
+Australian Capital Territory,Male,5-11 (Primary),2019,digital_contacts_per_1k,95.58
+Australian Capital Territory,Male,5-11 (Primary),2020,digital_contacts_per_1k,104.63
+Australian Capital Territory,Male,5-11 (Primary),2021,digital_contacts_per_1k,121.5
+Australian Capital Territory,Male,5-11 (Primary),2022,digital_contacts_per_1k,136.56
+Australian Capital Territory,Male,5-11 (Primary),2023,digital_contacts_per_1k,133.54
+Australian Capital Territory,Male,5-11 (Primary),2024,digital_contacts_per_1k,112.71
+Australian Capital Territory,Male,12-14,2019,digital_contacts_per_1k,83.66
+Australian Capital Territory,Male,12-14,2020,digital_contacts_per_1k,124.03
+Australian Capital Territory,Male,12-14,2021,digital_contacts_per_1k,133.68
+Australian Capital Territory,Male,12-14,2022,digital_contacts_per_1k,119.07
+Australian Capital Territory,Male,12-14,2023,digital_contacts_per_1k,109.21
+Australian Capital Territory,Male,12-14,2024,digital_contacts_per_1k,118.01
+Australian Capital Territory,Male,15-17,2019,digital_contacts_per_1k,88.8
+Australian Capital Territory,Male,15-17,2020,digital_contacts_per_1k,131.7
+Australian Capital Territory,Male,15-17,2021,digital_contacts_per_1k,116.47
+Australian Capital Territory,Male,15-17,2022,digital_contacts_per_1k,127.13
+Australian Capital Territory,Male,15-17,2023,digital_contacts_per_1k,154.48
+Australian Capital Territory,Male,15-17,2024,digital_contacts_per_1k,130.12
+Australian Capital Territory,Male,18-21,2019,digital_contacts_per_1k,111.44
+Australian Capital Territory,Male,18-21,2020,digital_contacts_per_1k,121.69
+Australian Capital Territory,Male,18-21,2021,digital_contacts_per_1k,121.72
+Australian Capital Territory,Male,18-21,2022,digital_contacts_per_1k,113.66
+Australian Capital Territory,Male,18-21,2023,digital_contacts_per_1k,137.67
+Australian Capital Territory,Male,18-21,2024,digital_contacts_per_1k,126.72
+Australian Capital Territory,Male,22-24,2019,digital_contacts_per_1k,106.6
+Australian Capital Territory,Male,22-24,2020,digital_contacts_per_1k,118.1
+Australian Capital Territory,Male,22-24,2021,digital_contacts_per_1k,114.77
+Australian Capital Territory,Male,22-24,2022,digital_contacts_per_1k,166.65
+Australian Capital Territory,Male,22-24,2023,digital_contacts_per_1k,158.16
+Australian Capital Territory,Male,22-24,2024,digital_contacts_per_1k,181.75
+Australian Capital Territory,Female,5-11 (Primary),2019,digital_contacts_per_1k,111.42
+Australian Capital Territory,Female,5-11 (Primary),2020,digital_contacts_per_1k,94.22
+Australian Capital Territory,Female,5-11 (Primary),2021,digital_contacts_per_1k,95.24
+Australian Capital Territory,Female,5-11 (Primary),2022,digital_contacts_per_1k,142.41
+Australian Capital Territory,Female,5-11 (Primary),2023,digital_contacts_per_1k,127.52
+Australian Capital Territory,Female,5-11 (Primary),2024,digital_contacts_per_1k,144.56
+Australian Capital Territory,Female,12-14,2019,digital_contacts_per_1k,114.66
+Australian Capital Territory,Female,12-14,2020,digital_contacts_per_1k,101.08
+Australian Capital Territory,Female,12-14,2021,digital_contacts_per_1k,120.28
+Australian Capital Territory,Female,12-14,2022,digital_contacts_per_1k,114.03
+Australian Capital Territory,Female,12-14,2023,digital_contacts_per_1k,116.97
+Australian Capital Territory,Female,12-14,2024,digital_contacts_per_1k,113.93
+Australian Capital Territory,Female,15-17,2019,digital_contacts_per_1k,93.9
+Australian Capital Territory,Female,15-17,2020,digital_contacts_per_1k,101.67
+Australian Capital Territory,Female,15-17,2021,digital_contacts_per_1k,132.96
+Australian Capital Territory,Female,15-17,2022,digital_contacts_per_1k,129.84
+Australian Capital Territory,Female,15-17,2023,digital_contacts_per_1k,151.97
+Australian Capital Territory,Female,15-17,2024,digital_contacts_per_1k,132.6
+Australian Capital Territory,Female,18-21,2019,digital_contacts_per_1k,97.37
+Australian Capital Territory,Female,18-21,2020,digital_contacts_per_1k,121.68
+Australian Capital Territory,Female,18-21,2021,digital_contacts_per_1k,114.47
+Australian Capital Territory,Female,18-21,2022,digital_contacts_per_1k,147.6
+Australian Capital Territory,Female,18-21,2023,digital_contacts_per_1k,135.29
+Australian Capital Territory,Female,18-21,2024,digital_contacts_per_1k,136.84
+Australian Capital Territory,Female,22-24,2019,digital_contacts_per_1k,126.66
+Australian Capital Territory,Female,22-24,2020,digital_contacts_per_1k,107.69
+Australian Capital Territory,Female,22-24,2021,digital_contacts_per_1k,142.78
+Australian Capital Territory,Female,22-24,2022,digital_contacts_per_1k,132.87
+Australian Capital Territory,Female,22-24,2023,digital_contacts_per_1k,122.6
+Australian Capital Territory,Female,22-24,2024,digital_contacts_per_1k,162.92

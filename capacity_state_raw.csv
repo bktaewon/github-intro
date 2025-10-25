@@ -1,0 +1,193 @@
+state,year,sheet,metric,value
+New South Wales,2019,Psychiatrists,fte,14.89
+New South Wales,2019,Psychologists,fte,52.83
+New South Wales,2019,Mental Health Nurses,fte,24.05
+New South Wales,2019,Social Workers,fte,19.67
+New South Wales,2020,Psychiatrists,fte,9.74
+New South Wales,2020,Psychologists,fte,41.19
+New South Wales,2020,Mental Health Nurses,fte,25.14
+New South Wales,2020,Social Workers,fte,20.58
+New South Wales,2021,Psychiatrists,fte,14.37
+New South Wales,2021,Psychologists,fte,40.15
+New South Wales,2021,Mental Health Nurses,fte,26.58
+New South Wales,2021,Social Workers,fte,25.77
+New South Wales,2022,Psychiatrists,fte,14.13
+New South Wales,2022,Psychologists,fte,40.64
+New South Wales,2022,Mental Health Nurses,fte,20.09
+New South Wales,2022,Social Workers,fte,17.41
+New South Wales,2023,Psychiatrists,fte,10.05
+New South Wales,2023,Psychologists,fte,54.41
+New South Wales,2023,Mental Health Nurses,fte,23.66
+New South Wales,2023,Social Workers,fte,25.65
+New South Wales,2024,Psychiatrists,fte,11.77
+New South Wales,2024,Psychologists,fte,45.67
+New South Wales,2024,Mental Health Nurses,fte,28.98
+New South Wales,2024,Social Workers,fte,28.84
+Victoria,2019,Psychiatrists,fte,10.38
+Victoria,2019,Psychologists,fte,55.39
+Victoria,2019,Mental Health Nurses,fte,24.43
+Victoria,2019,Social Workers,fte,17.06
+Victoria,2020,Psychiatrists,fte,13.97
+Victoria,2020,Psychologists,fte,44.05
+Victoria,2020,Mental Health Nurses,fte,22.39
+Victoria,2020,Social Workers,fte,28.52
+Victoria,2021,Psychiatrists,fte,15.07
+Victoria,2021,Psychologists,fte,39.17
+Victoria,2021,Mental Health Nurses,fte,26.87
+Victoria,2021,Social Workers,fte,17.79
+Victoria,2022,Psychiatrists,fte,16.32
+Victoria,2022,Psychologists,fte,53.78
+Victoria,2022,Mental Health Nurses,fte,26.72
+Victoria,2022,Social Workers,fte,18.15
+Victoria,2023,Psychiatrists,fte,11.02
+Victoria,2023,Psychologists,fte,52.88
+Victoria,2023,Mental Health Nurses,fte,24.01
+Victoria,2023,Social Workers,fte,28.24
+Victoria,2024,Psychiatrists,fte,12.63
+Victoria,2024,Psychologists,fte,50.44
+Victoria,2024,Mental Health Nurses,fte,21.03
+Victoria,2024,Social Workers,fte,24.82
+Queensland,2019,Psychiatrists,fte,17.09
+Queensland,2019,Psychologists,fte,46.09
+Queensland,2019,Mental Health Nurses,fte,29.23
+Queensland,2019,Social Workers,fte,20.27
+Queensland,2020,Psychiatrists,fte,16.89
+Queensland,2020,Psychologists,fte,53.44
+Queensland,2020,Mental Health Nurses,fte,21.1
+Queensland,2020,Social Workers,fte,28.28
+Queensland,2021,Psychiatrists,fte,17.19
+Queensland,2021,Psychologists,fte,44.42
+Queensland,2021,Mental Health Nurses,fte,21.35
+Queensland,2021,Social Workers,fte,22.07
+Queensland,2022,Psychiatrists,fte,14.75
+Queensland,2022,Psychologists,fte,67.26
+Queensland,2022,Mental Health Nurses,fte,31.68
+Queensland,2022,Social Workers,fte,23.37
+Queensland,2023,Psychiatrists,fte,11.44
+Queensland,2023,Psychologists,fte,58.47
+Queensland,2023,Mental Health Nurses,fte,28.3
+Queensland,2023,Social Workers,fte,22.67
+Queensland,2024,Psychiatrists,fte,15.9
+Queensland,2024,Psychologists,fte,70.35
+Queensland,2024,Mental Health Nurses,fte,22.79
+Queensland,2024,Social Workers,fte,24.01
+South Australia,2019,Psychiatrists,fte,17.47
+South Australia,2019,Psychologists,fte,46.29
+South Australia,2019,Mental Health Nurses,fte,22.22
+South Australia,2019,Social Workers,fte,21.77
+South Australia,2020,Psychiatrists,fte,17.16
+South Australia,2020,Psychologists,fte,46.14
+South Australia,2020,Mental Health Nurses,fte,22.05
+South Australia,2020,Social Workers,fte,28.14
+South Australia,2021,Psychiatrists,fte,17.41
+South Australia,2021,Psychologists,fte,64.98
+South Australia,2021,Mental Health Nurses,fte,27.22
+South Australia,2021,Social Workers,fte,32.48
+South Australia,2022,Psychiatrists,fte,12.88
+South Australia,2022,Psychologists,fte,56.79
+South Australia,2022,Mental Health Nurses,fte,26.73
+South Australia,2022,Social Workers,fte,27.93
+South Australia,2023,Psychiatrists,fte,13.41
+South Australia,2023,Psychologists,fte,48.92
+South Australia,2023,Mental Health Nurses,fte,36.06
+South Australia,2023,Social Workers,fte,24.98
+South Australia,2024,Psychiatrists,fte,16.08
+South Australia,2024,Psychologists,fte,72.85
+South Australia,2024,Mental Health Nurses,fte,26.57
+South Australia,2024,Social Workers,fte,26.26
+Western Australia,2019,Psychiatrists,fte,16.34
+Western Australia,2019,Psychologists,fte,46.57
+Western Australia,2019,Mental Health Nurses,fte,22.12
+Western Australia,2019,Social Workers,fte,29.56
+Western Australia,2020,Psychiatrists,fte,15.04
+Western Australia,2020,Psychologists,fte,47.62
+Western Australia,2020,Mental Health Nurses,fte,26.34
+Western Australia,2020,Social Workers,fte,30.86
+Western Australia,2021,Psychiatrists,fte,18.44
+Western Australia,2021,Psychologists,fte,61.37
+Western Australia,2021,Mental Health Nurses,fte,25.74
+Western Australia,2021,Social Workers,fte,33.41
+Western Australia,2022,Psychiatrists,fte,14.14
+Western Australia,2022,Psychologists,fte,70.08
+Western Australia,2022,Mental Health Nurses,fte,25.1
+Western Australia,2022,Social Workers,fte,35.28
+Western Australia,2023,Psychiatrists,fte,19.1
+Western Australia,2023,Psychologists,fte,63.04
+Western Australia,2023,Mental Health Nurses,fte,29.79
+Western Australia,2023,Social Workers,fte,30.47
+Western Australia,2024,Psychiatrists,fte,18.41
+Western Australia,2024,Psychologists,fte,65.75
+Western Australia,2024,Mental Health Nurses,fte,34.3
+Western Australia,2024,Social Workers,fte,23.67
+Tasmania,2019,Psychiatrists,fte,16.1
+Tasmania,2019,Psychologists,fte,70.98
+Tasmania,2019,Mental Health Nurses,fte,29.85
+Tasmania,2019,Social Workers,fte,36.32
+Tasmania,2020,Psychiatrists,fte,17.33
+Tasmania,2020,Psychologists,fte,57.86
+Tasmania,2020,Mental Health Nurses,fte,37.36
+Tasmania,2020,Social Workers,fte,28.66
+Tasmania,2021,Psychiatrists,fte,17.68
+Tasmania,2021,Psychologists,fte,69.38
+Tasmania,2021,Mental Health Nurses,fte,37.32
+Tasmania,2021,Social Workers,fte,25.85
+Tasmania,2022,Psychiatrists,fte,20.79
+Tasmania,2022,Psychologists,fte,68.12
+Tasmania,2022,Mental Health Nurses,fte,29.98
+Tasmania,2022,Social Workers,fte,28.13
+Tasmania,2023,Psychiatrists,fte,22.04
+Tasmania,2023,Psychologists,fte,81.49
+Tasmania,2023,Mental Health Nurses,fte,33.3
+Tasmania,2023,Social Workers,fte,28.69
+Tasmania,2024,Psychiatrists,fte,22.26
+Tasmania,2024,Psychologists,fte,51.18
+Tasmania,2024,Mental Health Nurses,fte,25.56
+Tasmania,2024,Social Workers,fte,31.29
+Northern Territory,2019,Psychiatrists,fte,18.53
+Northern Territory,2019,Psychologists,fte,50.17
+Northern Territory,2019,Mental Health Nurses,fte,27.47
+Northern Territory,2019,Social Workers,fte,24.65
+Northern Territory,2020,Psychiatrists,fte,15.75
+Northern Territory,2020,Psychologists,fte,56.8
+Northern Territory,2020,Mental Health Nurses,fte,26.8
+Northern Territory,2020,Social Workers,fte,25.66
+Northern Territory,2021,Psychiatrists,fte,17.07
+Northern Territory,2021,Psychologists,fte,55.7
+Northern Territory,2021,Mental Health Nurses,fte,38.01
+Northern Territory,2021,Social Workers,fte,30.37
+Northern Territory,2022,Psychiatrists,fte,14.94
+Northern Territory,2022,Psychologists,fte,74.54
+Northern Territory,2022,Mental Health Nurses,fte,38.76
+Northern Territory,2022,Social Workers,fte,30.07
+Northern Territory,2023,Psychiatrists,fte,14.1
+Northern Territory,2023,Psychologists,fte,75.47
+Northern Territory,2023,Mental Health Nurses,fte,38.68
+Northern Territory,2023,Social Workers,fte,39.14
+Northern Territory,2024,Psychiatrists,fte,20.98
+Northern Territory,2024,Psychologists,fte,74.54
+Northern Territory,2024,Mental Health Nurses,fte,32.03
+Northern Territory,2024,Social Workers,fte,28.93
+Australian Capital Territory,2019,Psychiatrists,fte,14.65
+Australian Capital Territory,2019,Psychologists,fte,81.41
+Australian Capital Territory,2019,Mental Health Nurses,fte,35.35
+Australian Capital Territory,2019,Social Workers,fte,29.29
+Australian Capital Territory,2020,Psychiatrists,fte,15.4
+Australian Capital Territory,2020,Psychologists,fte,63.58
+Australian Capital Territory,2020,Mental Health Nurses,fte,39.24
+Australian Capital Territory,2020,Social Workers,fte,28.46
+Australian Capital Territory,2021,Psychiatrists,fte,14.9
+Australian Capital Territory,2021,Psychologists,fte,67.68
+Australian Capital Territory,2021,Mental Health Nurses,fte,32.31
+Australian Capital Territory,2021,Social Workers,fte,36.91
+Australian Capital Territory,2022,Psychiatrists,fte,19.98
+Australian Capital Territory,2022,Psychologists,fte,71.91
+Australian Capital Territory,2022,Mental Health Nurses,fte,44.12
+Australian Capital Territory,2022,Social Workers,fte,39.87
+Australian Capital Territory,2023,Psychiatrists,fte,16.02
+Australian Capital Territory,2023,Psychologists,fte,64.52
+Australian Capital Territory,2023,Mental Health Nurses,fte,34.63
+Australian Capital Territory,2023,Social Workers,fte,27.06
+Australian Capital Territory,2024,Psychiatrists,fte,22.49
+Australian Capital Territory,2024,Psychologists,fte,84.72
+Australian Capital Territory,2024,Mental Health Nurses,fte,32.73
+Australian Capital Territory,2024,Social Workers,fte,41.93

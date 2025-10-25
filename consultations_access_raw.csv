@@ -1,0 +1,481 @@
+state,sex,age_band,year,metric,value
+New South Wales,Male,5-11 (Primary),2019,consultations_per_1k,264.09
+New South Wales,Male,5-11 (Primary),2020,consultations_per_1k,243.94
+New South Wales,Male,5-11 (Primary),2021,consultations_per_1k,281.91
+New South Wales,Male,5-11 (Primary),2022,consultations_per_1k,292.39
+New South Wales,Male,5-11 (Primary),2023,consultations_per_1k,302.54
+New South Wales,Male,5-11 (Primary),2024,consultations_per_1k,331.01
+New South Wales,Male,12-14,2019,consultations_per_1k,303.51
+New South Wales,Male,12-14,2020,consultations_per_1k,268.82
+New South Wales,Male,12-14,2021,consultations_per_1k,276.23
+New South Wales,Male,12-14,2022,consultations_per_1k,246.83
+New South Wales,Male,12-14,2023,consultations_per_1k,286.72
+New South Wales,Male,12-14,2024,consultations_per_1k,270.94
+New South Wales,Male,15-17,2019,consultations_per_1k,248.09
+New South Wales,Male,15-17,2020,consultations_per_1k,313.1
+New South Wales,Male,15-17,2021,consultations_per_1k,250.11
+New South Wales,Male,15-17,2022,consultations_per_1k,264.84
+New South Wales,Male,15-17,2023,consultations_per_1k,318.99
+New South Wales,Male,15-17,2024,consultations_per_1k,316.25
+New South Wales,Male,18-21,2019,consultations_per_1k,283.83
+New South Wales,Male,18-21,2020,consultations_per_1k,323.31
+New South Wales,Male,18-21,2021,consultations_per_1k,278.27
+New South Wales,Male,18-21,2022,consultations_per_1k,280.89
+New South Wales,Male,18-21,2023,consultations_per_1k,315.29
+New South Wales,Male,18-21,2024,consultations_per_1k,282.24
+New South Wales,Male,22-24,2019,consultations_per_1k,317.02
+New South Wales,Male,22-24,2020,consultations_per_1k,345.93
+New South Wales,Male,22-24,2021,consultations_per_1k,341.15
+New South Wales,Male,22-24,2022,consultations_per_1k,354.37
+New South Wales,Male,22-24,2023,consultations_per_1k,282.49
+New South Wales,Male,22-24,2024,consultations_per_1k,322.48
+New South Wales,Female,5-11 (Primary),2019,consultations_per_1k,291.43
+New South Wales,Female,5-11 (Primary),2020,consultations_per_1k,293.24
+New South Wales,Female,5-11 (Primary),2021,consultations_per_1k,279.65
+New South Wales,Female,5-11 (Primary),2022,consultations_per_1k,290.88
+New South Wales,Female,5-11 (Primary),2023,consultations_per_1k,264.06
+New South Wales,Female,5-11 (Primary),2024,consultations_per_1k,269.58
+New South Wales,Female,12-14,2019,consultations_per_1k,234.9
+New South Wales,Female,12-14,2020,consultations_per_1k,309.28
+New South Wales,Female,12-14,2021,consultations_per_1k,264.15
+New South Wales,Female,12-14,2022,consultations_per_1k,330.55
+New South Wales,Female,12-14,2023,consultations_per_1k,250.5
+New South Wales,Female,12-14,2024,consultations_per_1k,326.92
+New South Wales,Female,15-17,2019,consultations_per_1k,282.17
+New South Wales,Female,15-17,2020,consultations_per_1k,246.71
+New South Wales,Female,15-17,2021,consultations_per_1k,306.3
+New South Wales,Female,15-17,2022,consultations_per_1k,316.1
+New South Wales,Female,15-17,2023,consultations_per_1k,322.2
+New South Wales,Female,15-17,2024,consultations_per_1k,328.22
+New South Wales,Female,18-21,2019,consultations_per_1k,305.5
+New South Wales,Female,18-21,2020,consultations_per_1k,319.76
+New South Wales,Female,18-21,2021,consultations_per_1k,291.14
+New South Wales,Female,18-21,2022,consultations_per_1k,350.29
+New South Wales,Female,18-21,2023,consultations_per_1k,312.38
+New South Wales,Female,18-21,2024,consultations_per_1k,297.71
+New South Wales,Female,22-24,2019,consultations_per_1k,344.36
+New South Wales,Female,22-24,2020,consultations_per_1k,285.76
+New South Wales,Female,22-24,2021,consultations_per_1k,306.45
+New South Wales,Female,22-24,2022,consultations_per_1k,336.86
+New South Wales,Female,22-24,2023,consultations_per_1k,352.98
+New South Wales,Female,22-24,2024,consultations_per_1k,311.85
+Victoria,Male,5-11 (Primary),2019,consultations_per_1k,223.75
+Victoria,Male,5-11 (Primary),2020,consultations_per_1k,272.23
+Victoria,Male,5-11 (Primary),2021,consultations_per_1k,279.51
+Victoria,Male,5-11 (Primary),2022,consultations_per_1k,297.15
+Victoria,Male,5-11 (Primary),2023,consultations_per_1k,263.64
+Victoria,Male,5-11 (Primary),2024,consultations_per_1k,317.9
+Victoria,Male,12-14,2019,consultations_per_1k,292.19
+Victoria,Male,12-14,2020,consultations_per_1k,305.94
+Victoria,Male,12-14,2021,consultations_per_1k,303.66
+Victoria,Male,12-14,2022,consultations_per_1k,302.96
+Victoria,Male,12-14,2023,consultations_per_1k,298.77
+Victoria,Male,12-14,2024,consultations_per_1k,332.17
+Victoria,Male,15-17,2019,consultations_per_1k,256.98
+Victoria,Male,15-17,2020,consultations_per_1k,300.16
+Victoria,Male,15-17,2021,consultations_per_1k,317.59
+Victoria,Male,15-17,2022,consultations_per_1k,322.56
+Victoria,Male,15-17,2023,consultations_per_1k,270.22
+Victoria,Male,15-17,2024,consultations_per_1k,292.69
+Victoria,Male,18-21,2019,consultations_per_1k,327.65
+Victoria,Male,18-21,2020,consultations_per_1k,320.38
+Victoria,Male,18-21,2021,consultations_per_1k,270.71
+Victoria,Male,18-21,2022,consultations_per_1k,306.46
+Victoria,Male,18-21,2023,consultations_per_1k,343.28
+Victoria,Male,18-21,2024,consultations_per_1k,354.51
+Victoria,Male,22-24,2019,consultations_per_1k,301.8
+Victoria,Male,22-24,2020,consultations_per_1k,269.41
+Victoria,Male,22-24,2021,consultations_per_1k,285.73
+Victoria,Male,22-24,2022,consultations_per_1k,272.63
+Victoria,Male,22-24,2023,consultations_per_1k,291.51
+Victoria,Male,22-24,2024,consultations_per_1k,286.55
+Victoria,Female,5-11 (Primary),2019,consultations_per_1k,275.6
+Victoria,Female,5-11 (Primary),2020,consultations_per_1k,282.04
+Victoria,Female,5-11 (Primary),2021,consultations_per_1k,267.37
+Victoria,Female,5-11 (Primary),2022,consultations_per_1k,309.77
+Victoria,Female,5-11 (Primary),2023,consultations_per_1k,253.86
+Victoria,Female,5-11 (Primary),2024,consultations_per_1k,263.38
+Victoria,Female,12-14,2019,consultations_per_1k,279.02
+Victoria,Female,12-14,2020,consultations_per_1k,278.32
+Victoria,Female,12-14,2021,consultations_per_1k,250.04
+Victoria,Female,12-14,2022,consultations_per_1k,323.15
+Victoria,Female,12-14,2023,consultations_per_1k,304.75
+Victoria,Female,12-14,2024,consultations_per_1k,309.72
+Victoria,Female,15-17,2019,consultations_per_1k,269.34
+Victoria,Female,15-17,2020,consultations_per_1k,295.11
+Victoria,Female,15-17,2021,consultations_per_1k,254.46
+Victoria,Female,15-17,2022,consultations_per_1k,280.23
+Victoria,Female,15-17,2023,consultations_per_1k,316.16
+Victoria,Female,15-17,2024,consultations_per_1k,319.18
+Victoria,Female,18-21,2019,consultations_per_1k,292.26
+Victoria,Female,18-21,2020,consultations_per_1k,256.31
+Victoria,Female,18-21,2021,consultations_per_1k,285.84
+Victoria,Female,18-21,2022,consultations_per_1k,352.77
+Victoria,Female,18-21,2023,consultations_per_1k,355.75
+Victoria,Female,18-21,2024,consultations_per_1k,350.74
+Victoria,Female,22-24,2019,consultations_per_1k,260.74
+Victoria,Female,22-24,2020,consultations_per_1k,266.85
+Victoria,Female,22-24,2021,consultations_per_1k,285.11
+Victoria,Female,22-24,2022,consultations_per_1k,349.27
+Victoria,Female,22-24,2023,consultations_per_1k,295.22
+Victoria,Female,22-24,2024,consultations_per_1k,302.81
+Queensland,Male,5-11 (Primary),2019,consultations_per_1k,241.31
+Queensland,Male,5-11 (Primary),2020,consultations_per_1k,284.61
+Queensland,Male,5-11 (Primary),2021,consultations_per_1k,274.25
+Queensland,Male,5-11 (Primary),2022,consultations_per_1k,308.07
+Queensland,Male,5-11 (Primary),2023,consultations_per_1k,247.88
+Queensland,Male,5-11 (Primary),2024,consultations_per_1k,250.99
+Queensland,Male,12-14,2019,consultations_per_1k,298.05
+Queensland,Male,12-14,2020,consultations_per_1k,243.62
+Queensland,Male,12-14,2021,consultations_per_1k,300.18
+Queensland,Male,12-14,2022,consultations_per_1k,297.03
+Queensland,Male,12-14,2023,consultations_per_1k,268.18
+Queensland,Male,12-14,2024,consultations_per_1k,278.42
+Queensland,Male,15-17,2019,consultations_per_1k,300.14
+Queensland,Male,15-17,2020,consultations_per_1k,244.96
+Queensland,Male,15-17,2021,consultations_per_1k,331.92
+Queensland,Male,15-17,2022,consultations_per_1k,257.32
+Queensland,Male,15-17,2023,consultations_per_1k,273.14
+Queensland,Male,15-17,2024,consultations_per_1k,323.02
+Queensland,Male,18-21,2019,consultations_per_1k,256.45
+Queensland,Male,18-21,2020,consultations_per_1k,340.19
+Queensland,Male,18-21,2021,consultations_per_1k,295.93
+Queensland,Male,18-21,2022,consultations_per_1k,268.17
+Queensland,Male,18-21,2023,consultations_per_1k,282.44
+Queensland,Male,18-21,2024,consultations_per_1k,324.06
+Queensland,Male,22-24,2019,consultations_per_1k,333.33
+Queensland,Male,22-24,2020,consultations_per_1k,283.7
+Queensland,Male,22-24,2021,consultations_per_1k,302.58
+Queensland,Male,22-24,2022,consultations_per_1k,324.58
+Queensland,Male,22-24,2023,consultations_per_1k,338.65
+Queensland,Male,22-24,2024,consultations_per_1k,352.1
+Queensland,Female,5-11 (Primary),2019,consultations_per_1k,246.33
+Queensland,Female,5-11 (Primary),2020,consultations_per_1k,255.68
+Queensland,Female,5-11 (Primary),2021,consultations_per_1k,302.49
+Queensland,Female,5-11 (Primary),2022,consultations_per_1k,311.87
+Queensland,Female,5-11 (Primary),2023,consultations_per_1k,276.96
+Queensland,Female,5-11 (Primary),2024,consultations_per_1k,333.2
+Queensland,Female,12-14,2019,consultations_per_1k,243.69
+Queensland,Female,12-14,2020,consultations_per_1k,302.77
+Queensland,Female,12-14,2021,consultations_per_1k,316.59
+Queensland,Female,12-14,2022,consultations_per_1k,293.59
+Queensland,Female,12-14,2023,consultations_per_1k,310.93
+Queensland,Female,12-14,2024,consultations_per_1k,260.41
+Queensland,Female,15-17,2019,consultations_per_1k,308.78
+Queensland,Female,15-17,2020,consultations_per_1k,301.72
+Queensland,Female,15-17,2021,consultations_per_1k,298.87
+Queensland,Female,15-17,2022,consultations_per_1k,305.26
+Queensland,Female,15-17,2023,consultations_per_1k,272.99
+Queensland,Female,15-17,2024,consultations_per_1k,342.3
+Queensland,Female,18-21,2019,consultations_per_1k,292.53
+Queensland,Female,18-21,2020,consultations_per_1k,305.58
+Queensland,Female,18-21,2021,consultations_per_1k,272.11
+Queensland,Female,18-21,2022,consultations_per_1k,319.84
+Queensland,Female,18-21,2023,consultations_per_1k,289.35
+Queensland,Female,18-21,2024,consultations_per_1k,345.19
+Queensland,Female,22-24,2019,consultations_per_1k,257.49
+Queensland,Female,22-24,2020,consultations_per_1k,271.52
+Queensland,Female,22-24,2021,consultations_per_1k,284.96
+Queensland,Female,22-24,2022,consultations_per_1k,308.55
+Queensland,Female,22-24,2023,consultations_per_1k,360.03
+Queensland,Female,22-24,2024,consultations_per_1k,281.17
+South Australia,Male,5-11 (Primary),2019,consultations_per_1k,264.36
+South Australia,Male,5-11 (Primary),2020,consultations_per_1k,228.97
+South Australia,Male,5-11 (Primary),2021,consultations_per_1k,262.18
+South Australia,Male,5-11 (Primary),2022,consultations_per_1k,261.17
+South Australia,Male,5-11 (Primary),2023,consultations_per_1k,255.38
+South Australia,Male,5-11 (Primary),2024,consultations_per_1k,288.2
+South Australia,Male,12-14,2019,consultations_per_1k,257.19
+South Australia,Male,12-14,2020,consultations_per_1k,256.28
+South Australia,Male,12-14,2021,consultations_per_1k,291.45
+South Australia,Male,12-14,2022,consultations_per_1k,265.91
+South Australia,Male,12-14,2023,consultations_per_1k,335.63
+South Australia,Male,12-14,2024,consultations_per_1k,277.45
+South Australia,Male,15-17,2019,consultations_per_1k,321.04
+South Australia,Male,15-17,2020,consultations_per_1k,256.95
+South Australia,Male,15-17,2021,consultations_per_1k,331.41
+South Australia,Male,15-17,2022,consultations_per_1k,258.91
+South Australia,Male,15-17,2023,consultations_per_1k,259.08
+South Australia,Male,15-17,2024,consultations_per_1k,272.57
+South Australia,Male,18-21,2019,consultations_per_1k,308.02
+South Australia,Male,18-21,2020,consultations_per_1k,272.26
+South Australia,Male,18-21,2021,consultations_per_1k,281.67
+South Australia,Male,18-21,2022,consultations_per_1k,324.01
+South Australia,Male,18-21,2023,consultations_per_1k,269.68
+South Australia,Male,18-21,2024,consultations_per_1k,323.87
+South Australia,Male,22-24,2019,consultations_per_1k,291.03
+South Australia,Male,22-24,2020,consultations_per_1k,274.91
+South Australia,Male,22-24,2021,consultations_per_1k,350.54
+South Australia,Male,22-24,2022,consultations_per_1k,304.68
+South Australia,Male,22-24,2023,consultations_per_1k,303.72
+South Australia,Male,22-24,2024,consultations_per_1k,349.26
+South Australia,Female,5-11 (Primary),2019,consultations_per_1k,287.73
+South Australia,Female,5-11 (Primary),2020,consultations_per_1k,244.3
+South Australia,Female,5-11 (Primary),2021,consultations_per_1k,241.58
+South Australia,Female,5-11 (Primary),2022,consultations_per_1k,316.37
+South Australia,Female,5-11 (Primary),2023,consultations_per_1k,277.82
+South Australia,Female,5-11 (Primary),2024,consultations_per_1k,293.04
+South Australia,Female,12-14,2019,consultations_per_1k,266.51
+South Australia,Female,12-14,2020,consultations_per_1k,303.15
+South Australia,Female,12-14,2021,consultations_per_1k,275.99
+South Australia,Female,12-14,2022,consultations_per_1k,310.21
+South Australia,Female,12-14,2023,consultations_per_1k,296.01
+South Australia,Female,12-14,2024,consultations_per_1k,262.17
+South Australia,Female,15-17,2019,consultations_per_1k,280.78
+South Australia,Female,15-17,2020,consultations_per_1k,316.51
+South Australia,Female,15-17,2021,consultations_per_1k,294.73
+South Australia,Female,15-17,2022,consultations_per_1k,288.42
+South Australia,Female,15-17,2023,consultations_per_1k,260.74
+South Australia,Female,15-17,2024,consultations_per_1k,328.72
+South Australia,Female,18-21,2019,consultations_per_1k,280.66
+South Australia,Female,18-21,2020,consultations_per_1k,280.31
+South Australia,Female,18-21,2021,consultations_per_1k,290.2
+South Australia,Female,18-21,2022,consultations_per_1k,300.4
+South Australia,Female,18-21,2023,consultations_per_1k,298.53
+South Australia,Female,18-21,2024,consultations_per_1k,300.0
+South Australia,Female,22-24,2019,consultations_per_1k,296.44
+South Australia,Female,22-24,2020,consultations_per_1k,264.38
+South Australia,Female,22-24,2021,consultations_per_1k,286.33
+South Australia,Female,22-24,2022,consultations_per_1k,312.1
+South Australia,Female,22-24,2023,consultations_per_1k,361.4
+South Australia,Female,22-24,2024,consultations_per_1k,322.88
+Western Australia,Male,5-11 (Primary),2019,consultations_per_1k,264.36
+Western Australia,Male,5-11 (Primary),2020,consultations_per_1k,297.41
+Western Australia,Male,5-11 (Primary),2021,consultations_per_1k,296.96
+Western Australia,Male,5-11 (Primary),2022,consultations_per_1k,295.71
+Western Australia,Male,5-11 (Primary),2023,consultations_per_1k,294.18
+Western Australia,Male,5-11 (Primary),2024,consultations_per_1k,298.34
+Western Australia,Male,12-14,2019,consultations_per_1k,244.93
+Western Australia,Male,12-14,2020,consultations_per_1k,245.79
+Western Australia,Male,12-14,2021,consultations_per_1k,244.41
+Western Australia,Male,12-14,2022,consultations_per_1k,252.91
+Western Australia,Male,12-14,2023,consultations_per_1k,304.14
+Western Australia,Male,12-14,2024,consultations_per_1k,309.76
+Western Australia,Male,15-17,2019,consultations_per_1k,241.13
+Western Australia,Male,15-17,2020,consultations_per_1k,315.03
+Western Australia,Male,15-17,2021,consultations_per_1k,286.88
+Western Australia,Male,15-17,2022,consultations_per_1k,301.44
+Western Australia,Male,15-17,2023,consultations_per_1k,265.11
+Western Australia,Male,15-17,2024,consultations_per_1k,343.34
+Western Australia,Male,18-21,2019,consultations_per_1k,253.47
+Western Australia,Male,18-21,2020,consultations_per_1k,270.34
+Western Australia,Male,18-21,2021,consultations_per_1k,298.84
+Western Australia,Male,18-21,2022,consultations_per_1k,307.78
+Western Australia,Male,18-21,2023,consultations_per_1k,317.13
+Western Australia,Male,18-21,2024,consultations_per_1k,361.86
+Western Australia,Male,22-24,2019,consultations_per_1k,258.15
+Western Australia,Male,22-24,2020,consultations_per_1k,322.18
+Western Australia,Male,22-24,2021,consultations_per_1k,305.43
+Western Australia,Male,22-24,2022,consultations_per_1k,347.79
+Western Australia,Male,22-24,2023,consultations_per_1k,340.28
+Western Australia,Male,22-24,2024,consultations_per_1k,360.95
+Western Australia,Female,5-11 (Primary),2019,consultations_per_1k,288.36
+Western Australia,Female,5-11 (Primary),2020,consultations_per_1k,288.38
+Western Australia,Female,5-11 (Primary),2021,consultations_per_1k,241.99
+Western Australia,Female,5-11 (Primary),2022,consultations_per_1k,281.1
+Western Australia,Female,5-11 (Primary),2023,consultations_per_1k,307.28
+Western Australia,Female,5-11 (Primary),2024,consultations_per_1k,313.87
+Western Australia,Female,12-14,2019,consultations_per_1k,304.59
+Western Australia,Female,12-14,2020,consultations_per_1k,269.04
+Western Australia,Female,12-14,2021,consultations_per_1k,240.46
+Western Australia,Female,12-14,2022,consultations_per_1k,307.63
+Western Australia,Female,12-14,2023,consultations_per_1k,274.43
+Western Australia,Female,12-14,2024,consultations_per_1k,314.0
+Western Australia,Female,15-17,2019,consultations_per_1k,242.11
+Western Australia,Female,15-17,2020,consultations_per_1k,273.59
+Western Australia,Female,15-17,2021,consultations_per_1k,303.66
+Western Australia,Female,15-17,2022,consultations_per_1k,264.57
+Western Australia,Female,15-17,2023,consultations_per_1k,287.32
+Western Australia,Female,15-17,2024,consultations_per_1k,276.99
+Western Australia,Female,18-21,2019,consultations_per_1k,324.02
+Western Australia,Female,18-21,2020,consultations_per_1k,320.36
+Western Australia,Female,18-21,2021,consultations_per_1k,314.55
+Western Australia,Female,18-21,2022,consultations_per_1k,309.84
+Western Australia,Female,18-21,2023,consultations_per_1k,358.99
+Western Australia,Female,18-21,2024,consultations_per_1k,296.82
+Western Australia,Female,22-24,2019,consultations_per_1k,318.5
+Western Australia,Female,22-24,2020,consultations_per_1k,268.02
+Western Australia,Female,22-24,2021,consultations_per_1k,323.38
+Western Australia,Female,22-24,2022,consultations_per_1k,288.93
+Western Australia,Female,22-24,2023,consultations_per_1k,276.32
+Western Australia,Female,22-24,2024,consultations_per_1k,370.51
+Tasmania,Male,5-11 (Primary),2019,consultations_per_1k,242.79
+Tasmania,Male,5-11 (Primary),2020,consultations_per_1k,305.13
+Tasmania,Male,5-11 (Primary),2021,consultations_per_1k,286.67
+Tasmania,Male,5-11 (Primary),2022,consultations_per_1k,292.25
+Tasmania,Male,5-11 (Primary),2023,consultations_per_1k,298.78
+Tasmania,Male,5-11 (Primary),2024,consultations_per_1k,332.84
+Tasmania,Male,12-14,2019,consultations_per_1k,247.7
+Tasmania,Male,12-14,2020,consultations_per_1k,316.38
+Tasmania,Male,12-14,2021,consultations_per_1k,266.91
+Tasmania,Male,12-14,2022,consultations_per_1k,252.94
+Tasmania,Male,12-14,2023,consultations_per_1k,331.24
+Tasmania,Male,12-14,2024,consultations_per_1k,263.75
+Tasmania,Male,15-17,2019,consultations_per_1k,277.92
+Tasmania,Male,15-17,2020,consultations_per_1k,314.66
+Tasmania,Male,15-17,2021,consultations_per_1k,272.43
+Tasmania,Male,15-17,2022,consultations_per_1k,317.69
+Tasmania,Male,15-17,2023,consultations_per_1k,316.94
+Tasmania,Male,15-17,2024,consultations_per_1k,327.77
+Tasmania,Male,18-21,2019,consultations_per_1k,259.61
+Tasmania,Male,18-21,2020,consultations_per_1k,314.02
+Tasmania,Male,18-21,2021,consultations_per_1k,332.78
+Tasmania,Male,18-21,2022,consultations_per_1k,274.86
+Tasmania,Male,18-21,2023,consultations_per_1k,357.4
+Tasmania,Male,18-21,2024,consultations_per_1k,363.37
+Tasmania,Male,22-24,2019,consultations_per_1k,283.7
+Tasmania,Male,22-24,2020,consultations_per_1k,347.8
+Tasmania,Male,22-24,2021,consultations_per_1k,353.04
+Tasmania,Male,22-24,2022,consultations_per_1k,281.42
+Tasmania,Male,22-24,2023,consultations_per_1k,347.72
+Tasmania,Male,22-24,2024,consultations_per_1k,375.78
+Tasmania,Female,5-11 (Primary),2019,consultations_per_1k,285.24
+Tasmania,Female,5-11 (Primary),2020,consultations_per_1k,236.69
+Tasmania,Female,5-11 (Primary),2021,consultations_per_1k,264.49
+Tasmania,Female,5-11 (Primary),2022,consultations_per_1k,283.34
+Tasmania,Female,5-11 (Primary),2023,consultations_per_1k,273.04
+Tasmania,Female,5-11 (Primary),2024,consultations_per_1k,280.06
+Tasmania,Female,12-14,2019,consultations_per_1k,237.31
+Tasmania,Female,12-14,2020,consultations_per_1k,235.19
+Tasmania,Female,12-14,2021,consultations_per_1k,265.6
+Tasmania,Female,12-14,2022,consultations_per_1k,281.39
+Tasmania,Female,12-14,2023,consultations_per_1k,300.95
+Tasmania,Female,12-14,2024,consultations_per_1k,340.98
+Tasmania,Female,15-17,2019,consultations_per_1k,245.52
+Tasmania,Female,15-17,2020,consultations_per_1k,272.88
+Tasmania,Female,15-17,2021,consultations_per_1k,324.42
+Tasmania,Female,15-17,2022,consultations_per_1k,327.12
+Tasmania,Female,15-17,2023,consultations_per_1k,268.61
+Tasmania,Female,15-17,2024,consultations_per_1k,326.35
+Tasmania,Female,18-21,2019,consultations_per_1k,254.28
+Tasmania,Female,18-21,2020,consultations_per_1k,335.58
+Tasmania,Female,18-21,2021,consultations_per_1k,280.25
+Tasmania,Female,18-21,2022,consultations_per_1k,317.81
+Tasmania,Female,18-21,2023,consultations_per_1k,311.23
+Tasmania,Female,18-21,2024,consultations_per_1k,321.15
+Tasmania,Female,22-24,2019,consultations_per_1k,274.26
+Tasmania,Female,22-24,2020,consultations_per_1k,293.04
+Tasmania,Female,22-24,2021,consultations_per_1k,291.63
+Tasmania,Female,22-24,2022,consultations_per_1k,329.04
+Tasmania,Female,22-24,2023,consultations_per_1k,316.45
+Tasmania,Female,22-24,2024,consultations_per_1k,339.07
+Northern Territory,Male,5-11 (Primary),2019,consultations_per_1k,262.86
+Northern Territory,Male,5-11 (Primary),2020,consultations_per_1k,279.25
+Northern Territory,Male,5-11 (Primary),2021,consultations_per_1k,310.8
+Northern Territory,Male,5-11 (Primary),2022,consultations_per_1k,280.8
+Northern Territory,Male,5-11 (Primary),2023,consultations_per_1k,287.96
+Northern Territory,Male,5-11 (Primary),2024,consultations_per_1k,299.92
+Northern Territory,Male,12-14,2019,consultations_per_1k,273.84
+Northern Territory,Male,12-14,2020,consultations_per_1k,268.66
+Northern Territory,Male,12-14,2021,consultations_per_1k,260.51
+Northern Territory,Male,12-14,2022,consultations_per_1k,291.15
+Northern Territory,Male,12-14,2023,consultations_per_1k,271.6
+Northern Territory,Male,12-14,2024,consultations_per_1k,314.35
+Northern Territory,Male,15-17,2019,consultations_per_1k,312.45
+Northern Territory,Male,15-17,2020,consultations_per_1k,311.75
+Northern Territory,Male,15-17,2021,consultations_per_1k,317.09
+Northern Territory,Male,15-17,2022,consultations_per_1k,272.36
+Northern Territory,Male,15-17,2023,consultations_per_1k,261.47
+Northern Territory,Male,15-17,2024,consultations_per_1k,282.45
+Northern Territory,Male,18-21,2019,consultations_per_1k,296.11
+Northern Territory,Male,18-21,2020,consultations_per_1k,262.69
+Northern Territory,Male,18-21,2021,consultations_per_1k,265.78
+Northern Territory,Male,18-21,2022,consultations_per_1k,354.0
+Northern Territory,Male,18-21,2023,consultations_per_1k,300.28
+Northern Territory,Male,18-21,2024,consultations_per_1k,278.11
+Northern Territory,Male,22-24,2019,consultations_per_1k,301.04
+Northern Territory,Male,22-24,2020,consultations_per_1k,324.12
+Northern Territory,Male,22-24,2021,consultations_per_1k,308.28
+Northern Territory,Male,22-24,2022,consultations_per_1k,282.83
+Northern Territory,Male,22-24,2023,consultations_per_1k,325.44
+Northern Territory,Male,22-24,2024,consultations_per_1k,287.34
+Northern Territory,Female,5-11 (Primary),2019,consultations_per_1k,277.97
+Northern Territory,Female,5-11 (Primary),2020,consultations_per_1k,301.04
+Northern Territory,Female,5-11 (Primary),2021,consultations_per_1k,234.62
+Northern Territory,Female,5-11 (Primary),2022,consultations_per_1k,283.88
+Northern Territory,Female,5-11 (Primary),2023,consultations_per_1k,312.19
+Northern Territory,Female,5-11 (Primary),2024,consultations_per_1k,302.23
+Northern Territory,Female,12-14,2019,consultations_per_1k,241.58
+Northern Territory,Female,12-14,2020,consultations_per_1k,240.24
+Northern Territory,Female,12-14,2021,consultations_per_1k,278.4
+Northern Territory,Female,12-14,2022,consultations_per_1k,248.97
+Northern Territory,Female,12-14,2023,consultations_per_1k,323.71
+Northern Territory,Female,12-14,2024,consultations_per_1k,301.47
+Northern Territory,Female,15-17,2019,consultations_per_1k,264.61
+Northern Territory,Female,15-17,2020,consultations_per_1k,309.24
+Northern Territory,Female,15-17,2021,consultations_per_1k,266.99
+Northern Territory,Female,15-17,2022,consultations_per_1k,299.24
+Northern Territory,Female,15-17,2023,consultations_per_1k,304.56
+Northern Territory,Female,15-17,2024,consultations_per_1k,273.17
+Northern Territory,Female,18-21,2019,consultations_per_1k,316.18
+Northern Territory,Female,18-21,2020,consultations_per_1k,313.64
+Northern Territory,Female,18-21,2021,consultations_per_1k,274.73
+Northern Territory,Female,18-21,2022,consultations_per_1k,301.61
+Northern Territory,Female,18-21,2023,consultations_per_1k,296.04
+Northern Territory,Female,18-21,2024,consultations_per_1k,361.99
+Northern Territory,Female,22-24,2019,consultations_per_1k,315.1
+Northern Territory,Female,22-24,2020,consultations_per_1k,346.79
+Northern Territory,Female,22-24,2021,consultations_per_1k,336.97
+Northern Territory,Female,22-24,2022,consultations_per_1k,345.82
+Northern Territory,Female,22-24,2023,consultations_per_1k,305.55
+Northern Territory,Female,22-24,2024,consultations_per_1k,364.52
+Australian Capital Territory,Male,5-11 (Primary),2019,consultations_per_1k,247.11
+Australian Capital Territory,Male,5-11 (Primary),2020,consultations_per_1k,292.09
+Australian Capital Territory,Male,5-11 (Primary),2021,consultations_per_1k,289.12
+Australian Capital Territory,Male,5-11 (Primary),2022,consultations_per_1k,278.8
+Australian Capital Territory,Male,5-11 (Primary),2023,consultations_per_1k,255.91
+Australian Capital Territory,Male,5-11 (Primary),2024,consultations_per_1k,298.78
+Australian Capital Territory,Male,12-14,2019,consultations_per_1k,280.09
+Australian Capital Territory,Male,12-14,2020,consultations_per_1k,291.36
+Australian Capital Territory,Male,12-14,2021,consultations_per_1k,245.31
+Australian Capital Territory,Male,12-14,2022,consultations_per_1k,266.36
+Australian Capital Territory,Male,12-14,2023,consultations_per_1k,299.38
+Australian Capital Territory,Male,12-14,2024,consultations_per_1k,331.72
+Australian Capital Territory,Male,15-17,2019,consultations_per_1k,257.53
+Australian Capital Territory,Male,15-17,2020,consultations_per_1k,320.06
+Australian Capital Territory,Male,15-17,2021,consultations_per_1k,333.62
+Australian Capital Territory,Male,15-17,2022,consultations_per_1k,261.25
+Australian Capital Territory,Male,15-17,2023,consultations_per_1k,324.43
+Australian Capital Territory,Male,15-17,2024,consultations_per_1k,300.47
+Australian Capital Territory,Male,18-21,2019,consultations_per_1k,258.5
+Australian Capital Territory,Male,18-21,2020,consultations_per_1k,271.36
+Australian Capital Territory,Male,18-21,2021,consultations_per_1k,289.44
+Australian Capital Territory,Male,18-21,2022,consultations_per_1k,263.46
+Australian Capital Territory,Male,18-21,2023,consultations_per_1k,332.33
+Australian Capital Territory,Male,18-21,2024,consultations_per_1k,315.55
+Australian Capital Territory,Male,22-24,2019,consultations_per_1k,286.14
+Australian Capital Territory,Male,22-24,2020,consultations_per_1k,339.75
+Australian Capital Territory,Male,22-24,2021,consultations_per_1k,355.65
+Australian Capital Territory,Male,22-24,2022,consultations_per_1k,314.02
+Australian Capital Territory,Male,22-24,2023,consultations_per_1k,305.61
+Australian Capital Territory,Male,22-24,2024,consultations_per_1k,340.22
+Australian Capital Territory,Female,5-11 (Primary),2019,consultations_per_1k,252.63
+Australian Capital Territory,Female,5-11 (Primary),2020,consultations_per_1k,297.25
+Australian Capital Territory,Female,5-11 (Primary),2021,consultations_per_1k,254.73
+Australian Capital Territory,Female,5-11 (Primary),2022,consultations_per_1k,246.98
+Australian Capital Territory,Female,5-11 (Primary),2023,consultations_per_1k,242.68
+Australian Capital Territory,Female,5-11 (Primary),2024,consultations_per_1k,261.32
+Australian Capital Territory,Female,12-14,2019,consultations_per_1k,237.16
+Australian Capital Territory,Female,12-14,2020,consultations_per_1k,310.01
+Australian Capital Territory,Female,12-14,2021,consultations_per_1k,297.22
+Australian Capital Territory,Female,12-14,2022,consultations_per_1k,295.0
+Australian Capital Territory,Female,12-14,2023,consultations_per_1k,333.23
+Australian Capital Territory,Female,12-14,2024,consultations_per_1k,310.63
+Australian Capital Territory,Female,15-17,2019,consultations_per_1k,297.31
+Australian Capital Territory,Female,15-17,2020,consultations_per_1k,256.7
+Australian Capital Territory,Female,15-17,2021,consultations_per_1k,273.39
+Australian Capital Territory,Female,15-17,2022,consultations_per_1k,308.5
+Australian Capital Territory,Female,15-17,2023,consultations_per_1k,334.64
+Australian Capital Territory,Female,15-17,2024,consultations_per_1k,289.74
+Australian Capital Territory,Female,18-21,2019,consultations_per_1k,285.97
+Australian Capital Territory,Female,18-21,2020,consultations_per_1k,276.65
+Australian Capital Territory,Female,18-21,2021,consultations_per_1k,282.91
+Australian Capital Territory,Female,18-21,2022,consultations_per_1k,314.92
+Australian Capital Territory,Female,18-21,2023,consultations_per_1k,353.47
+Australian Capital Territory,Female,18-21,2024,consultations_per_1k,365.71
+Australian Capital Territory,Female,22-24,2019,consultations_per_1k,305.92
+Australian Capital Territory,Female,22-24,2020,consultations_per_1k,262.32
+Australian Capital Territory,Female,22-24,2021,consultations_per_1k,291.07
+Australian Capital Territory,Female,22-24,2022,consultations_per_1k,332.85
+Australian Capital Territory,Female,22-24,2023,consultations_per_1k,365.29
+Australian Capital Territory,Female,22-24,2024,consultations_per_1k,294.96

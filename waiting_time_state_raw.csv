@@ -1,0 +1,961 @@
+state,sex,age_band,year,metric,value
+New South Wales,Male,5-11 (Primary),2019,avg_wait_days,14.95
+New South Wales,Male,5-11 (Primary),2019,ed_on_time_pct,76.1
+New South Wales,Male,5-11 (Primary),2020,avg_wait_days,17.56
+New South Wales,Male,5-11 (Primary),2020,ed_on_time_pct,75.0
+New South Wales,Male,5-11 (Primary),2021,avg_wait_days,21.44
+New South Wales,Male,5-11 (Primary),2021,ed_on_time_pct,73.1
+New South Wales,Male,5-11 (Primary),2022,avg_wait_days,18.01
+New South Wales,Male,5-11 (Primary),2022,ed_on_time_pct,69.1
+New South Wales,Male,5-11 (Primary),2023,avg_wait_days,16.33
+New South Wales,Male,5-11 (Primary),2023,ed_on_time_pct,71.6
+New South Wales,Male,5-11 (Primary),2024,avg_wait_days,19.29
+New South Wales,Male,5-11 (Primary),2024,ed_on_time_pct,73.2
+New South Wales,Male,12-14,2019,avg_wait_days,20.95
+New South Wales,Male,12-14,2019,ed_on_time_pct,70.8
+New South Wales,Male,12-14,2020,avg_wait_days,20.14
+New South Wales,Male,12-14,2020,ed_on_time_pct,76.4
+New South Wales,Male,12-14,2021,avg_wait_days,19.48
+New South Wales,Male,12-14,2021,ed_on_time_pct,72.5
+New South Wales,Male,12-14,2022,avg_wait_days,25.79
+New South Wales,Male,12-14,2022,ed_on_time_pct,68.8
+New South Wales,Male,12-14,2023,avg_wait_days,22.88
+New South Wales,Male,12-14,2023,ed_on_time_pct,74.8
+New South Wales,Male,12-14,2024,avg_wait_days,19.63
+New South Wales,Male,12-14,2024,ed_on_time_pct,71.3
+New South Wales,Male,15-17,2019,avg_wait_days,32.58
+New South Wales,Male,15-17,2019,ed_on_time_pct,71.3
+New South Wales,Male,15-17,2020,avg_wait_days,28.26
+New South Wales,Male,15-17,2020,ed_on_time_pct,75.2
+New South Wales,Male,15-17,2021,avg_wait_days,29.89
+New South Wales,Male,15-17,2021,ed_on_time_pct,72.6
+New South Wales,Male,15-17,2022,avg_wait_days,24.69
+New South Wales,Male,15-17,2022,ed_on_time_pct,72.1
+New South Wales,Male,15-17,2023,avg_wait_days,26.57
+New South Wales,Male,15-17,2023,ed_on_time_pct,71.4
+New South Wales,Male,15-17,2024,avg_wait_days,26.5
+New South Wales,Male,15-17,2024,ed_on_time_pct,73.4
+New South Wales,Male,18-21,2019,avg_wait_days,38.76
+New South Wales,Male,18-21,2019,ed_on_time_pct,72.6
+New South Wales,Male,18-21,2020,avg_wait_days,36.02
+New South Wales,Male,18-21,2020,ed_on_time_pct,71.8
+New South Wales,Male,18-21,2021,avg_wait_days,34.34
+New South Wales,Male,18-21,2021,ed_on_time_pct,71.7
+New South Wales,Male,18-21,2022,avg_wait_days,37.2
+New South Wales,Male,18-21,2022,ed_on_time_pct,71.3
+New South Wales,Male,18-21,2023,avg_wait_days,34.43
+New South Wales,Male,18-21,2023,ed_on_time_pct,73.2
+New South Wales,Male,18-21,2024,avg_wait_days,33.78
+New South Wales,Male,18-21,2024,ed_on_time_pct,73.9
+New South Wales,Male,22-24,2019,avg_wait_days,27.91
+New South Wales,Male,22-24,2019,ed_on_time_pct,75.8
+New South Wales,Male,22-24,2020,avg_wait_days,31.01
+New South Wales,Male,22-24,2020,ed_on_time_pct,72.9
+New South Wales,Male,22-24,2021,avg_wait_days,33.72
+New South Wales,Male,22-24,2021,ed_on_time_pct,73.0
+New South Wales,Male,22-24,2022,avg_wait_days,30.91
+New South Wales,Male,22-24,2022,ed_on_time_pct,68.6
+New South Wales,Male,22-24,2023,avg_wait_days,26.78
+New South Wales,Male,22-24,2023,ed_on_time_pct,73.1
+New South Wales,Male,22-24,2024,avg_wait_days,32.31
+New South Wales,Male,22-24,2024,ed_on_time_pct,72.4
+New South Wales,Female,5-11 (Primary),2019,avg_wait_days,20.85
+New South Wales,Female,5-11 (Primary),2019,ed_on_time_pct,75.3
+New South Wales,Female,5-11 (Primary),2020,avg_wait_days,14.49
+New South Wales,Female,5-11 (Primary),2020,ed_on_time_pct,72.0
+New South Wales,Female,5-11 (Primary),2021,avg_wait_days,18.29
+New South Wales,Female,5-11 (Primary),2021,ed_on_time_pct,70.9
+New South Wales,Female,5-11 (Primary),2022,avg_wait_days,20.92
+New South Wales,Female,5-11 (Primary),2022,ed_on_time_pct,75.4
+New South Wales,Female,5-11 (Primary),2023,avg_wait_days,20.1
+New South Wales,Female,5-11 (Primary),2023,ed_on_time_pct,71.4
+New South Wales,Female,5-11 (Primary),2024,avg_wait_days,20.05
+New South Wales,Female,5-11 (Primary),2024,ed_on_time_pct,68.4
+New South Wales,Female,12-14,2019,avg_wait_days,19.91
+New South Wales,Female,12-14,2019,ed_on_time_pct,73.7
+New South Wales,Female,12-14,2020,avg_wait_days,23.65
+New South Wales,Female,12-14,2020,ed_on_time_pct,73.3
+New South Wales,Female,12-14,2021,avg_wait_days,18.43
+New South Wales,Female,12-14,2021,ed_on_time_pct,71.7
+New South Wales,Female,12-14,2022,avg_wait_days,20.05
+New South Wales,Female,12-14,2022,ed_on_time_pct,70.8
+New South Wales,Female,12-14,2023,avg_wait_days,18.68
+New South Wales,Female,12-14,2023,ed_on_time_pct,71.0
+New South Wales,Female,12-14,2024,avg_wait_days,21.11
+New South Wales,Female,12-14,2024,ed_on_time_pct,73.0
+New South Wales,Female,15-17,2019,avg_wait_days,30.69
+New South Wales,Female,15-17,2019,ed_on_time_pct,74.2
+New South Wales,Female,15-17,2020,avg_wait_days,27.01
+New South Wales,Female,15-17,2020,ed_on_time_pct,75.4
+New South Wales,Female,15-17,2021,avg_wait_days,31.69
+New South Wales,Female,15-17,2021,ed_on_time_pct,74.1
+New South Wales,Female,15-17,2022,avg_wait_days,30.74
+New South Wales,Female,15-17,2022,ed_on_time_pct,75.4
+New South Wales,Female,15-17,2023,avg_wait_days,22.4
+New South Wales,Female,15-17,2023,ed_on_time_pct,74.3
+New South Wales,Female,15-17,2024,avg_wait_days,24.99
+New South Wales,Female,15-17,2024,ed_on_time_pct,70.8
+New South Wales,Female,18-21,2019,avg_wait_days,38.37
+New South Wales,Female,18-21,2019,ed_on_time_pct,75.6
+New South Wales,Female,18-21,2020,avg_wait_days,29.46
+New South Wales,Female,18-21,2020,ed_on_time_pct,74.6
+New South Wales,Female,18-21,2021,avg_wait_days,28.39
+New South Wales,Female,18-21,2021,ed_on_time_pct,71.8
+New South Wales,Female,18-21,2022,avg_wait_days,38.59
+New South Wales,Female,18-21,2022,ed_on_time_pct,71.7
+New South Wales,Female,18-21,2023,avg_wait_days,35.67
+New South Wales,Female,18-21,2023,ed_on_time_pct,73.2
+New South Wales,Female,18-21,2024,avg_wait_days,38.71
+New South Wales,Female,18-21,2024,ed_on_time_pct,72.8
+New South Wales,Female,22-24,2019,avg_wait_days,25.18
+New South Wales,Female,22-24,2019,ed_on_time_pct,73.4
+New South Wales,Female,22-24,2020,avg_wait_days,30.9
+New South Wales,Female,22-24,2020,ed_on_time_pct,70.1
+New South Wales,Female,22-24,2021,avg_wait_days,31.88
+New South Wales,Female,22-24,2021,ed_on_time_pct,73.6
+New South Wales,Female,22-24,2022,avg_wait_days,35.48
+New South Wales,Female,22-24,2022,ed_on_time_pct,75.4
+New South Wales,Female,22-24,2023,avg_wait_days,26.7
+New South Wales,Female,22-24,2023,ed_on_time_pct,69.7
+New South Wales,Female,22-24,2024,avg_wait_days,33.36
+New South Wales,Female,22-24,2024,ed_on_time_pct,68.4
+Victoria,Male,5-11 (Primary),2019,avg_wait_days,16.49
+Victoria,Male,5-11 (Primary),2019,ed_on_time_pct,74.5
+Victoria,Male,5-11 (Primary),2020,avg_wait_days,16.09
+Victoria,Male,5-11 (Primary),2020,ed_on_time_pct,75.5
+Victoria,Male,5-11 (Primary),2021,avg_wait_days,21.19
+Victoria,Male,5-11 (Primary),2021,ed_on_time_pct,69.4
+Victoria,Male,5-11 (Primary),2022,avg_wait_days,18.78
+Victoria,Male,5-11 (Primary),2022,ed_on_time_pct,74.3
+Victoria,Male,5-11 (Primary),2023,avg_wait_days,22.06
+Victoria,Male,5-11 (Primary),2023,ed_on_time_pct,70.0
+Victoria,Male,5-11 (Primary),2024,avg_wait_days,16.09
+Victoria,Male,5-11 (Primary),2024,ed_on_time_pct,73.7
+Victoria,Male,12-14,2019,avg_wait_days,26.37
+Victoria,Male,12-14,2019,ed_on_time_pct,71.8
+Victoria,Male,12-14,2020,avg_wait_days,22.13
+Victoria,Male,12-14,2020,ed_on_time_pct,75.0
+Victoria,Male,12-14,2021,avg_wait_days,25.79
+Victoria,Male,12-14,2021,ed_on_time_pct,70.4
+Victoria,Male,12-14,2022,avg_wait_days,24.16
+Victoria,Male,12-14,2022,ed_on_time_pct,74.4
+Victoria,Male,12-14,2023,avg_wait_days,23.11
+Victoria,Male,12-14,2023,ed_on_time_pct,69.2
+Victoria,Male,12-14,2024,avg_wait_days,18.45
+Victoria,Male,12-14,2024,ed_on_time_pct,69.5
+Victoria,Male,15-17,2019,avg_wait_days,32.39
+Victoria,Male,15-17,2019,ed_on_time_pct,70.6
+Victoria,Male,15-17,2020,avg_wait_days,23.17
+Victoria,Male,15-17,2020,ed_on_time_pct,72.4
+Victoria,Male,15-17,2021,avg_wait_days,23.81
+Victoria,Male,15-17,2021,ed_on_time_pct,70.2
+Victoria,Male,15-17,2022,avg_wait_days,23.34
+Victoria,Male,15-17,2022,ed_on_time_pct,72.4
+Victoria,Male,15-17,2023,avg_wait_days,31.11
+Victoria,Male,15-17,2023,ed_on_time_pct,71.1
+Victoria,Male,15-17,2024,avg_wait_days,24.62
+Victoria,Male,15-17,2024,ed_on_time_pct,69.8
+Victoria,Male,18-21,2019,avg_wait_days,37.35
+Victoria,Male,18-21,2019,ed_on_time_pct,77.3
+Victoria,Male,18-21,2020,avg_wait_days,43.15
+Victoria,Male,18-21,2020,ed_on_time_pct,71.5
+Victoria,Male,18-21,2021,avg_wait_days,28.99
+Victoria,Male,18-21,2021,ed_on_time_pct,75.2
+Victoria,Male,18-21,2022,avg_wait_days,42.2
+Victoria,Male,18-21,2022,ed_on_time_pct,71.9
+Victoria,Male,18-21,2023,avg_wait_days,39.96
+Victoria,Male,18-21,2023,ed_on_time_pct,74.2
+Victoria,Male,18-21,2024,avg_wait_days,37.63
+Victoria,Male,18-21,2024,ed_on_time_pct,73.7
+Victoria,Male,22-24,2019,avg_wait_days,26.68
+Victoria,Male,22-24,2019,ed_on_time_pct,72.3
+Victoria,Male,22-24,2020,avg_wait_days,30.02
+Victoria,Male,22-24,2020,ed_on_time_pct,70.6
+Victoria,Male,22-24,2021,avg_wait_days,38.37
+Victoria,Male,22-24,2021,ed_on_time_pct,69.4
+Victoria,Male,22-24,2022,avg_wait_days,35.24
+Victoria,Male,22-24,2022,ed_on_time_pct,69.1
+Victoria,Male,22-24,2023,avg_wait_days,31.12
+Victoria,Male,22-24,2023,ed_on_time_pct,71.0
+Victoria,Male,22-24,2024,avg_wait_days,28.76
+Victoria,Male,22-24,2024,ed_on_time_pct,71.2
+Victoria,Female,5-11 (Primary),2019,avg_wait_days,18.43
+Victoria,Female,5-11 (Primary),2019,ed_on_time_pct,72.7
+Victoria,Female,5-11 (Primary),2020,avg_wait_days,19.9
+Victoria,Female,5-11 (Primary),2020,ed_on_time_pct,70.9
+Victoria,Female,5-11 (Primary),2021,avg_wait_days,15.94
+Victoria,Female,5-11 (Primary),2021,ed_on_time_pct,71.7
+Victoria,Female,5-11 (Primary),2022,avg_wait_days,17.3
+Victoria,Female,5-11 (Primary),2022,ed_on_time_pct,70.1
+Victoria,Female,5-11 (Primary),2023,avg_wait_days,21.22
+Victoria,Female,5-11 (Primary),2023,ed_on_time_pct,74.0
+Victoria,Female,5-11 (Primary),2024,avg_wait_days,15.32
+Victoria,Female,5-11 (Primary),2024,ed_on_time_pct,70.1
+Victoria,Female,12-14,2019,avg_wait_days,19.84
+Victoria,Female,12-14,2019,ed_on_time_pct,73.6
+Victoria,Female,12-14,2020,avg_wait_days,20.23
+Victoria,Female,12-14,2020,ed_on_time_pct,73.4
+Victoria,Female,12-14,2021,avg_wait_days,25.98
+Victoria,Female,12-14,2021,ed_on_time_pct,71.9
+Victoria,Female,12-14,2022,avg_wait_days,23.55
+Victoria,Female,12-14,2022,ed_on_time_pct,72.9
+Victoria,Female,12-14,2023,avg_wait_days,24.46
+Victoria,Female,12-14,2023,ed_on_time_pct,68.5
+Victoria,Female,12-14,2024,avg_wait_days,24.4
+Victoria,Female,12-14,2024,ed_on_time_pct,74.2
+Victoria,Female,15-17,2019,avg_wait_days,29.45
+Victoria,Female,15-17,2019,ed_on_time_pct,72.4
+Victoria,Female,15-17,2020,avg_wait_days,30.23
+Victoria,Female,15-17,2020,ed_on_time_pct,75.0
+Victoria,Female,15-17,2021,avg_wait_days,30.05
+Victoria,Female,15-17,2021,ed_on_time_pct,70.2
+Victoria,Female,15-17,2022,avg_wait_days,33.64
+Victoria,Female,15-17,2022,ed_on_time_pct,75.5
+Victoria,Female,15-17,2023,avg_wait_days,27.43
+Victoria,Female,15-17,2023,ed_on_time_pct,72.3
+Victoria,Female,15-17,2024,avg_wait_days,23.07
+Victoria,Female,15-17,2024,ed_on_time_pct,74.5
+Victoria,Female,18-21,2019,avg_wait_days,39.86
+Victoria,Female,18-21,2019,ed_on_time_pct,75.0
+Victoria,Female,18-21,2020,avg_wait_days,39.04
+Victoria,Female,18-21,2020,ed_on_time_pct,71.1
+Victoria,Female,18-21,2021,avg_wait_days,32.63
+Victoria,Female,18-21,2021,ed_on_time_pct,71.0
+Victoria,Female,18-21,2022,avg_wait_days,36.71
+Victoria,Female,18-21,2022,ed_on_time_pct,69.2
+Victoria,Female,18-21,2023,avg_wait_days,40.94
+Victoria,Female,18-21,2023,ed_on_time_pct,71.3
+Victoria,Female,18-21,2024,avg_wait_days,34.57
+Victoria,Female,18-21,2024,ed_on_time_pct,68.2
+Victoria,Female,22-24,2019,avg_wait_days,34.71
+Victoria,Female,22-24,2019,ed_on_time_pct,76.3
+Victoria,Female,22-24,2020,avg_wait_days,33.99
+Victoria,Female,22-24,2020,ed_on_time_pct,71.5
+Victoria,Female,22-24,2021,avg_wait_days,36.01
+Victoria,Female,22-24,2021,ed_on_time_pct,70.2
+Victoria,Female,22-24,2022,avg_wait_days,36.55
+Victoria,Female,22-24,2022,ed_on_time_pct,72.8
+Victoria,Female,22-24,2023,avg_wait_days,29.6
+Victoria,Female,22-24,2023,ed_on_time_pct,71.7
+Victoria,Female,22-24,2024,avg_wait_days,33.99
+Victoria,Female,22-24,2024,ed_on_time_pct,69.3
+Queensland,Male,5-11 (Primary),2019,avg_wait_days,21.73
+Queensland,Male,5-11 (Primary),2019,ed_on_time_pct,73.4
+Queensland,Male,5-11 (Primary),2020,avg_wait_days,22.07
+Queensland,Male,5-11 (Primary),2020,ed_on_time_pct,75.9
+Queensland,Male,5-11 (Primary),2021,avg_wait_days,16.02
+Queensland,Male,5-11 (Primary),2021,ed_on_time_pct,73.9
+Queensland,Male,5-11 (Primary),2022,avg_wait_days,17.63
+Queensland,Male,5-11 (Primary),2022,ed_on_time_pct,74.0
+Queensland,Male,5-11 (Primary),2023,avg_wait_days,19.41
+Queensland,Male,5-11 (Primary),2023,ed_on_time_pct,71.3
+Queensland,Male,5-11 (Primary),2024,avg_wait_days,22.1
+Queensland,Male,5-11 (Primary),2024,ed_on_time_pct,67.9
+Queensland,Male,12-14,2019,avg_wait_days,23.85
+Queensland,Male,12-14,2019,ed_on_time_pct,72.7
+Queensland,Male,12-14,2020,avg_wait_days,18.99
+Queensland,Male,12-14,2020,ed_on_time_pct,75.3
+Queensland,Male,12-14,2021,avg_wait_days,23.9
+Queensland,Male,12-14,2021,ed_on_time_pct,75.7
+Queensland,Male,12-14,2022,avg_wait_days,24.24
+Queensland,Male,12-14,2022,ed_on_time_pct,71.0
+Queensland,Male,12-14,2023,avg_wait_days,27.85
+Queensland,Male,12-14,2023,ed_on_time_pct,68.8
+Queensland,Male,12-14,2024,avg_wait_days,19.15
+Queensland,Male,12-14,2024,ed_on_time_pct,72.7
+Queensland,Male,15-17,2019,avg_wait_days,28.15
+Queensland,Male,15-17,2019,ed_on_time_pct,73.0
+Queensland,Male,15-17,2020,avg_wait_days,34.15
+Queensland,Male,15-17,2020,ed_on_time_pct,72.1
+Queensland,Male,15-17,2021,avg_wait_days,34.3
+Queensland,Male,15-17,2021,ed_on_time_pct,73.8
+Queensland,Male,15-17,2022,avg_wait_days,27.65
+Queensland,Male,15-17,2022,ed_on_time_pct,69.0
+Queensland,Male,15-17,2023,avg_wait_days,26.65
+Queensland,Male,15-17,2023,ed_on_time_pct,75.0
+Queensland,Male,15-17,2024,avg_wait_days,28.56
+Queensland,Male,15-17,2024,ed_on_time_pct,68.6
+Queensland,Male,18-21,2019,avg_wait_days,34.1
+Queensland,Male,18-21,2019,ed_on_time_pct,77.0
+Queensland,Male,18-21,2020,avg_wait_days,32.13
+Queensland,Male,18-21,2020,ed_on_time_pct,75.4
+Queensland,Male,18-21,2021,avg_wait_days,31.68
+Queensland,Male,18-21,2021,ed_on_time_pct,76.2
+Queensland,Male,18-21,2022,avg_wait_days,37.55
+Queensland,Male,18-21,2022,ed_on_time_pct,68.9
+Queensland,Male,18-21,2023,avg_wait_days,43.5
+Queensland,Male,18-21,2023,ed_on_time_pct,70.6
+Queensland,Male,18-21,2024,avg_wait_days,40.53
+Queensland,Male,18-21,2024,ed_on_time_pct,71.2
+Queensland,Male,22-24,2019,avg_wait_days,28.39
+Queensland,Male,22-24,2019,ed_on_time_pct,71.1
+Queensland,Male,22-24,2020,avg_wait_days,29.16
+Queensland,Male,22-24,2020,ed_on_time_pct,70.9
+Queensland,Male,22-24,2021,avg_wait_days,27.85
+Queensland,Male,22-24,2021,ed_on_time_pct,69.5
+Queensland,Male,22-24,2022,avg_wait_days,40.0
+Queensland,Male,22-24,2022,ed_on_time_pct,69.2
+Queensland,Male,22-24,2023,avg_wait_days,34.03
+Queensland,Male,22-24,2023,ed_on_time_pct,68.9
+Queensland,Male,22-24,2024,avg_wait_days,30.05
+Queensland,Male,22-24,2024,ed_on_time_pct,72.9
+Queensland,Female,5-11 (Primary),2019,avg_wait_days,22.0
+Queensland,Female,5-11 (Primary),2019,ed_on_time_pct,73.8
+Queensland,Female,5-11 (Primary),2020,avg_wait_days,15.02
+Queensland,Female,5-11 (Primary),2020,ed_on_time_pct,77.1
+Queensland,Female,5-11 (Primary),2021,avg_wait_days,15.33
+Queensland,Female,5-11 (Primary),2021,ed_on_time_pct,72.0
+Queensland,Female,5-11 (Primary),2022,avg_wait_days,19.01
+Queensland,Female,5-11 (Primary),2022,ed_on_time_pct,75.0
+Queensland,Female,5-11 (Primary),2023,avg_wait_days,21.14
+Queensland,Female,5-11 (Primary),2023,ed_on_time_pct,72.4
+Queensland,Female,5-11 (Primary),2024,avg_wait_days,17.96
+Queensland,Female,5-11 (Primary),2024,ed_on_time_pct,73.4
+Queensland,Female,12-14,2019,avg_wait_days,26.26
+Queensland,Female,12-14,2019,ed_on_time_pct,76.8
+Queensland,Female,12-14,2020,avg_wait_days,24.87
+Queensland,Female,12-14,2020,ed_on_time_pct,70.5
+Queensland,Female,12-14,2021,avg_wait_days,21.04
+Queensland,Female,12-14,2021,ed_on_time_pct,72.7
+Queensland,Female,12-14,2022,avg_wait_days,22.93
+Queensland,Female,12-14,2022,ed_on_time_pct,74.6
+Queensland,Female,12-14,2023,avg_wait_days,20.48
+Queensland,Female,12-14,2023,ed_on_time_pct,72.8
+Queensland,Female,12-14,2024,avg_wait_days,21.73
+Queensland,Female,12-14,2024,ed_on_time_pct,73.0
+Queensland,Female,15-17,2019,avg_wait_days,25.58
+Queensland,Female,15-17,2019,ed_on_time_pct,73.8
+Queensland,Female,15-17,2020,avg_wait_days,24.5
+Queensland,Female,15-17,2020,ed_on_time_pct,71.3
+Queensland,Female,15-17,2021,avg_wait_days,34.19
+Queensland,Female,15-17,2021,ed_on_time_pct,71.5
+Queensland,Female,15-17,2022,avg_wait_days,33.7
+Queensland,Female,15-17,2022,ed_on_time_pct,72.4
+Queensland,Female,15-17,2023,avg_wait_days,23.75
+Queensland,Female,15-17,2023,ed_on_time_pct,73.7
+Queensland,Female,15-17,2024,avg_wait_days,23.9
+Queensland,Female,15-17,2024,ed_on_time_pct,73.3
+Queensland,Female,18-21,2019,avg_wait_days,29.25
+Queensland,Female,18-21,2019,ed_on_time_pct,75.3
+Queensland,Female,18-21,2020,avg_wait_days,31.53
+Queensland,Female,18-21,2020,ed_on_time_pct,72.2
+Queensland,Female,18-21,2021,avg_wait_days,42.99
+Queensland,Female,18-21,2021,ed_on_time_pct,72.7
+Queensland,Female,18-21,2022,avg_wait_days,38.69
+Queensland,Female,18-21,2022,ed_on_time_pct,73.9
+Queensland,Female,18-21,2023,avg_wait_days,30.72
+Queensland,Female,18-21,2023,ed_on_time_pct,74.0
+Queensland,Female,18-21,2024,avg_wait_days,42.43
+Queensland,Female,18-21,2024,ed_on_time_pct,68.5
+Queensland,Female,22-24,2019,avg_wait_days,33.9
+Queensland,Female,22-24,2019,ed_on_time_pct,72.4
+Queensland,Female,22-24,2020,avg_wait_days,36.48
+Queensland,Female,22-24,2020,ed_on_time_pct,69.9
+Queensland,Female,22-24,2021,avg_wait_days,33.45
+Queensland,Female,22-24,2021,ed_on_time_pct,74.9
+Queensland,Female,22-24,2022,avg_wait_days,36.4
+Queensland,Female,22-24,2022,ed_on_time_pct,69.4
+Queensland,Female,22-24,2023,avg_wait_days,37.71
+Queensland,Female,22-24,2023,ed_on_time_pct,69.7
+Queensland,Female,22-24,2024,avg_wait_days,37.38
+Queensland,Female,22-24,2024,ed_on_time_pct,71.0
+South Australia,Male,5-11 (Primary),2019,avg_wait_days,16.96
+South Australia,Male,5-11 (Primary),2019,ed_on_time_pct,75.7
+South Australia,Male,5-11 (Primary),2020,avg_wait_days,22.04
+South Australia,Male,5-11 (Primary),2020,ed_on_time_pct,74.9
+South Australia,Male,5-11 (Primary),2021,avg_wait_days,23.27
+South Australia,Male,5-11 (Primary),2021,ed_on_time_pct,71.0
+South Australia,Male,5-11 (Primary),2022,avg_wait_days,17.55
+South Australia,Male,5-11 (Primary),2022,ed_on_time_pct,69.7
+South Australia,Male,5-11 (Primary),2023,avg_wait_days,19.93
+South Australia,Male,5-11 (Primary),2023,ed_on_time_pct,70.9
+South Australia,Male,5-11 (Primary),2024,avg_wait_days,18.5
+South Australia,Male,5-11 (Primary),2024,ed_on_time_pct,70.7
+South Australia,Male,12-14,2019,avg_wait_days,21.82
+South Australia,Male,12-14,2019,ed_on_time_pct,70.3
+South Australia,Male,12-14,2020,avg_wait_days,23.71
+South Australia,Male,12-14,2020,ed_on_time_pct,71.8
+South Australia,Male,12-14,2021,avg_wait_days,23.5
+South Australia,Male,12-14,2021,ed_on_time_pct,75.9
+South Australia,Male,12-14,2022,avg_wait_days,20.9
+South Australia,Male,12-14,2022,ed_on_time_pct,73.2
+South Australia,Male,12-14,2023,avg_wait_days,25.37
+South Australia,Male,12-14,2023,ed_on_time_pct,70.0
+South Australia,Male,12-14,2024,avg_wait_days,23.7
+South Australia,Male,12-14,2024,ed_on_time_pct,74.3
+South Australia,Male,15-17,2019,avg_wait_days,28.6
+South Australia,Male,15-17,2019,ed_on_time_pct,75.6
+South Australia,Male,15-17,2020,avg_wait_days,34.67
+South Australia,Male,15-17,2020,ed_on_time_pct,72.4
+South Australia,Male,15-17,2021,avg_wait_days,36.5
+South Australia,Male,15-17,2021,ed_on_time_pct,73.7
+South Australia,Male,15-17,2022,avg_wait_days,30.53
+South Australia,Male,15-17,2022,ed_on_time_pct,73.8
+South Australia,Male,15-17,2023,avg_wait_days,29.59
+South Australia,Male,15-17,2023,ed_on_time_pct,73.1
+South Australia,Male,15-17,2024,avg_wait_days,27.77
+South Australia,Male,15-17,2024,ed_on_time_pct,74.0
+South Australia,Male,18-21,2019,avg_wait_days,38.79
+South Australia,Male,18-21,2019,ed_on_time_pct,72.1
+South Australia,Male,18-21,2020,avg_wait_days,37.19
+South Australia,Male,18-21,2020,ed_on_time_pct,76.3
+South Australia,Male,18-21,2021,avg_wait_days,42.84
+South Australia,Male,18-21,2021,ed_on_time_pct,72.7
+South Australia,Male,18-21,2022,avg_wait_days,35.89
+South Australia,Male,18-21,2022,ed_on_time_pct,71.3
+South Australia,Male,18-21,2023,avg_wait_days,45.49
+South Australia,Male,18-21,2023,ed_on_time_pct,68.8
+South Australia,Male,18-21,2024,avg_wait_days,44.09
+South Australia,Male,18-21,2024,ed_on_time_pct,73.5
+South Australia,Male,22-24,2019,avg_wait_days,31.03
+South Australia,Male,22-24,2019,ed_on_time_pct,72.9
+South Australia,Male,22-24,2020,avg_wait_days,35.85
+South Australia,Male,22-24,2020,ed_on_time_pct,75.6
+South Australia,Male,22-24,2021,avg_wait_days,41.16
+South Australia,Male,22-24,2021,ed_on_time_pct,76.4
+South Australia,Male,22-24,2022,avg_wait_days,31.83
+South Australia,Male,22-24,2022,ed_on_time_pct,70.0
+South Australia,Male,22-24,2023,avg_wait_days,34.71
+South Australia,Male,22-24,2023,ed_on_time_pct,72.0
+South Australia,Male,22-24,2024,avg_wait_days,37.07
+South Australia,Male,22-24,2024,ed_on_time_pct,68.2
+South Australia,Female,5-11 (Primary),2019,avg_wait_days,20.39
+South Australia,Female,5-11 (Primary),2019,ed_on_time_pct,77.1
+South Australia,Female,5-11 (Primary),2020,avg_wait_days,22.46
+South Australia,Female,5-11 (Primary),2020,ed_on_time_pct,76.7
+South Australia,Female,5-11 (Primary),2021,avg_wait_days,22.51
+South Australia,Female,5-11 (Primary),2021,ed_on_time_pct,76.2
+South Australia,Female,5-11 (Primary),2022,avg_wait_days,15.78
+South Australia,Female,5-11 (Primary),2022,ed_on_time_pct,75.2
+South Australia,Female,5-11 (Primary),2023,avg_wait_days,17.5
+South Australia,Female,5-11 (Primary),2023,ed_on_time_pct,70.3
+South Australia,Female,5-11 (Primary),2024,avg_wait_days,18.94
+South Australia,Female,5-11 (Primary),2024,ed_on_time_pct,74.2
+South Australia,Female,12-14,2019,avg_wait_days,24.53
+South Australia,Female,12-14,2019,ed_on_time_pct,72.9
+South Australia,Female,12-14,2020,avg_wait_days,22.36
+South Australia,Female,12-14,2020,ed_on_time_pct,76.4
+South Australia,Female,12-14,2021,avg_wait_days,26.58
+South Australia,Female,12-14,2021,ed_on_time_pct,70.2
+South Australia,Female,12-14,2022,avg_wait_days,21.17
+South Australia,Female,12-14,2022,ed_on_time_pct,71.3
+South Australia,Female,12-14,2023,avg_wait_days,20.87
+South Australia,Female,12-14,2023,ed_on_time_pct,72.0
+South Australia,Female,12-14,2024,avg_wait_days,20.94
+South Australia,Female,12-14,2024,ed_on_time_pct,71.5
+South Australia,Female,15-17,2019,avg_wait_days,35.19
+South Australia,Female,15-17,2019,ed_on_time_pct,76.6
+South Australia,Female,15-17,2020,avg_wait_days,25.16
+South Australia,Female,15-17,2020,ed_on_time_pct,71.2
+South Australia,Female,15-17,2021,avg_wait_days,28.91
+South Australia,Female,15-17,2021,ed_on_time_pct,73.9
+South Australia,Female,15-17,2022,avg_wait_days,28.6
+South Australia,Female,15-17,2022,ed_on_time_pct,70.4
+South Australia,Female,15-17,2023,avg_wait_days,28.1
+South Australia,Female,15-17,2023,ed_on_time_pct,69.5
+South Australia,Female,15-17,2024,avg_wait_days,34.3
+South Australia,Female,15-17,2024,ed_on_time_pct,72.4
+South Australia,Female,18-21,2019,avg_wait_days,36.12
+South Australia,Female,18-21,2019,ed_on_time_pct,75.5
+South Australia,Female,18-21,2020,avg_wait_days,37.75
+South Australia,Female,18-21,2020,ed_on_time_pct,73.6
+South Australia,Female,18-21,2021,avg_wait_days,35.46
+South Australia,Female,18-21,2021,ed_on_time_pct,72.7
+South Australia,Female,18-21,2022,avg_wait_days,44.72
+South Australia,Female,18-21,2022,ed_on_time_pct,74.2
+South Australia,Female,18-21,2023,avg_wait_days,42.36
+South Australia,Female,18-21,2023,ed_on_time_pct,68.9
+South Australia,Female,18-21,2024,avg_wait_days,37.51
+South Australia,Female,18-21,2024,ed_on_time_pct,70.0
+South Australia,Female,22-24,2019,avg_wait_days,28.61
+South Australia,Female,22-24,2019,ed_on_time_pct,73.2
+South Australia,Female,22-24,2020,avg_wait_days,28.41
+South Australia,Female,22-24,2020,ed_on_time_pct,71.5
+South Australia,Female,22-24,2021,avg_wait_days,38.33
+South Australia,Female,22-24,2021,ed_on_time_pct,74.2
+South Australia,Female,22-24,2022,avg_wait_days,36.96
+South Australia,Female,22-24,2022,ed_on_time_pct,69.2
+South Australia,Female,22-24,2023,avg_wait_days,29.64
+South Australia,Female,22-24,2023,ed_on_time_pct,68.2
+South Australia,Female,22-24,2024,avg_wait_days,28.73
+South Australia,Female,22-24,2024,ed_on_time_pct,68.2
+Western Australia,Male,5-11 (Primary),2019,avg_wait_days,23.87
+Western Australia,Male,5-11 (Primary),2019,ed_on_time_pct,76.9
+Western Australia,Male,5-11 (Primary),2020,avg_wait_days,17.78
+Western Australia,Male,5-11 (Primary),2020,ed_on_time_pct,71.6
+Western Australia,Male,5-11 (Primary),2021,avg_wait_days,23.88
+Western Australia,Male,5-11 (Primary),2021,ed_on_time_pct,73.3
+Western Australia,Male,5-11 (Primary),2022,avg_wait_days,19.1
+Western Australia,Male,5-11 (Primary),2022,ed_on_time_pct,72.0
+Western Australia,Male,5-11 (Primary),2023,avg_wait_days,18.32
+Western Australia,Male,5-11 (Primary),2023,ed_on_time_pct,72.2
+Western Australia,Male,5-11 (Primary),2024,avg_wait_days,21.98
+Western Australia,Male,5-11 (Primary),2024,ed_on_time_pct,71.1
+Western Australia,Male,12-14,2019,avg_wait_days,27.8
+Western Australia,Male,12-14,2019,ed_on_time_pct,71.1
+Western Australia,Male,12-14,2020,avg_wait_days,25.66
+Western Australia,Male,12-14,2020,ed_on_time_pct,77.0
+Western Australia,Male,12-14,2021,avg_wait_days,21.18
+Western Australia,Male,12-14,2021,ed_on_time_pct,72.8
+Western Australia,Male,12-14,2022,avg_wait_days,25.92
+Western Australia,Male,12-14,2022,ed_on_time_pct,71.0
+Western Australia,Male,12-14,2023,avg_wait_days,29.22
+Western Australia,Male,12-14,2023,ed_on_time_pct,71.5
+Western Australia,Male,12-14,2024,avg_wait_days,24.43
+Western Australia,Male,12-14,2024,ed_on_time_pct,73.9
+Western Australia,Male,15-17,2019,avg_wait_days,25.29
+Western Australia,Male,15-17,2019,ed_on_time_pct,76.7
+Western Australia,Male,15-17,2020,avg_wait_days,26.71
+Western Australia,Male,15-17,2020,ed_on_time_pct,72.5
+Western Australia,Male,15-17,2021,avg_wait_days,31.22
+Western Australia,Male,15-17,2021,ed_on_time_pct,72.6
+Western Australia,Male,15-17,2022,avg_wait_days,25.58
+Western Australia,Male,15-17,2022,ed_on_time_pct,70.9
+Western Australia,Male,15-17,2023,avg_wait_days,29.56
+Western Australia,Male,15-17,2023,ed_on_time_pct,74.9
+Western Australia,Male,15-17,2024,avg_wait_days,36.59
+Western Australia,Male,15-17,2024,ed_on_time_pct,71.6
+Western Australia,Male,18-21,2019,avg_wait_days,46.0
+Western Australia,Male,18-21,2019,ed_on_time_pct,76.7
+Western Australia,Male,18-21,2020,avg_wait_days,37.25
+Western Australia,Male,18-21,2020,ed_on_time_pct,70.6
+Western Australia,Male,18-21,2021,avg_wait_days,40.88
+Western Australia,Male,18-21,2021,ed_on_time_pct,71.5
+Western Australia,Male,18-21,2022,avg_wait_days,31.51
+Western Australia,Male,18-21,2022,ed_on_time_pct,75.7
+Western Australia,Male,18-21,2023,avg_wait_days,46.56
+Western Australia,Male,18-21,2023,ed_on_time_pct,71.9
+Western Australia,Male,18-21,2024,avg_wait_days,41.05
+Western Australia,Male,18-21,2024,ed_on_time_pct,72.2
+Western Australia,Male,22-24,2019,avg_wait_days,41.95
+Western Australia,Male,22-24,2019,ed_on_time_pct,73.8
+Western Australia,Male,22-24,2020,avg_wait_days,37.03
+Western Australia,Male,22-24,2020,ed_on_time_pct,71.4
+Western Australia,Male,22-24,2021,avg_wait_days,32.15
+Western Australia,Male,22-24,2021,ed_on_time_pct,73.0
+Western Australia,Male,22-24,2022,avg_wait_days,31.96
+Western Australia,Male,22-24,2022,ed_on_time_pct,68.8
+Western Australia,Male,22-24,2023,avg_wait_days,33.95
+Western Australia,Male,22-24,2023,ed_on_time_pct,73.4
+Western Australia,Male,22-24,2024,avg_wait_days,32.64
+Western Australia,Male,22-24,2024,ed_on_time_pct,73.6
+Western Australia,Female,5-11 (Primary),2019,avg_wait_days,21.4
+Western Australia,Female,5-11 (Primary),2019,ed_on_time_pct,75.1
+Western Australia,Female,5-11 (Primary),2020,avg_wait_days,22.91
+Western Australia,Female,5-11 (Primary),2020,ed_on_time_pct,70.3
+Western Australia,Female,5-11 (Primary),2021,avg_wait_days,17.26
+Western Australia,Female,5-11 (Primary),2021,ed_on_time_pct,75.8
+Western Australia,Female,5-11 (Primary),2022,avg_wait_days,23.02
+Western Australia,Female,5-11 (Primary),2022,ed_on_time_pct,69.2
+Western Australia,Female,5-11 (Primary),2023,avg_wait_days,21.97
+Western Australia,Female,5-11 (Primary),2023,ed_on_time_pct,68.1
+Western Australia,Female,5-11 (Primary),2024,avg_wait_days,16.91
+Western Australia,Female,5-11 (Primary),2024,ed_on_time_pct,68.2
+Western Australia,Female,12-14,2019,avg_wait_days,22.21
+Western Australia,Female,12-14,2019,ed_on_time_pct,73.2
+Western Australia,Female,12-14,2020,avg_wait_days,28.18
+Western Australia,Female,12-14,2020,ed_on_time_pct,72.9
+Western Australia,Female,12-14,2021,avg_wait_days,20.56
+Western Australia,Female,12-14,2021,ed_on_time_pct,71.1
+Western Australia,Female,12-14,2022,avg_wait_days,19.42
+Western Australia,Female,12-14,2022,ed_on_time_pct,68.8
+Western Australia,Female,12-14,2023,avg_wait_days,23.53
+Western Australia,Female,12-14,2023,ed_on_time_pct,71.7
+Western Australia,Female,12-14,2024,avg_wait_days,21.78
+Western Australia,Female,12-14,2024,ed_on_time_pct,70.2
+Western Australia,Female,15-17,2019,avg_wait_days,25.91
+Western Australia,Female,15-17,2019,ed_on_time_pct,75.2
+Western Australia,Female,15-17,2020,avg_wait_days,29.48
+Western Australia,Female,15-17,2020,ed_on_time_pct,70.9
+Western Australia,Female,15-17,2021,avg_wait_days,30.77
+Western Australia,Female,15-17,2021,ed_on_time_pct,70.7
+Western Australia,Female,15-17,2022,avg_wait_days,28.24
+Western Australia,Female,15-17,2022,ed_on_time_pct,69.5
+Western Australia,Female,15-17,2023,avg_wait_days,34.26
+Western Australia,Female,15-17,2023,ed_on_time_pct,70.0
+Western Australia,Female,15-17,2024,avg_wait_days,36.41
+Western Australia,Female,15-17,2024,ed_on_time_pct,70.3
+Western Australia,Female,18-21,2019,avg_wait_days,33.19
+Western Australia,Female,18-21,2019,ed_on_time_pct,75.5
+Western Australia,Female,18-21,2020,avg_wait_days,42.1
+Western Australia,Female,18-21,2020,ed_on_time_pct,76.2
+Western Australia,Female,18-21,2021,avg_wait_days,32.83
+Western Australia,Female,18-21,2021,ed_on_time_pct,74.9
+Western Australia,Female,18-21,2022,avg_wait_days,44.04
+Western Australia,Female,18-21,2022,ed_on_time_pct,70.8
+Western Australia,Female,18-21,2023,avg_wait_days,37.8
+Western Australia,Female,18-21,2023,ed_on_time_pct,72.5
+Western Australia,Female,18-21,2024,avg_wait_days,34.58
+Western Australia,Female,18-21,2024,ed_on_time_pct,73.6
+Western Australia,Female,22-24,2019,avg_wait_days,38.0
+Western Australia,Female,22-24,2019,ed_on_time_pct,76.6
+Western Australia,Female,22-24,2020,avg_wait_days,34.49
+Western Australia,Female,22-24,2020,ed_on_time_pct,73.5
+Western Australia,Female,22-24,2021,avg_wait_days,30.9
+Western Australia,Female,22-24,2021,ed_on_time_pct,71.5
+Western Australia,Female,22-24,2022,avg_wait_days,38.43
+Western Australia,Female,22-24,2022,ed_on_time_pct,75.5
+Western Australia,Female,22-24,2023,avg_wait_days,30.3
+Western Australia,Female,22-24,2023,ed_on_time_pct,68.4
+Western Australia,Female,22-24,2024,avg_wait_days,29.11
+Western Australia,Female,22-24,2024,ed_on_time_pct,70.5
+Tasmania,Male,5-11 (Primary),2019,avg_wait_days,23.12
+Tasmania,Male,5-11 (Primary),2019,ed_on_time_pct,72.0
+Tasmania,Male,5-11 (Primary),2020,avg_wait_days,20.51
+Tasmania,Male,5-11 (Primary),2020,ed_on_time_pct,73.5
+Tasmania,Male,5-11 (Primary),2021,avg_wait_days,23.5
+Tasmania,Male,5-11 (Primary),2021,ed_on_time_pct,70.3
+Tasmania,Male,5-11 (Primary),2022,avg_wait_days,16.68
+Tasmania,Male,5-11 (Primary),2022,ed_on_time_pct,72.2
+Tasmania,Male,5-11 (Primary),2023,avg_wait_days,19.5
+Tasmania,Male,5-11 (Primary),2023,ed_on_time_pct,70.1
+Tasmania,Male,5-11 (Primary),2024,avg_wait_days,22.95
+Tasmania,Male,5-11 (Primary),2024,ed_on_time_pct,72.3
+Tasmania,Male,12-14,2019,avg_wait_days,21.09
+Tasmania,Male,12-14,2019,ed_on_time_pct,74.4
+Tasmania,Male,12-14,2020,avg_wait_days,28.31
+Tasmania,Male,12-14,2020,ed_on_time_pct,76.4
+Tasmania,Male,12-14,2021,avg_wait_days,20.24
+Tasmania,Male,12-14,2021,ed_on_time_pct,75.0
+Tasmania,Male,12-14,2022,avg_wait_days,20.68
+Tasmania,Male,12-14,2022,ed_on_time_pct,73.5
+Tasmania,Male,12-14,2023,avg_wait_days,26.29
+Tasmania,Male,12-14,2023,ed_on_time_pct,74.8
+Tasmania,Male,12-14,2024,avg_wait_days,26.63
+Tasmania,Male,12-14,2024,ed_on_time_pct,68.0
+Tasmania,Male,15-17,2019,avg_wait_days,34.39
+Tasmania,Male,15-17,2019,ed_on_time_pct,72.2
+Tasmania,Male,15-17,2020,avg_wait_days,36.48
+Tasmania,Male,15-17,2020,ed_on_time_pct,70.0
+Tasmania,Male,15-17,2021,avg_wait_days,29.93
+Tasmania,Male,15-17,2021,ed_on_time_pct,74.1
+Tasmania,Male,15-17,2022,avg_wait_days,27.76
+Tasmania,Male,15-17,2022,ed_on_time_pct,73.3
+Tasmania,Male,15-17,2023,avg_wait_days,34.74
+Tasmania,Male,15-17,2023,ed_on_time_pct,73.3
+Tasmania,Male,15-17,2024,avg_wait_days,37.03
+Tasmania,Male,15-17,2024,ed_on_time_pct,70.4
+Tasmania,Male,18-21,2019,avg_wait_days,34.49
+Tasmania,Male,18-21,2019,ed_on_time_pct,72.2
+Tasmania,Male,18-21,2020,avg_wait_days,38.47
+Tasmania,Male,18-21,2020,ed_on_time_pct,70.1
+Tasmania,Male,18-21,2021,avg_wait_days,43.61
+Tasmania,Male,18-21,2021,ed_on_time_pct,69.6
+Tasmania,Male,18-21,2022,avg_wait_days,33.13
+Tasmania,Male,18-21,2022,ed_on_time_pct,75.3
+Tasmania,Male,18-21,2023,avg_wait_days,45.18
+Tasmania,Male,18-21,2023,ed_on_time_pct,69.8
+Tasmania,Male,18-21,2024,avg_wait_days,37.7
+Tasmania,Male,18-21,2024,ed_on_time_pct,73.3
+Tasmania,Male,22-24,2019,avg_wait_days,38.56
+Tasmania,Male,22-24,2019,ed_on_time_pct,72.3
+Tasmania,Male,22-24,2020,avg_wait_days,36.05
+Tasmania,Male,22-24,2020,ed_on_time_pct,76.0
+Tasmania,Male,22-24,2021,avg_wait_days,29.45
+Tasmania,Male,22-24,2021,ed_on_time_pct,76.4
+Tasmania,Male,22-24,2022,avg_wait_days,37.77
+Tasmania,Male,22-24,2022,ed_on_time_pct,69.9
+Tasmania,Male,22-24,2023,avg_wait_days,41.22
+Tasmania,Male,22-24,2023,ed_on_time_pct,68.6
+Tasmania,Male,22-24,2024,avg_wait_days,35.48
+Tasmania,Male,22-24,2024,ed_on_time_pct,71.5
+Tasmania,Female,5-11 (Primary),2019,avg_wait_days,18.28
+Tasmania,Female,5-11 (Primary),2019,ed_on_time_pct,76.8
+Tasmania,Female,5-11 (Primary),2020,avg_wait_days,21.94
+Tasmania,Female,5-11 (Primary),2020,ed_on_time_pct,70.9
+Tasmania,Female,5-11 (Primary),2021,avg_wait_days,17.51
+Tasmania,Female,5-11 (Primary),2021,ed_on_time_pct,69.6
+Tasmania,Female,5-11 (Primary),2022,avg_wait_days,20.92
+Tasmania,Female,5-11 (Primary),2022,ed_on_time_pct,69.9
+Tasmania,Female,5-11 (Primary),2023,avg_wait_days,20.69
+Tasmania,Female,5-11 (Primary),2023,ed_on_time_pct,73.9
+Tasmania,Female,5-11 (Primary),2024,avg_wait_days,23.43
+Tasmania,Female,5-11 (Primary),2024,ed_on_time_pct,68.3
+Tasmania,Female,12-14,2019,avg_wait_days,23.19
+Tasmania,Female,12-14,2019,ed_on_time_pct,73.4
+Tasmania,Female,12-14,2020,avg_wait_days,23.7
+Tasmania,Female,12-14,2020,ed_on_time_pct,72.8
+Tasmania,Female,12-14,2021,avg_wait_days,24.46
+Tasmania,Female,12-14,2021,ed_on_time_pct,74.7
+Tasmania,Female,12-14,2022,avg_wait_days,22.93
+Tasmania,Female,12-14,2022,ed_on_time_pct,71.1
+Tasmania,Female,12-14,2023,avg_wait_days,23.77
+Tasmania,Female,12-14,2023,ed_on_time_pct,69.1
+Tasmania,Female,12-14,2024,avg_wait_days,26.16
+Tasmania,Female,12-14,2024,ed_on_time_pct,70.3
+Tasmania,Female,15-17,2019,avg_wait_days,36.91
+Tasmania,Female,15-17,2019,ed_on_time_pct,76.4
+Tasmania,Female,15-17,2020,avg_wait_days,28.23
+Tasmania,Female,15-17,2020,ed_on_time_pct,71.5
+Tasmania,Female,15-17,2021,avg_wait_days,35.21
+Tasmania,Female,15-17,2021,ed_on_time_pct,73.2
+Tasmania,Female,15-17,2022,avg_wait_days,25.44
+Tasmania,Female,15-17,2022,ed_on_time_pct,73.1
+Tasmania,Female,15-17,2023,avg_wait_days,30.31
+Tasmania,Female,15-17,2023,ed_on_time_pct,73.6
+Tasmania,Female,15-17,2024,avg_wait_days,34.76
+Tasmania,Female,15-17,2024,ed_on_time_pct,74.0
+Tasmania,Female,18-21,2019,avg_wait_days,42.7
+Tasmania,Female,18-21,2019,ed_on_time_pct,77.1
+Tasmania,Female,18-21,2020,avg_wait_days,36.14
+Tasmania,Female,18-21,2020,ed_on_time_pct,72.2
+Tasmania,Female,18-21,2021,avg_wait_days,32.58
+Tasmania,Female,18-21,2021,ed_on_time_pct,75.5
+Tasmania,Female,18-21,2022,avg_wait_days,34.08
+Tasmania,Female,18-21,2022,ed_on_time_pct,72.6
+Tasmania,Female,18-21,2023,avg_wait_days,39.7
+Tasmania,Female,18-21,2023,ed_on_time_pct,73.8
+Tasmania,Female,18-21,2024,avg_wait_days,37.78
+Tasmania,Female,18-21,2024,ed_on_time_pct,68.5
+Tasmania,Female,22-24,2019,avg_wait_days,34.47
+Tasmania,Female,22-24,2019,ed_on_time_pct,70.7
+Tasmania,Female,22-24,2020,avg_wait_days,33.29
+Tasmania,Female,22-24,2020,ed_on_time_pct,74.3
+Tasmania,Female,22-24,2021,avg_wait_days,29.75
+Tasmania,Female,22-24,2021,ed_on_time_pct,76.4
+Tasmania,Female,22-24,2022,avg_wait_days,36.68
+Tasmania,Female,22-24,2022,ed_on_time_pct,70.8
+Tasmania,Female,22-24,2023,avg_wait_days,40.99
+Tasmania,Female,22-24,2023,ed_on_time_pct,69.0
+Tasmania,Female,22-24,2024,avg_wait_days,33.58
+Tasmania,Female,22-24,2024,ed_on_time_pct,74.1
+Northern Territory,Male,5-11 (Primary),2019,avg_wait_days,19.03
+Northern Territory,Male,5-11 (Primary),2019,ed_on_time_pct,75.7
+Northern Territory,Male,5-11 (Primary),2020,avg_wait_days,17.68
+Northern Territory,Male,5-11 (Primary),2020,ed_on_time_pct,73.6
+Northern Territory,Male,5-11 (Primary),2021,avg_wait_days,22.58
+Northern Territory,Male,5-11 (Primary),2021,ed_on_time_pct,70.7
+Northern Territory,Male,5-11 (Primary),2022,avg_wait_days,19.78
+Northern Territory,Male,5-11 (Primary),2022,ed_on_time_pct,72.6
+Northern Territory,Male,5-11 (Primary),2023,avg_wait_days,22.0
+Northern Territory,Male,5-11 (Primary),2023,ed_on_time_pct,69.1
+Northern Territory,Male,5-11 (Primary),2024,avg_wait_days,20.48
+Northern Territory,Male,5-11 (Primary),2024,ed_on_time_pct,74.5
+Northern Territory,Male,12-14,2019,avg_wait_days,24.12
+Northern Territory,Male,12-14,2019,ed_on_time_pct,76.1
+Northern Territory,Male,12-14,2020,avg_wait_days,22.86
+Northern Territory,Male,12-14,2020,ed_on_time_pct,73.1
+Northern Territory,Male,12-14,2021,avg_wait_days,26.15
+Northern Territory,Male,12-14,2021,ed_on_time_pct,73.5
+Northern Territory,Male,12-14,2022,avg_wait_days,28.22
+Northern Territory,Male,12-14,2022,ed_on_time_pct,74.3
+Northern Territory,Male,12-14,2023,avg_wait_days,28.04
+Northern Territory,Male,12-14,2023,ed_on_time_pct,73.8
+Northern Territory,Male,12-14,2024,avg_wait_days,29.97
+Northern Territory,Male,12-14,2024,ed_on_time_pct,69.8
+Northern Territory,Male,15-17,2019,avg_wait_days,37.37
+Northern Territory,Male,15-17,2019,ed_on_time_pct,74.2
+Northern Territory,Male,15-17,2020,avg_wait_days,29.86
+Northern Territory,Male,15-17,2020,ed_on_time_pct,71.0
+Northern Territory,Male,15-17,2021,avg_wait_days,36.53
+Northern Territory,Male,15-17,2021,ed_on_time_pct,73.8
+Northern Territory,Male,15-17,2022,avg_wait_days,27.37
+Northern Territory,Male,15-17,2022,ed_on_time_pct,72.8
+Northern Territory,Male,15-17,2023,avg_wait_days,27.02
+Northern Territory,Male,15-17,2023,ed_on_time_pct,70.8
+Northern Territory,Male,15-17,2024,avg_wait_days,33.98
+Northern Territory,Male,15-17,2024,ed_on_time_pct,72.1
+Northern Territory,Male,18-21,2019,avg_wait_days,35.65
+Northern Territory,Male,18-21,2019,ed_on_time_pct,70.6
+Northern Territory,Male,18-21,2020,avg_wait_days,42.56
+Northern Territory,Male,18-21,2020,ed_on_time_pct,75.7
+Northern Territory,Male,18-21,2021,avg_wait_days,46.2
+Northern Territory,Male,18-21,2021,ed_on_time_pct,71.8
+Northern Territory,Male,18-21,2022,avg_wait_days,42.57
+Northern Territory,Male,18-21,2022,ed_on_time_pct,73.8
+Northern Territory,Male,18-21,2023,avg_wait_days,47.47
+Northern Territory,Male,18-21,2023,ed_on_time_pct,71.5
+Northern Territory,Male,18-21,2024,avg_wait_days,47.5
+Northern Territory,Male,18-21,2024,ed_on_time_pct,69.7
+Northern Territory,Male,22-24,2019,avg_wait_days,33.52
+Northern Territory,Male,22-24,2019,ed_on_time_pct,72.5
+Northern Territory,Male,22-24,2020,avg_wait_days,41.23
+Northern Territory,Male,22-24,2020,ed_on_time_pct,76.2
+Northern Territory,Male,22-24,2021,avg_wait_days,37.32
+Northern Territory,Male,22-24,2021,ed_on_time_pct,74.2
+Northern Territory,Male,22-24,2022,avg_wait_days,32.3
+Northern Territory,Male,22-24,2022,ed_on_time_pct,72.2
+Northern Territory,Male,22-24,2023,avg_wait_days,36.78
+Northern Territory,Male,22-24,2023,ed_on_time_pct,71.1
+Northern Territory,Male,22-24,2024,avg_wait_days,33.05
+Northern Territory,Male,22-24,2024,ed_on_time_pct,71.9
+Northern Territory,Female,5-11 (Primary),2019,avg_wait_days,22.32
+Northern Territory,Female,5-11 (Primary),2019,ed_on_time_pct,75.0
+Northern Territory,Female,5-11 (Primary),2020,avg_wait_days,22.91
+Northern Territory,Female,5-11 (Primary),2020,ed_on_time_pct,73.1
+Northern Territory,Female,5-11 (Primary),2021,avg_wait_days,23.82
+Northern Territory,Female,5-11 (Primary),2021,ed_on_time_pct,73.3
+Northern Territory,Female,5-11 (Primary),2022,avg_wait_days,24.07
+Northern Territory,Female,5-11 (Primary),2022,ed_on_time_pct,71.5
+Northern Territory,Female,5-11 (Primary),2023,avg_wait_days,22.55
+Northern Territory,Female,5-11 (Primary),2023,ed_on_time_pct,69.4
+Northern Territory,Female,5-11 (Primary),2024,avg_wait_days,17.4
+Northern Territory,Female,5-11 (Primary),2024,ed_on_time_pct,74.1
+Northern Territory,Female,12-14,2019,avg_wait_days,24.2
+Northern Territory,Female,12-14,2019,ed_on_time_pct,70.6
+Northern Territory,Female,12-14,2020,avg_wait_days,26.73
+Northern Territory,Female,12-14,2020,ed_on_time_pct,76.6
+Northern Territory,Female,12-14,2021,avg_wait_days,28.27
+Northern Territory,Female,12-14,2021,ed_on_time_pct,76.3
+Northern Territory,Female,12-14,2022,avg_wait_days,29.96
+Northern Territory,Female,12-14,2022,ed_on_time_pct,71.9
+Northern Territory,Female,12-14,2023,avg_wait_days,22.8
+Northern Territory,Female,12-14,2023,ed_on_time_pct,68.5
+Northern Territory,Female,12-14,2024,avg_wait_days,23.19
+Northern Territory,Female,12-14,2024,ed_on_time_pct,71.9
+Northern Territory,Female,15-17,2019,avg_wait_days,37.82
+Northern Territory,Female,15-17,2019,ed_on_time_pct,70.3
+Northern Territory,Female,15-17,2020,avg_wait_days,36.6
+Northern Territory,Female,15-17,2020,ed_on_time_pct,75.3
+Northern Territory,Female,15-17,2021,avg_wait_days,34.96
+Northern Territory,Female,15-17,2021,ed_on_time_pct,70.1
+Northern Territory,Female,15-17,2022,avg_wait_days,26.68
+Northern Territory,Female,15-17,2022,ed_on_time_pct,73.9
+Northern Territory,Female,15-17,2023,avg_wait_days,34.32
+Northern Territory,Female,15-17,2023,ed_on_time_pct,70.7
+Northern Territory,Female,15-17,2024,avg_wait_days,30.47
+Northern Territory,Female,15-17,2024,ed_on_time_pct,67.7
+Northern Territory,Female,18-21,2019,avg_wait_days,48.61
+Northern Territory,Female,18-21,2019,ed_on_time_pct,76.5
+Northern Territory,Female,18-21,2020,avg_wait_days,48.3
+Northern Territory,Female,18-21,2020,ed_on_time_pct,75.7
+Northern Territory,Female,18-21,2021,avg_wait_days,39.93
+Northern Territory,Female,18-21,2021,ed_on_time_pct,75.3
+Northern Territory,Female,18-21,2022,avg_wait_days,35.7
+Northern Territory,Female,18-21,2022,ed_on_time_pct,73.5
+Northern Territory,Female,18-21,2023,avg_wait_days,36.33
+Northern Territory,Female,18-21,2023,ed_on_time_pct,70.8
+Northern Territory,Female,18-21,2024,avg_wait_days,46.64
+Northern Territory,Female,18-21,2024,ed_on_time_pct,70.5
+Northern Territory,Female,22-24,2019,avg_wait_days,42.97
+Northern Territory,Female,22-24,2019,ed_on_time_pct,74.7
+Northern Territory,Female,22-24,2020,avg_wait_days,34.06
+Northern Territory,Female,22-24,2020,ed_on_time_pct,71.6
+Northern Territory,Female,22-24,2021,avg_wait_days,29.75
+Northern Territory,Female,22-24,2021,ed_on_time_pct,73.3
+Northern Territory,Female,22-24,2022,avg_wait_days,42.15
+Northern Territory,Female,22-24,2022,ed_on_time_pct,70.2
+Northern Territory,Female,22-24,2023,avg_wait_days,36.81
+Northern Territory,Female,22-24,2023,ed_on_time_pct,75.1
+Northern Territory,Female,22-24,2024,avg_wait_days,35.54
+Northern Territory,Female,22-24,2024,ed_on_time_pct,74.1
+Australian Capital Territory,Male,5-11 (Primary),2019,avg_wait_days,24.63
+Australian Capital Territory,Male,5-11 (Primary),2019,ed_on_time_pct,74.0
+Australian Capital Territory,Male,5-11 (Primary),2020,avg_wait_days,22.96
+Australian Capital Territory,Male,5-11 (Primary),2020,ed_on_time_pct,70.2
+Australian Capital Territory,Male,5-11 (Primary),2021,avg_wait_days,21.92
+Australian Capital Territory,Male,5-11 (Primary),2021,ed_on_time_pct,74.7
+Australian Capital Territory,Male,5-11 (Primary),2022,avg_wait_days,19.43
+Australian Capital Territory,Male,5-11 (Primary),2022,ed_on_time_pct,69.0
+Australian Capital Territory,Male,5-11 (Primary),2023,avg_wait_days,17.68
+Australian Capital Territory,Male,5-11 (Primary),2023,ed_on_time_pct,69.2
+Australian Capital Territory,Male,5-11 (Primary),2024,avg_wait_days,19.5
+Australian Capital Territory,Male,5-11 (Primary),2024,ed_on_time_pct,73.2
+Australian Capital Territory,Male,12-14,2019,avg_wait_days,26.18
+Australian Capital Territory,Male,12-14,2019,ed_on_time_pct,74.3
+Australian Capital Territory,Male,12-14,2020,avg_wait_days,24.63
+Australian Capital Territory,Male,12-14,2020,ed_on_time_pct,71.9
+Australian Capital Territory,Male,12-14,2021,avg_wait_days,27.19
+Australian Capital Territory,Male,12-14,2021,ed_on_time_pct,74.6
+Australian Capital Territory,Male,12-14,2022,avg_wait_days,23.22
+Australian Capital Territory,Male,12-14,2022,ed_on_time_pct,71.7
+Australian Capital Territory,Male,12-14,2023,avg_wait_days,28.15
+Australian Capital Territory,Male,12-14,2023,ed_on_time_pct,74.9
+Australian Capital Territory,Male,12-14,2024,avg_wait_days,24.16
+Australian Capital Territory,Male,12-14,2024,ed_on_time_pct,70.2
+Australian Capital Territory,Male,15-17,2019,avg_wait_days,34.82
+Australian Capital Territory,Male,15-17,2019,ed_on_time_pct,71.3
+Australian Capital Territory,Male,15-17,2020,avg_wait_days,35.39
+Australian Capital Territory,Male,15-17,2020,ed_on_time_pct,76.9
+Australian Capital Territory,Male,15-17,2021,avg_wait_days,30.81
+Australian Capital Territory,Male,15-17,2021,ed_on_time_pct,72.7
+Australian Capital Territory,Male,15-17,2022,avg_wait_days,28.7
+Australian Capital Territory,Male,15-17,2022,ed_on_time_pct,72.3
+Australian Capital Territory,Male,15-17,2023,avg_wait_days,40.27
+Australian Capital Territory,Male,15-17,2023,ed_on_time_pct,71.9
+Australian Capital Territory,Male,15-17,2024,avg_wait_days,30.0
+Australian Capital Territory,Male,15-17,2024,ed_on_time_pct,69.7
+Australian Capital Territory,Male,18-21,2019,avg_wait_days,44.49
+Australian Capital Territory,Male,18-21,2019,ed_on_time_pct,76.6
+Australian Capital Territory,Male,18-21,2020,avg_wait_days,41.56
+Australian Capital Territory,Male,18-21,2020,ed_on_time_pct,73.3
+Australian Capital Territory,Male,18-21,2021,avg_wait_days,47.59
+Australian Capital Territory,Male,18-21,2021,ed_on_time_pct,69.9
+Australian Capital Territory,Male,18-21,2022,avg_wait_days,49.99
+Australian Capital Territory,Male,18-21,2022,ed_on_time_pct,72.0
+Australian Capital Territory,Male,18-21,2023,avg_wait_days,39.5
+Australian Capital Territory,Male,18-21,2023,ed_on_time_pct,73.6
+Australian Capital Territory,Male,18-21,2024,avg_wait_days,38.22
+Australian Capital Territory,Male,18-21,2024,ed_on_time_pct,68.5
+Australian Capital Territory,Male,22-24,2019,avg_wait_days,34.97
+Australian Capital Territory,Male,22-24,2019,ed_on_time_pct,75.3
+Australian Capital Territory,Male,22-24,2020,avg_wait_days,32.54
+Australian Capital Territory,Male,22-24,2020,ed_on_time_pct,73.0
+Australian Capital Territory,Male,22-24,2021,avg_wait_days,34.62
+Australian Capital Territory,Male,22-24,2021,ed_on_time_pct,73.1
+Australian Capital Territory,Male,22-24,2022,avg_wait_days,33.12
+Australian Capital Territory,Male,22-24,2022,ed_on_time_pct,74.2
+Australian Capital Territory,Male,22-24,2023,avg_wait_days,45.29
+Australian Capital Territory,Male,22-24,2023,ed_on_time_pct,70.3
+Australian Capital Territory,Male,22-24,2024,avg_wait_days,36.47
+Australian Capital Territory,Male,22-24,2024,ed_on_time_pct,71.7
+Australian Capital Territory,Female,5-11 (Primary),2019,avg_wait_days,23.47
+Australian Capital Territory,Female,5-11 (Primary),2019,ed_on_time_pct,70.7
+Australian Capital Territory,Female,5-11 (Primary),2020,avg_wait_days,22.92
+Australian Capital Territory,Female,5-11 (Primary),2020,ed_on_time_pct,75.7
+Australian Capital Territory,Female,5-11 (Primary),2021,avg_wait_days,23.93
+Australian Capital Territory,Female,5-11 (Primary),2021,ed_on_time_pct,72.3
+Australian Capital Territory,Female,5-11 (Primary),2022,avg_wait_days,24.19
+Australian Capital Territory,Female,5-11 (Primary),2022,ed_on_time_pct,72.5
+Australian Capital Territory,Female,5-11 (Primary),2023,avg_wait_days,18.74
+Australian Capital Territory,Female,5-11 (Primary),2023,ed_on_time_pct,70.1
+Australian Capital Territory,Female,5-11 (Primary),2024,avg_wait_days,22.21
+Australian Capital Territory,Female,5-11 (Primary),2024,ed_on_time_pct,71.4
+Australian Capital Territory,Female,12-14,2019,avg_wait_days,29.34
+Australian Capital Territory,Female,12-14,2019,ed_on_time_pct,75.6
+Australian Capital Territory,Female,12-14,2020,avg_wait_days,23.18
+Australian Capital Territory,Female,12-14,2020,ed_on_time_pct,72.7
+Australian Capital Territory,Female,12-14,2021,avg_wait_days,29.09
+Australian Capital Territory,Female,12-14,2021,ed_on_time_pct,72.5
+Australian Capital Territory,Female,12-14,2022,avg_wait_days,23.3
+Australian Capital Territory,Female,12-14,2022,ed_on_time_pct,75.4
+Australian Capital Territory,Female,12-14,2023,avg_wait_days,25.65
+Australian Capital Territory,Female,12-14,2023,ed_on_time_pct,70.2
+Australian Capital Territory,Female,12-14,2024,avg_wait_days,26.3
+Australian Capital Territory,Female,12-14,2024,ed_on_time_pct,69.6
+Australian Capital Territory,Female,15-17,2019,avg_wait_days,30.26
+Australian Capital Territory,Female,15-17,2019,ed_on_time_pct,75.2
+Australian Capital Territory,Female,15-17,2020,avg_wait_days,37.25
+Australian Capital Territory,Female,15-17,2020,ed_on_time_pct,72.7
+Australian Capital Territory,Female,15-17,2021,avg_wait_days,28.8
+Australian Capital Territory,Female,15-17,2021,ed_on_time_pct,72.6
+Australian Capital Territory,Female,15-17,2022,avg_wait_days,32.01
+Australian Capital Territory,Female,15-17,2022,ed_on_time_pct,71.7
+Australian Capital Territory,Female,15-17,2023,avg_wait_days,29.85
+Australian Capital Territory,Female,15-17,2023,ed_on_time_pct,73.5
+Australian Capital Territory,Female,15-17,2024,avg_wait_days,29.35
+Australian Capital Territory,Female,15-17,2024,ed_on_time_pct,67.7
+Australian Capital Territory,Female,18-21,2019,avg_wait_days,44.98
+Australian Capital Territory,Female,18-21,2019,ed_on_time_pct,75.8
+Australian Capital Territory,Female,18-21,2020,avg_wait_days,37.3
+Australian Capital Territory,Female,18-21,2020,ed_on_time_pct,71.0
+Australian Capital Territory,Female,18-21,2021,avg_wait_days,42.99
+Australian Capital Territory,Female,18-21,2021,ed_on_time_pct,75.8
+Australian Capital Territory,Female,18-21,2022,avg_wait_days,37.55
+Australian Capital Territory,Female,18-21,2022,ed_on_time_pct,72.5
+Australian Capital Territory,Female,18-21,2023,avg_wait_days,37.72
+Australian Capital Territory,Female,18-21,2023,ed_on_time_pct,73.3
+Australian Capital Territory,Female,18-21,2024,avg_wait_days,41.1
+Australian Capital Territory,Female,18-21,2024,ed_on_time_pct,70.1
+Australian Capital Territory,Female,22-24,2019,avg_wait_days,40.46
+Australian Capital Territory,Female,22-24,2019,ed_on_time_pct,74.2
+Australian Capital Territory,Female,22-24,2020,avg_wait_days,33.53
+Australian Capital Territory,Female,22-24,2020,ed_on_time_pct,72.8
+Australian Capital Territory,Female,22-24,2021,avg_wait_days,45.03
+Australian Capital Territory,Female,22-24,2021,ed_on_time_pct,75.0
+Australian Capital Territory,Female,22-24,2022,avg_wait_days,38.26
+Australian Capital Territory,Female,22-24,2022,ed_on_time_pct,73.4
+Australian Capital Territory,Female,22-24,2023,avg_wait_days,32.63
+Australian Capital Territory,Female,22-24,2023,ed_on_time_pct,71.0
+Australian Capital Territory,Female,22-24,2024,avg_wait_days,44.09
+Australian Capital Territory,Female,22-24,2024,ed_on_time_pct,68.8

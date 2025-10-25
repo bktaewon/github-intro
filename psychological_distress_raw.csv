@@ -1,0 +1,481 @@
+state,sex,age_band,year,metric,value
+New South Wales,Male,5-11 (Primary),2019,k10_mean,21.28
+New South Wales,Male,5-11 (Primary),2020,k10_mean,20.44
+New South Wales,Male,5-11 (Primary),2021,k10_mean,19.98
+New South Wales,Male,5-11 (Primary),2022,k10_mean,17.73
+New South Wales,Male,5-11 (Primary),2023,k10_mean,17.56
+New South Wales,Male,5-11 (Primary),2024,k10_mean,16.96
+New South Wales,Male,12-14,2019,k10_mean,19.57
+New South Wales,Male,12-14,2020,k10_mean,21.14
+New South Wales,Male,12-14,2021,k10_mean,20.68
+New South Wales,Male,12-14,2022,k10_mean,22.28
+New South Wales,Male,12-14,2023,k10_mean,20.0
+New South Wales,Male,12-14,2024,k10_mean,21.61
+New South Wales,Male,15-17,2019,k10_mean,23.2
+New South Wales,Male,15-17,2020,k10_mean,22.39
+New South Wales,Male,15-17,2021,k10_mean,25.59
+New South Wales,Male,15-17,2022,k10_mean,22.81
+New South Wales,Male,15-17,2023,k10_mean,24.11
+New South Wales,Male,15-17,2024,k10_mean,22.57
+New South Wales,Male,18-21,2019,k10_mean,26.41
+New South Wales,Male,18-21,2020,k10_mean,23.51
+New South Wales,Male,18-21,2021,k10_mean,22.82
+New South Wales,Male,18-21,2022,k10_mean,26.28
+New South Wales,Male,18-21,2023,k10_mean,25.47
+New South Wales,Male,18-21,2024,k10_mean,26.42
+New South Wales,Male,22-24,2019,k10_mean,22.02
+New South Wales,Male,22-24,2020,k10_mean,26.13
+New South Wales,Male,22-24,2021,k10_mean,21.84
+New South Wales,Male,22-24,2022,k10_mean,27.18
+New South Wales,Male,22-24,2023,k10_mean,27.08
+New South Wales,Male,22-24,2024,k10_mean,26.27
+New South Wales,Female,5-11 (Primary),2019,k10_mean,19.1
+New South Wales,Female,5-11 (Primary),2020,k10_mean,20.7
+New South Wales,Female,5-11 (Primary),2021,k10_mean,22.36
+New South Wales,Female,5-11 (Primary),2022,k10_mean,21.04
+New South Wales,Female,5-11 (Primary),2023,k10_mean,20.77
+New South Wales,Female,5-11 (Primary),2024,k10_mean,17.74
+New South Wales,Female,12-14,2019,k10_mean,19.55
+New South Wales,Female,12-14,2020,k10_mean,22.68
+New South Wales,Female,12-14,2021,k10_mean,21.82
+New South Wales,Female,12-14,2022,k10_mean,21.95
+New South Wales,Female,12-14,2023,k10_mean,20.37
+New South Wales,Female,12-14,2024,k10_mean,20.97
+New South Wales,Female,15-17,2019,k10_mean,27.34
+New South Wales,Female,15-17,2020,k10_mean,24.19
+New South Wales,Female,15-17,2021,k10_mean,27.83
+New South Wales,Female,15-17,2022,k10_mean,23.0
+New South Wales,Female,15-17,2023,k10_mean,25.19
+New South Wales,Female,15-17,2024,k10_mean,25.83
+New South Wales,Female,18-21,2019,k10_mean,27.68
+New South Wales,Female,18-21,2020,k10_mean,28.44
+New South Wales,Female,18-21,2021,k10_mean,28.13
+New South Wales,Female,18-21,2022,k10_mean,28.52
+New South Wales,Female,18-21,2023,k10_mean,23.7
+New South Wales,Female,18-21,2024,k10_mean,23.83
+New South Wales,Female,22-24,2019,k10_mean,23.25
+New South Wales,Female,22-24,2020,k10_mean,23.65
+New South Wales,Female,22-24,2021,k10_mean,26.84
+New South Wales,Female,22-24,2022,k10_mean,25.73
+New South Wales,Female,22-24,2023,k10_mean,26.77
+New South Wales,Female,22-24,2024,k10_mean,26.11
+Victoria,Male,5-11 (Primary),2019,k10_mean,19.27
+Victoria,Male,5-11 (Primary),2020,k10_mean,17.57
+Victoria,Male,5-11 (Primary),2021,k10_mean,20.64
+Victoria,Male,5-11 (Primary),2022,k10_mean,20.24
+Victoria,Male,5-11 (Primary),2023,k10_mean,20.17
+Victoria,Male,5-11 (Primary),2024,k10_mean,20.97
+Victoria,Male,12-14,2019,k10_mean,20.47
+Victoria,Male,12-14,2020,k10_mean,20.61
+Victoria,Male,12-14,2021,k10_mean,20.85
+Victoria,Male,12-14,2022,k10_mean,20.24
+Victoria,Male,12-14,2023,k10_mean,21.06
+Victoria,Male,12-14,2024,k10_mean,21.64
+Victoria,Male,15-17,2019,k10_mean,24.5
+Victoria,Male,15-17,2020,k10_mean,22.14
+Victoria,Male,15-17,2021,k10_mean,25.3
+Victoria,Male,15-17,2022,k10_mean,21.53
+Victoria,Male,15-17,2023,k10_mean,22.31
+Victoria,Male,15-17,2024,k10_mean,23.4
+Victoria,Male,18-21,2019,k10_mean,27.5
+Victoria,Male,18-21,2020,k10_mean,23.98
+Victoria,Male,18-21,2021,k10_mean,27.5
+Victoria,Male,18-21,2022,k10_mean,25.99
+Victoria,Male,18-21,2023,k10_mean,26.72
+Victoria,Male,18-21,2024,k10_mean,24.25
+Victoria,Male,22-24,2019,k10_mean,27.27
+Victoria,Male,22-24,2020,k10_mean,25.39
+Victoria,Male,22-24,2021,k10_mean,22.03
+Victoria,Male,22-24,2022,k10_mean,26.3
+Victoria,Male,22-24,2023,k10_mean,24.31
+Victoria,Male,22-24,2024,k10_mean,26.47
+Victoria,Female,5-11 (Primary),2019,k10_mean,20.96
+Victoria,Female,5-11 (Primary),2020,k10_mean,22.24
+Victoria,Female,5-11 (Primary),2021,k10_mean,21.96
+Victoria,Female,5-11 (Primary),2022,k10_mean,20.8
+Victoria,Female,5-11 (Primary),2023,k10_mean,21.27
+Victoria,Female,5-11 (Primary),2024,k10_mean,17.89
+Victoria,Female,12-14,2019,k10_mean,23.56
+Victoria,Female,12-14,2020,k10_mean,23.24
+Victoria,Female,12-14,2021,k10_mean,24.34
+Victoria,Female,12-14,2022,k10_mean,23.35
+Victoria,Female,12-14,2023,k10_mean,22.62
+Victoria,Female,12-14,2024,k10_mean,23.47
+Victoria,Female,15-17,2019,k10_mean,25.61
+Victoria,Female,15-17,2020,k10_mean,24.9
+Victoria,Female,15-17,2021,k10_mean,27.88
+Victoria,Female,15-17,2022,k10_mean,24.97
+Victoria,Female,15-17,2023,k10_mean,22.61
+Victoria,Female,15-17,2024,k10_mean,22.27
+Victoria,Female,18-21,2019,k10_mean,25.67
+Victoria,Female,18-21,2020,k10_mean,26.22
+Victoria,Female,18-21,2021,k10_mean,26.86
+Victoria,Female,18-21,2022,k10_mean,23.76
+Victoria,Female,18-21,2023,k10_mean,26.82
+Victoria,Female,18-21,2024,k10_mean,29.42
+Victoria,Female,22-24,2019,k10_mean,27.04
+Victoria,Female,22-24,2020,k10_mean,26.74
+Victoria,Female,22-24,2021,k10_mean,25.59
+Victoria,Female,22-24,2022,k10_mean,27.85
+Victoria,Female,22-24,2023,k10_mean,23.0
+Victoria,Female,22-24,2024,k10_mean,27.2
+Queensland,Male,5-11 (Primary),2019,k10_mean,19.97
+Queensland,Male,5-11 (Primary),2020,k10_mean,18.45
+Queensland,Male,5-11 (Primary),2021,k10_mean,18.96
+Queensland,Male,5-11 (Primary),2022,k10_mean,17.41
+Queensland,Male,5-11 (Primary),2023,k10_mean,16.75
+Queensland,Male,5-11 (Primary),2024,k10_mean,18.25
+Queensland,Male,12-14,2019,k10_mean,20.18
+Queensland,Male,12-14,2020,k10_mean,21.1
+Queensland,Male,12-14,2021,k10_mean,20.22
+Queensland,Male,12-14,2022,k10_mean,22.96
+Queensland,Male,12-14,2023,k10_mean,19.21
+Queensland,Male,12-14,2024,k10_mean,22.63
+Queensland,Male,15-17,2019,k10_mean,24.26
+Queensland,Male,15-17,2020,k10_mean,22.39
+Queensland,Male,15-17,2021,k10_mean,26.17
+Queensland,Male,15-17,2022,k10_mean,24.31
+Queensland,Male,15-17,2023,k10_mean,21.68
+Queensland,Male,15-17,2024,k10_mean,26.11
+Queensland,Male,18-21,2019,k10_mean,24.11
+Queensland,Male,18-21,2020,k10_mean,25.94
+Queensland,Male,18-21,2021,k10_mean,26.59
+Queensland,Male,18-21,2022,k10_mean,26.99
+Queensland,Male,18-21,2023,k10_mean,26.83
+Queensland,Male,18-21,2024,k10_mean,27.53
+Queensland,Male,22-24,2019,k10_mean,26.09
+Queensland,Male,22-24,2020,k10_mean,22.67
+Queensland,Male,22-24,2021,k10_mean,24.84
+Queensland,Male,22-24,2022,k10_mean,24.46
+Queensland,Male,22-24,2023,k10_mean,22.34
+Queensland,Male,22-24,2024,k10_mean,24.11
+Queensland,Female,5-11 (Primary),2019,k10_mean,21.33
+Queensland,Female,5-11 (Primary),2020,k10_mean,19.73
+Queensland,Female,5-11 (Primary),2021,k10_mean,19.48
+Queensland,Female,5-11 (Primary),2022,k10_mean,19.89
+Queensland,Female,5-11 (Primary),2023,k10_mean,20.31
+Queensland,Female,5-11 (Primary),2024,k10_mean,21.27
+Queensland,Female,12-14,2019,k10_mean,23.87
+Queensland,Female,12-14,2020,k10_mean,20.89
+Queensland,Female,12-14,2021,k10_mean,20.75
+Queensland,Female,12-14,2022,k10_mean,21.03
+Queensland,Female,12-14,2023,k10_mean,23.93
+Queensland,Female,12-14,2024,k10_mean,24.11
+Queensland,Female,15-17,2019,k10_mean,24.05
+Queensland,Female,15-17,2020,k10_mean,27.0
+Queensland,Female,15-17,2021,k10_mean,25.27
+Queensland,Female,15-17,2022,k10_mean,27.75
+Queensland,Female,15-17,2023,k10_mean,25.42
+Queensland,Female,15-17,2024,k10_mean,27.42
+Queensland,Female,18-21,2019,k10_mean,26.85
+Queensland,Female,18-21,2020,k10_mean,25.54
+Queensland,Female,18-21,2021,k10_mean,28.72
+Queensland,Female,18-21,2022,k10_mean,25.47
+Queensland,Female,18-21,2023,k10_mean,28.34
+Queensland,Female,18-21,2024,k10_mean,26.7
+Queensland,Female,22-24,2019,k10_mean,24.42
+Queensland,Female,22-24,2020,k10_mean,25.35
+Queensland,Female,22-24,2021,k10_mean,27.99
+Queensland,Female,22-24,2022,k10_mean,24.26
+Queensland,Female,22-24,2023,k10_mean,22.97
+Queensland,Female,22-24,2024,k10_mean,27.97
+South Australia,Male,5-11 (Primary),2019,k10_mean,17.26
+South Australia,Male,5-11 (Primary),2020,k10_mean,17.77
+South Australia,Male,5-11 (Primary),2021,k10_mean,18.91
+South Australia,Male,5-11 (Primary),2022,k10_mean,20.28
+South Australia,Male,5-11 (Primary),2023,k10_mean,21.18
+South Australia,Male,5-11 (Primary),2024,k10_mean,17.57
+South Australia,Male,12-14,2019,k10_mean,19.65
+South Australia,Male,12-14,2020,k10_mean,23.5
+South Australia,Male,12-14,2021,k10_mean,21.32
+South Australia,Male,12-14,2022,k10_mean,22.82
+South Australia,Male,12-14,2023,k10_mean,20.32
+South Australia,Male,12-14,2024,k10_mean,19.94
+South Australia,Male,15-17,2019,k10_mean,26.16
+South Australia,Male,15-17,2020,k10_mean,22.31
+South Australia,Male,15-17,2021,k10_mean,22.65
+South Australia,Male,15-17,2022,k10_mean,23.24
+South Australia,Male,15-17,2023,k10_mean,23.05
+South Australia,Male,15-17,2024,k10_mean,22.08
+South Australia,Male,18-21,2019,k10_mean,24.21
+South Australia,Male,18-21,2020,k10_mean,23.5
+South Australia,Male,18-21,2021,k10_mean,25.7
+South Australia,Male,18-21,2022,k10_mean,26.69
+South Australia,Male,18-21,2023,k10_mean,25.6
+South Australia,Male,18-21,2024,k10_mean,22.87
+South Australia,Male,22-24,2019,k10_mean,25.03
+South Australia,Male,22-24,2020,k10_mean,25.75
+South Australia,Male,22-24,2021,k10_mean,22.6
+South Australia,Male,22-24,2022,k10_mean,24.41
+South Australia,Male,22-24,2023,k10_mean,27.27
+South Australia,Male,22-24,2024,k10_mean,26.42
+South Australia,Female,5-11 (Primary),2019,k10_mean,19.79
+South Australia,Female,5-11 (Primary),2020,k10_mean,18.84
+South Australia,Female,5-11 (Primary),2021,k10_mean,18.37
+South Australia,Female,5-11 (Primary),2022,k10_mean,17.82
+South Australia,Female,5-11 (Primary),2023,k10_mean,18.73
+South Australia,Female,5-11 (Primary),2024,k10_mean,19.94
+South Australia,Female,12-14,2019,k10_mean,21.99
+South Australia,Female,12-14,2020,k10_mean,20.27
+South Australia,Female,12-14,2021,k10_mean,21.76
+South Australia,Female,12-14,2022,k10_mean,21.69
+South Australia,Female,12-14,2023,k10_mean,23.63
+South Australia,Female,12-14,2024,k10_mean,24.22
+South Australia,Female,15-17,2019,k10_mean,27.74
+South Australia,Female,15-17,2020,k10_mean,24.92
+South Australia,Female,15-17,2021,k10_mean,27.11
+South Australia,Female,15-17,2022,k10_mean,25.72
+South Australia,Female,15-17,2023,k10_mean,22.61
+South Australia,Female,15-17,2024,k10_mean,22.44
+South Australia,Female,18-21,2019,k10_mean,27.17
+South Australia,Female,18-21,2020,k10_mean,27.66
+South Australia,Female,18-21,2021,k10_mean,27.46
+South Australia,Female,18-21,2022,k10_mean,26.4
+South Australia,Female,18-21,2023,k10_mean,27.09
+South Australia,Female,18-21,2024,k10_mean,27.54
+South Australia,Female,22-24,2019,k10_mean,26.75
+South Australia,Female,22-24,2020,k10_mean,23.32
+South Australia,Female,22-24,2021,k10_mean,25.35
+South Australia,Female,22-24,2022,k10_mean,24.47
+South Australia,Female,22-24,2023,k10_mean,25.4
+South Australia,Female,22-24,2024,k10_mean,24.85
+Western Australia,Male,5-11 (Primary),2019,k10_mean,17.05
+Western Australia,Male,5-11 (Primary),2020,k10_mean,20.32
+Western Australia,Male,5-11 (Primary),2021,k10_mean,19.1
+Western Australia,Male,5-11 (Primary),2022,k10_mean,20.71
+Western Australia,Male,5-11 (Primary),2023,k10_mean,16.92
+Western Australia,Male,5-11 (Primary),2024,k10_mean,17.16
+Western Australia,Male,12-14,2019,k10_mean,19.12
+Western Australia,Male,12-14,2020,k10_mean,22.87
+Western Australia,Male,12-14,2021,k10_mean,21.03
+Western Australia,Male,12-14,2022,k10_mean,22.26
+Western Australia,Male,12-14,2023,k10_mean,18.87
+Western Australia,Male,12-14,2024,k10_mean,22.24
+Western Australia,Male,15-17,2019,k10_mean,21.57
+Western Australia,Male,15-17,2020,k10_mean,26.36
+Western Australia,Male,15-17,2021,k10_mean,24.07
+Western Australia,Male,15-17,2022,k10_mean,26.65
+Western Australia,Male,15-17,2023,k10_mean,24.78
+Western Australia,Male,15-17,2024,k10_mean,24.59
+Western Australia,Male,18-21,2019,k10_mean,23.46
+Western Australia,Male,18-21,2020,k10_mean,26.31
+Western Australia,Male,18-21,2021,k10_mean,27.05
+Western Australia,Male,18-21,2022,k10_mean,26.18
+Western Australia,Male,18-21,2023,k10_mean,26.66
+Western Australia,Male,18-21,2024,k10_mean,27.85
+Western Australia,Male,22-24,2019,k10_mean,25.66
+Western Australia,Male,22-24,2020,k10_mean,25.34
+Western Australia,Male,22-24,2021,k10_mean,24.66
+Western Australia,Male,22-24,2022,k10_mean,24.24
+Western Australia,Male,22-24,2023,k10_mean,25.75
+Western Australia,Male,22-24,2024,k10_mean,26.43
+Western Australia,Female,5-11 (Primary),2019,k10_mean,21.1
+Western Australia,Female,5-11 (Primary),2020,k10_mean,18.08
+Western Australia,Female,5-11 (Primary),2021,k10_mean,18.83
+Western Australia,Female,5-11 (Primary),2022,k10_mean,20.55
+Western Australia,Female,5-11 (Primary),2023,k10_mean,20.32
+Western Australia,Female,5-11 (Primary),2024,k10_mean,22.0
+Western Australia,Female,12-14,2019,k10_mean,24.55
+Western Australia,Female,12-14,2020,k10_mean,24.09
+Western Australia,Female,12-14,2021,k10_mean,22.56
+Western Australia,Female,12-14,2022,k10_mean,23.16
+Western Australia,Female,12-14,2023,k10_mean,23.84
+Western Australia,Female,12-14,2024,k10_mean,20.13
+Western Australia,Female,15-17,2019,k10_mean,23.88
+Western Australia,Female,15-17,2020,k10_mean,22.15
+Western Australia,Female,15-17,2021,k10_mean,25.74
+Western Australia,Female,15-17,2022,k10_mean,27.52
+Western Australia,Female,15-17,2023,k10_mean,22.03
+Western Australia,Female,15-17,2024,k10_mean,22.76
+Western Australia,Female,18-21,2019,k10_mean,24.59
+Western Australia,Female,18-21,2020,k10_mean,28.28
+Western Australia,Female,18-21,2021,k10_mean,25.67
+Western Australia,Female,18-21,2022,k10_mean,24.58
+Western Australia,Female,18-21,2023,k10_mean,25.69
+Western Australia,Female,18-21,2024,k10_mean,24.95
+Western Australia,Female,22-24,2019,k10_mean,23.97
+Western Australia,Female,22-24,2020,k10_mean,25.9
+Western Australia,Female,22-24,2021,k10_mean,26.54
+Western Australia,Female,22-24,2022,k10_mean,23.97
+Western Australia,Female,22-24,2023,k10_mean,25.81
+Western Australia,Female,22-24,2024,k10_mean,22.62
+Tasmania,Male,5-11 (Primary),2019,k10_mean,21.15
+Tasmania,Male,5-11 (Primary),2020,k10_mean,17.19
+Tasmania,Male,5-11 (Primary),2021,k10_mean,19.27
+Tasmania,Male,5-11 (Primary),2022,k10_mean,21.27
+Tasmania,Male,5-11 (Primary),2023,k10_mean,18.19
+Tasmania,Male,5-11 (Primary),2024,k10_mean,18.03
+Tasmania,Male,12-14,2019,k10_mean,22.2
+Tasmania,Male,12-14,2020,k10_mean,20.83
+Tasmania,Male,12-14,2021,k10_mean,19.82
+Tasmania,Male,12-14,2022,k10_mean,21.37
+Tasmania,Male,12-14,2023,k10_mean,22.65
+Tasmania,Male,12-14,2024,k10_mean,21.85
+Tasmania,Male,15-17,2019,k10_mean,22.5
+Tasmania,Male,15-17,2020,k10_mean,24.97
+Tasmania,Male,15-17,2021,k10_mean,26.48
+Tasmania,Male,15-17,2022,k10_mean,22.26
+Tasmania,Male,15-17,2023,k10_mean,24.87
+Tasmania,Male,15-17,2024,k10_mean,24.0
+Tasmania,Male,18-21,2019,k10_mean,26.5
+Tasmania,Male,18-21,2020,k10_mean,23.28
+Tasmania,Male,18-21,2021,k10_mean,23.87
+Tasmania,Male,18-21,2022,k10_mean,24.57
+Tasmania,Male,18-21,2023,k10_mean,27.58
+Tasmania,Male,18-21,2024,k10_mean,24.79
+Tasmania,Male,22-24,2019,k10_mean,23.54
+Tasmania,Male,22-24,2020,k10_mean,25.92
+Tasmania,Male,22-24,2021,k10_mean,22.38
+Tasmania,Male,22-24,2022,k10_mean,23.44
+Tasmania,Male,22-24,2023,k10_mean,24.8
+Tasmania,Male,22-24,2024,k10_mean,23.6
+Tasmania,Female,5-11 (Primary),2019,k10_mean,20.47
+Tasmania,Female,5-11 (Primary),2020,k10_mean,20.49
+Tasmania,Female,5-11 (Primary),2021,k10_mean,18.28
+Tasmania,Female,5-11 (Primary),2022,k10_mean,18.24
+Tasmania,Female,5-11 (Primary),2023,k10_mean,21.36
+Tasmania,Female,5-11 (Primary),2024,k10_mean,19.6
+Tasmania,Female,12-14,2019,k10_mean,20.15
+Tasmania,Female,12-14,2020,k10_mean,19.76
+Tasmania,Female,12-14,2021,k10_mean,21.57
+Tasmania,Female,12-14,2022,k10_mean,23.81
+Tasmania,Female,12-14,2023,k10_mean,20.44
+Tasmania,Female,12-14,2024,k10_mean,24.61
+Tasmania,Female,15-17,2019,k10_mean,22.13
+Tasmania,Female,15-17,2020,k10_mean,25.56
+Tasmania,Female,15-17,2021,k10_mean,26.19
+Tasmania,Female,15-17,2022,k10_mean,25.19
+Tasmania,Female,15-17,2023,k10_mean,23.55
+Tasmania,Female,15-17,2024,k10_mean,23.9
+Tasmania,Female,18-21,2019,k10_mean,26.84
+Tasmania,Female,18-21,2020,k10_mean,29.01
+Tasmania,Female,18-21,2021,k10_mean,25.99
+Tasmania,Female,18-21,2022,k10_mean,25.51
+Tasmania,Female,18-21,2023,k10_mean,25.87
+Tasmania,Female,18-21,2024,k10_mean,29.68
+Tasmania,Female,22-24,2019,k10_mean,24.07
+Tasmania,Female,22-24,2020,k10_mean,23.49
+Tasmania,Female,22-24,2021,k10_mean,27.9
+Tasmania,Female,22-24,2022,k10_mean,23.21
+Tasmania,Female,22-24,2023,k10_mean,27.58
+Tasmania,Female,22-24,2024,k10_mean,26.27
+Northern Territory,Male,5-11 (Primary),2019,k10_mean,21.09
+Northern Territory,Male,5-11 (Primary),2020,k10_mean,18.17
+Northern Territory,Male,5-11 (Primary),2021,k10_mean,20.62
+Northern Territory,Male,5-11 (Primary),2022,k10_mean,17.12
+Northern Territory,Male,5-11 (Primary),2023,k10_mean,20.29
+Northern Territory,Male,5-11 (Primary),2024,k10_mean,18.21
+Northern Territory,Male,12-14,2019,k10_mean,20.8
+Northern Territory,Male,12-14,2020,k10_mean,22.5
+Northern Territory,Male,12-14,2021,k10_mean,21.68
+Northern Territory,Male,12-14,2022,k10_mean,20.79
+Northern Territory,Male,12-14,2023,k10_mean,19.95
+Northern Territory,Male,12-14,2024,k10_mean,22.29
+Northern Territory,Male,15-17,2019,k10_mean,23.8
+Northern Territory,Male,15-17,2020,k10_mean,22.53
+Northern Territory,Male,15-17,2021,k10_mean,23.38
+Northern Territory,Male,15-17,2022,k10_mean,25.7
+Northern Territory,Male,15-17,2023,k10_mean,21.46
+Northern Territory,Male,15-17,2024,k10_mean,22.98
+Northern Territory,Male,18-21,2019,k10_mean,26.89
+Northern Territory,Male,18-21,2020,k10_mean,26.19
+Northern Territory,Male,18-21,2021,k10_mean,25.13
+Northern Territory,Male,18-21,2022,k10_mean,23.39
+Northern Territory,Male,18-21,2023,k10_mean,22.73
+Northern Territory,Male,18-21,2024,k10_mean,24.89
+Northern Territory,Male,22-24,2019,k10_mean,25.61
+Northern Territory,Male,22-24,2020,k10_mean,23.14
+Northern Territory,Male,22-24,2021,k10_mean,26.86
+Northern Territory,Male,22-24,2022,k10_mean,25.2
+Northern Territory,Male,22-24,2023,k10_mean,24.24
+Northern Territory,Male,22-24,2024,k10_mean,26.0
+Northern Territory,Female,5-11 (Primary),2019,k10_mean,19.04
+Northern Territory,Female,5-11 (Primary),2020,k10_mean,21.89
+Northern Territory,Female,5-11 (Primary),2021,k10_mean,19.36
+Northern Territory,Female,5-11 (Primary),2022,k10_mean,17.63
+Northern Territory,Female,5-11 (Primary),2023,k10_mean,22.3
+Northern Territory,Female,5-11 (Primary),2024,k10_mean,19.98
+Northern Territory,Female,12-14,2019,k10_mean,24.13
+Northern Territory,Female,12-14,2020,k10_mean,19.94
+Northern Territory,Female,12-14,2021,k10_mean,20.42
+Northern Territory,Female,12-14,2022,k10_mean,21.91
+Northern Territory,Female,12-14,2023,k10_mean,24.09
+Northern Territory,Female,12-14,2024,k10_mean,19.85
+Northern Territory,Female,15-17,2019,k10_mean,25.23
+Northern Territory,Female,15-17,2020,k10_mean,26.55
+Northern Territory,Female,15-17,2021,k10_mean,24.34
+Northern Territory,Female,15-17,2022,k10_mean,24.67
+Northern Territory,Female,15-17,2023,k10_mean,27.6
+Northern Territory,Female,15-17,2024,k10_mean,25.22
+Northern Territory,Female,18-21,2019,k10_mean,27.71
+Northern Territory,Female,18-21,2020,k10_mean,27.6
+Northern Territory,Female,18-21,2021,k10_mean,29.03
+Northern Territory,Female,18-21,2022,k10_mean,25.49
+Northern Territory,Female,18-21,2023,k10_mean,26.8
+Northern Territory,Female,18-21,2024,k10_mean,24.68
+Northern Territory,Female,22-24,2019,k10_mean,24.48
+Northern Territory,Female,22-24,2020,k10_mean,27.47
+Northern Territory,Female,22-24,2021,k10_mean,28.34
+Northern Territory,Female,22-24,2022,k10_mean,24.45
+Northern Territory,Female,22-24,2023,k10_mean,27.1
+Northern Territory,Female,22-24,2024,k10_mean,25.73
+Australian Capital Territory,Male,5-11 (Primary),2019,k10_mean,19.88
+Australian Capital Territory,Male,5-11 (Primary),2020,k10_mean,18.39
+Australian Capital Territory,Male,5-11 (Primary),2021,k10_mean,18.33
+Australian Capital Territory,Male,5-11 (Primary),2022,k10_mean,17.66
+Australian Capital Territory,Male,5-11 (Primary),2023,k10_mean,19.01
+Australian Capital Territory,Male,5-11 (Primary),2024,k10_mean,16.97
+Australian Capital Territory,Male,12-14,2019,k10_mean,22.82
+Australian Capital Territory,Male,12-14,2020,k10_mean,19.71
+Australian Capital Territory,Male,12-14,2021,k10_mean,21.67
+Australian Capital Territory,Male,12-14,2022,k10_mean,21.03
+Australian Capital Territory,Male,12-14,2023,k10_mean,20.23
+Australian Capital Territory,Male,12-14,2024,k10_mean,23.24
+Australian Capital Territory,Male,15-17,2019,k10_mean,26.01
+Australian Capital Territory,Male,15-17,2020,k10_mean,25.36
+Australian Capital Territory,Male,15-17,2021,k10_mean,21.8
+Australian Capital Territory,Male,15-17,2022,k10_mean,23.78
+Australian Capital Territory,Male,15-17,2023,k10_mean,24.87
+Australian Capital Territory,Male,15-17,2024,k10_mean,21.67
+Australian Capital Territory,Male,18-21,2019,k10_mean,26.7
+Australian Capital Territory,Male,18-21,2020,k10_mean,27.44
+Australian Capital Territory,Male,18-21,2021,k10_mean,28.25
+Australian Capital Territory,Male,18-21,2022,k10_mean,25.51
+Australian Capital Territory,Male,18-21,2023,k10_mean,22.62
+Australian Capital Territory,Male,18-21,2024,k10_mean,23.71
+Australian Capital Territory,Male,22-24,2019,k10_mean,26.29
+Australian Capital Territory,Male,22-24,2020,k10_mean,22.43
+Australian Capital Territory,Male,22-24,2021,k10_mean,25.22
+Australian Capital Territory,Male,22-24,2022,k10_mean,25.4
+Australian Capital Territory,Male,22-24,2023,k10_mean,24.17
+Australian Capital Territory,Male,22-24,2024,k10_mean,26.18
+Australian Capital Territory,Female,5-11 (Primary),2019,k10_mean,18.19
+Australian Capital Territory,Female,5-11 (Primary),2020,k10_mean,20.58
+Australian Capital Territory,Female,5-11 (Primary),2021,k10_mean,19.43
+Australian Capital Territory,Female,5-11 (Primary),2022,k10_mean,21.72
+Australian Capital Territory,Female,5-11 (Primary),2023,k10_mean,19.5
+Australian Capital Territory,Female,5-11 (Primary),2024,k10_mean,18.51
+Australian Capital Territory,Female,12-14,2019,k10_mean,21.18
+Australian Capital Territory,Female,12-14,2020,k10_mean,22.13
+Australian Capital Territory,Female,12-14,2021,k10_mean,19.78
+Australian Capital Territory,Female,12-14,2022,k10_mean,23.92
+Australian Capital Territory,Female,12-14,2023,k10_mean,22.8
+Australian Capital Territory,Female,12-14,2024,k10_mean,21.01
+Australian Capital Territory,Female,15-17,2019,k10_mean,25.65
+Australian Capital Territory,Female,15-17,2020,k10_mean,27.9
+Australian Capital Territory,Female,15-17,2021,k10_mean,25.62
+Australian Capital Territory,Female,15-17,2022,k10_mean,24.44
+Australian Capital Territory,Female,15-17,2023,k10_mean,26.09
+Australian Capital Territory,Female,15-17,2024,k10_mean,26.54
+Australian Capital Territory,Female,18-21,2019,k10_mean,27.69
+Australian Capital Territory,Female,18-21,2020,k10_mean,24.66
+Australian Capital Territory,Female,18-21,2021,k10_mean,23.45
+Australian Capital Territory,Female,18-21,2022,k10_mean,25.34
+Australian Capital Territory,Female,18-21,2023,k10_mean,26.08
+Australian Capital Territory,Female,18-21,2024,k10_mean,28.61
+Australian Capital Territory,Female,22-24,2019,k10_mean,22.98
+Australian Capital Territory,Female,22-24,2020,k10_mean,27.6
+Australian Capital Territory,Female,22-24,2021,k10_mean,22.8
+Australian Capital Territory,Female,22-24,2022,k10_mean,24.36
+Australian Capital Territory,Female,22-24,2023,k10_mean,24.91
+Australian Capital Territory,Female,22-24,2024,k10_mean,28.14
